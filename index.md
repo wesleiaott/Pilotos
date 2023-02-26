@@ -16,16 +16,9 @@ PEC - VERSÃO PARA PILOTOS
 MANUAL DE USO
 {: .fs-8 }
 {: .text-center }
-<br>
-<br>
 (versão 5.0)
 {: .fs-6 }
 {: .text-center }
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
