@@ -1,7 +1,7 @@
 ---
 layout: default
-title: e-SUS Vacinação
-nav_order: 0
+title: Teste Alfa e Beta
+nav_order: 8
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/CDS
