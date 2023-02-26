@@ -3,9 +3,9 @@ title: "Estratégia e-SUS APS"
 # Descrição da página
 description: "Manual do e-SUS APS"
 # o subcaminho de seu site, por exemplo /blog
-baseurl: "/Manual-eSUS-APS"
+baseurl: "#"
 # o nome do host e protocolo base para seu site, por exemplo, http://example.com
-url: "#"
+url: "https://cgiap-saps.github.io"
 #
 permalink: pretty
 #
