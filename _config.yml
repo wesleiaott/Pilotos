@@ -1,9 +1,9 @@
 # Título da página
-title: "Estratégia e-SUS APS"
+title: "Pilotos"
 # Descrição da página
 description: "Manual do e-SUS APS"
 # o subcaminho de seu site, por exemplo /blog
-baseurl: "#"
+baseurl: "/Pilotos"
 # o nome do host e protocolo base para seu site, por exemplo, http://example.com
 url: "https://cgiap-saps.github.io"
 #
