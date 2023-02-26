@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coleta de Dados Simplificada v3.2
+title: CDS v3.2
 nav_order: 3
 has_children: true
 description: "Manual e-SUS APS"
