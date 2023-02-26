@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Novos Pilotos
-nav_order: 2
+title: Prontuário Eletrônico v.5.0
+nav_order: 9
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/PEC
