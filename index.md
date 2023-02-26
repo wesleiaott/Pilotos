@@ -10,16 +10,6 @@ permalink: /
 ![](media/logoesus_new.png)
 <br>
 <br>
-PEC - VERSÃO PARA PILOTOS
-{: .fs-8 }
-{: .text-center }
-MANUAL DE USO
-{: .fs-8 }
-{: .text-center }
-(versão 5.0)
-{: .fs-6 }
-{: .text-center }
-<br>
 <br>
 <br>
 <br>
