@@ -4,7 +4,7 @@ title: Manual e-SUS APS
 nav_order: 1
 has_children: false
 description: "Manual e-SUS APS"
-permalink: target_blank
+permalink: /
 ---
 
 e-SUS Atenção Primária à Saúde (e-SUS APS)
