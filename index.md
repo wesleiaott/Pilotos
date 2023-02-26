@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Manual e-SUS APS PEC
+title: Manual e-SUS APS
 nav_order: 1
 has_children: false
 description: "Manual e-SUS APS"
-permalink: /
+permalink: target_blank
 ---
 
 e-SUS Atenção Primária à Saúde (e-SUS APS)
@@ -13,7 +13,7 @@ e-SUS Atenção Primária à Saúde (e-SUS APS)
 {: .text-center }
 <br>
 <br>
-PEC - Versão para Pilotos
+PEC - VERSÃO PARA PILOTOS
 {: .fs-8 }
 {: .text-center }
 MANUAL DE USO
@@ -21,7 +21,7 @@ MANUAL DE USO
 {: .text-center }
 <br>
 <br>
-(versão 5.1)
+(versão 5.0)
 {: .fs-6 }
 {: .text-center }
 <br>
