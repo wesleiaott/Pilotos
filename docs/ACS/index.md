@@ -1,6 +1,6 @@
 ---
 layout: default
-title: e-SUS Território
+title: e-SUS Atividade Coletiva
 nav_order: 6
 has_children: true
 description: "Manual e-SUS APS"

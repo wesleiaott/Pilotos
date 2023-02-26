@@ -1,6 +1,6 @@
 ---
 layout: default
-title: e-SUS Território
+title: Gestão e-SUS APS
 nav_order: 5
 has_children: true
 description: "Manual e-SUS APS"

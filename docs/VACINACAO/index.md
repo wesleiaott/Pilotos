@@ -1,6 +1,6 @@
 ---
 layout: default
-title: e-SUS Território
+title: e-SUS Vacinação
 nav_order: 7
 has_children: true
 description: "Manual e-SUS APS"
