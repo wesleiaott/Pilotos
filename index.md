@@ -7,7 +7,7 @@ description: "Manual e-SUS APS"
 permalink: /
 ---
 
-![](media/logoesusaps.png)
+![](media/logoesus_novo.jpg)
 <br>
 <br>
 PEC - VERSÃO PARA PILOTOS
