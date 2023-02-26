@@ -7,10 +7,7 @@ description: "Manual e-SUS APS"
 permalink: /
 ---
 
-e-SUS Atenção Primária à Saúde (e-SUS APS)
-{: .fs-10 }
-{: .fw-700 }
-{: .text-center }
+![](media/pec_image306.png)
 <br>
 <br>
 PEC - VERSÃO PARA PILOTOS
