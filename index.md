@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Manual e-SUS APS
+title: Manual e-SUS APS PEC
 nav_order: 1
 has_children: false
-description: "Manual e-SUS APS PEC"
+description: "Manual e-SUS APS"
 permalink: /
 ---
 
