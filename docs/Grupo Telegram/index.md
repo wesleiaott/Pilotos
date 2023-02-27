@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Como Implantar
-nav_order: 14
+title: Grupo Telegram
+nav_order: 15
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/CDS
