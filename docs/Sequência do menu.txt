@@ -5,6 +5,7 @@
 4- Teste Alfa e Beta
 5- Como Implantar
 6- Suporte Assistido
+6.1 - Transparência
 7- Grupo Telegram
 
 8- Prontuário Eletrônico (PEC)
