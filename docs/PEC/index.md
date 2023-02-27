@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Novos Pilotos
-nav_order: 2
+nav_order: 8
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/PEC

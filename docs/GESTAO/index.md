@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gestão e-SUS APS
-nav_order: 5
+nav_order: 9
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/CDS

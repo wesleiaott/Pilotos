@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CDS v3.2
-nav_order: 3
+title: e-SUS Atividade Coletiva
+nav_order: 12
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/CDS

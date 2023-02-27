@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Suporte Assistido
-nav_order: 12
+nav_order: 6
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/CDS

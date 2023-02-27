@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Grupo Telegram
-nav_order: 15
+nav_order: 7
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/CDS

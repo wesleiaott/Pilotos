@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prontuário Eletrônico v.5.0
-nav_order: 9
+nav_order: 2
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/PEC

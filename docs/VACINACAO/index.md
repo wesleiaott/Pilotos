@@ -1,7 +1,7 @@
 ---
 layout: default
 title: e-SUS Vacinação
-nav_order: 7
+nav_order: 10
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/CDS

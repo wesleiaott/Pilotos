@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluxo Homologação
-nav_order: 10
+nav_order: 3
 has_children: true
 description: "Manual e-SUS APS"
 permalink: /docs/CDS
