@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pontos de Controle
+title: Ponto de Controle
 nav_order: 3.1
 has_children: true
 description: "Manual e-SUS APS"

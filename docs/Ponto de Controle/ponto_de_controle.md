@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pontos de Controle
+title: Ponto de Controle
 parent: Prontuário Eletrônico do Cidadão v5.0
 nav_order: 3.1
 has_children: false
