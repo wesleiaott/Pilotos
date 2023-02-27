@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gestão e-SUS APS PEC
+title: Gestão e-SUS APS
 nav_order: 9
 has_children: true
 description: "Manual e-SUS APS"
