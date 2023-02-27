@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prontuário Eletrônico v.5.0
+title: Novos Pilotos
 nav_order: 2
 has_children: true
 description: "Manual e-SUS APS"
