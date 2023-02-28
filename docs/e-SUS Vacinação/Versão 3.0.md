@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  e-SUS Vacinação
-parent:  Prontuário Eletrônico
+title:  Versão 3.0
+parent:  e-SUS Vacinação
 nav_order: 5
 has_children: false
 has_toc: true
