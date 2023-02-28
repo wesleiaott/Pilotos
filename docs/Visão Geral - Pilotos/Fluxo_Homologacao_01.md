@@ -16,6 +16,6 @@ O fluxo de processos abaixo, indicam todo o processo de homologação das versõ
 
 <br>
 
-![fluxo](/media/new_fluxo.PNG)
+![](/media/new_fluxo.PNG)
 
 
