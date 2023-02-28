@@ -13,14 +13,11 @@ last_modified_date: "27/02/2023"
 <br/>
 <br/>
 Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripartite de sistemas de informação utilizados por municípios e estados, e dispõe sobre as regras para implantação de novos aplicativos, sistemas de informação em saúde ou novas versões de sistemas e aplicativos já existentes no âmbito do Sistema Único de Saúde (SUS) e que envolvem a sua utilização pelo Ministério da Saúde e Secretarias Estaduais, do Distrito Federal e Municípios de Saúde:
-<br/>
 
 <br/>
 <br/>
 
 >Art. 3º A validação e a homologação dos sistemas e aplicativos de que trata esta Resolução serão realizados por equipe técnica composta por representantes indicados pelo Ministério da Saúde, Conselho Nacional de Secretários de Saúde (CONASS) e Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS).
-
-</br>
 
 <hr>
 
