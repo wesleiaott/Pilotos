@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Novos Pilotos
-parent: Prontuário Eletrônico do Cidadão v5.0
+parent:  Visão Geral - Pilotos
 nav_order: 2
 has_children: false
 has_toc: true
