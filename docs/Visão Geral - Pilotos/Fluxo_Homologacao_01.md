@@ -14,8 +14,6 @@ last_modified_date: "05/07/2021"
 
 O fluxo de processos abaixo, indicam todo o processo de homologação das versões que compõe a Estratégia e-SUS APS, até o momento em que ocorre a liberação no site do Portal da Atenção Primária (APS):
 
-<br>
-
 ![fluxo](./media/new_fluxo.PNG)
 
 
