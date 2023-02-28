@@ -16,6 +16,6 @@ O fluxo de processos abaixo, indicam todo o processo de homologação das versõ
 
 <br>
 
-![fluxo](/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/new_fluxo.PNG)
+![fluxo](new_fluxo.PNG)
 
 
