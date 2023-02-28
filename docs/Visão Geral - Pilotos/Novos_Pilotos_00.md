@@ -5,13 +5,13 @@ parent:  Visão Geral - Pilotos
 nav_order: 2
 has_children: false
 has_toc: true
-last_modified_date: "27/02/2023"
+last_modified_date: "28/02/2023"
 ---
 
 # Novos Pilotos - Estratégia e-SUS APS
 
-<br/>
-<br/>
+<br>
+
 Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripartite de sistemas de informação utilizados por municípios e estados, e dispõe sobre as regras para implantação de novos aplicativos, sistemas de informação em saúde ou novas versões de sistemas e aplicativos já existentes no âmbito do Sistema Único de Saúde (SUS) e que envolvem a sua utilização pelo Ministério da Saúde e Secretarias Estaduais, do Distrito Federal e Municípios de Saúde:
 
 <br>

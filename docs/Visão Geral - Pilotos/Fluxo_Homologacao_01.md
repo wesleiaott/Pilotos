@@ -8,8 +8,12 @@ has_toc: true
 last_modified_date: "05/07/2021"
 ---
 
-# CAPÍTULO 1 - Orientações Gerais sobre o Sistema
-{: .no_toc }
+# Fluxo de Homologação:
 
-Neste capítulo, abordaremos os conceitos e orientações iniciais para utilização do Sistema e-SUS APS com PEC.
+<br>
+
+O fluxo de processos abaixo, indicam todo o processo de homologação das versões que compõe a Estratégia e-SUS APS, até o momento em que ocorre a liberação no site do Portal da Atenção Primária (APS):
+
+![Fluxo_Pilotos](/media/fluxo.png)
+
 
