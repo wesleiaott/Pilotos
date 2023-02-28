@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Últimas Versões Liberadas
+title: Últimas Releases
 nav_order: 9
 has_children: true
 description: "Manual e-SUS APS"
