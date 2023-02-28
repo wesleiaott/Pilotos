@@ -5,12 +5,12 @@ parent:  Visão Geral - Pilotos
 nav_order: 4
 has_children: false
 has_toc: true
-last_modified_date: "05/07/2021"
+last_modified_date: "28/02/2023"
 ---
 
 # Teste Alfa e Beta:
 
-Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibilizados no Portal da Atenção Primária (APS) para ampla utilização, as soluções de software da Estratégia e-SUS APS são submetidas a várias baterias de teste que visam atestar a integridade do sistema e a ocorrência de eventuais anomalias que não foram identificadas nas etapais finais de concepção do sistema; dentre as modalidades de testes mais difundidas e amplamente empregadas, destacamos o teste alfa e beta de software, conforme texto abaixo:
+<p style="text-align:justify">Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibilizados no Portal da Atenção Primária (APS) para ampla utilização, as soluções de software da Estratégia e-SUS APS são submetidas a várias baterias de teste que visam atestar a integridade do sistema e a ocorrência de eventuais anomalias que não foram identificadas nas etapais finais de concepção do sistema; dentre as modalidades de testes mais difundidas e amplamente empregadas, destacamos o teste alfa e beta de software, conforme texto abaixo:</p>
 
 ![fluxo](./media/releases.PNG)
 
@@ -18,7 +18,7 @@ Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibi
 
 ## Teste Alfa:
 
-Alfa é um teste de disponibilidade limitada realizado antes que as versões sejam liberadas para uso mais difundido. O objetivo com o teste Alfa é verificar a funcionalidade e coletar feedback de um conjunto limitado de clientes; esta modalidade de teste de software também é executado para identificar bugs antes de lançar o produto para usuários reais ou para o público. É considerado um teste de aceitação de usuário.
+<p style="text-align:justify">Alfa é um teste de disponibilidade limitada realizado antes que as versões sejam liberadas para uso mais difundido. O objetivo com o teste Alfa é verificar a funcionalidade e coletar feedback de um conjunto limitado de clientes; esta modalidade de teste de software também é executado para identificar bugs antes de lançar o produto para usuários reais ou para o público. É considerado um teste de aceitação de usuário.
 
 ## Teste Beta:
 
@@ -35,5 +35,5 @@ As tarefas geralmente são realizadas na versão de homologação do sistema (qu
 * As tarefas propostas devem ser realizaads por profissionais que utilizam o sistema no seu dia a dia;
 * Os profissionais deverão simular a sua rotina de trabalho e os possíveis imprevistos que podem acontecer durante a utilização do sistema, a fim de avaliar se há algo a ser melhorado na nova funcionalidade.
 
-OBSERVAÇÃO: A avaliação deverá ser feita utilizando o formulário fornecido e deverá ser respondido até a data proposta. Em caso de dificuldades ou erros durante o preenchimento do formulário, orientamos encaminhar e-mail para **piloto.esusab@saude.gov.br** ou o relato deverá ser registrado no Grupo dos Pilotos no WhatsApp.
+**OBSERVAÇÃO:** A avaliação deverá ser feita utilizando o formulário fornecido e deverá ser respondido até a data proposta. Em caso de dificuldades ou erros durante o preenchimento do formulário, orientamos encaminhar e-mail para **piloto.esusab@saude.gov.br** ou o relato deverá ser registrado no Grupo dos Pilotos no WhatsApp.
 
