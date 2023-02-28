@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introdução
+title: Correções
 parent:  Prontuário Eletrônico
 nav_order: 4
 has_children: false

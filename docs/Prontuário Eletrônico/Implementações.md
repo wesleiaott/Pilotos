@@ -1,11 +1,10 @@
 ---
 layout: default
-title:  Prontuário Eletrônico
+title: Implementações
+parent:  Prontuário Eletrônico
 nav_order: 3
-nav_exclude: false
-has_children: true
-description: "Manual e-SUS APS"
-permalink: /docs
-last_modified_date: "07/02/2022"
+has_children: false
+has_toc: true
+last_modified_date: "07/01/2022"
 ---
 
