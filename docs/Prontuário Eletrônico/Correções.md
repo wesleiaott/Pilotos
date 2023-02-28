@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introdução
-parent: e-SUS Território v3.4
+parent:  Prontuário Eletrônico
 nav_order: 4
 has_children: false
 has_toc: true
