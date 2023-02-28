@@ -20,7 +20,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
 
 <hr>
 
-### **Indicações Conass:**
+#### **Indicações Conass:**
 
 <hr>
 
@@ -31,7 +31,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
 
 <hr>
 
-### **Indicações Conasems:**
+#### **Indicações Conasems:**
 
 <hr>
 
