@@ -24,13 +24,21 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
 
 <hr>
 
-**Indicações Conass:**
+### **Indicações Conass:**
 
 <hr>
 
-| **Estados:**       	| **Representantes:**                                                        	| **E-mail:**                                                                                         	|
-|--------------------	|----------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------	|
-| **Espírito Santo** 	| * Atila Rodrigue<br><br>* Luis Felipe Andrade<br><br>* Carolina Campagnoli 	| * atilaslamberti@saude.gov.br<br><br>* luisandrade@saude.es.gov.br<br><br>* carolperez.es@gmail.com 	|
-| **Mato Grosso**    	| * Rodrigo da Silva Gomes<br><br>* Christiane Cândido Duarte                	| * rodrigogomes@ses.mt.gov.br<br><br>* cristhianeduarte@gmail.com                                    	|
-| **Brasília**       	| * Nayara Valente de Souza<br><br>* Lídia Glasielle de Oliveira             	| * gepap.dics@saude.df.gov.br<br><br>* elbes.souza@saude.gov.br                                      	|
+| **Estados:**                                          	| **Representantes:**                                  	| **E-mail:**                                                                        	|
+|-------------------------------------------------------	|------------------------------------------------------	|------------------------------------------------------------------------------------	|
+| **Espírito Santo**<br>**Mato Grosso**<br>**Brasília** 	| Atila Rodrigues<br>Luis Andra<br>Carolina Campagnoli 	| atilaslamberti@saude.gov.br<br>luisandrade@saude.gov.br<br>carolperes.es@gmail.com 	|
 
+
+<hr>
+
+### **Indicações Conasems:**
+
+<hr>
+
+| **Municípios:**                                                                                                                                                                                                                             	| **Representantes:**                                                                                                                                                                      	| **E-mail:**                                                                                                                                                                                                                                                        	|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| **Londrina - PR**<br>**Juazeiro do Norte - CE**<br>**Doutor Severiano - RN**<br>**Coronel Fabriciano - MG**<br>**Pelotas - RS**<br>**Otacílio Costa - SC**<br>**Manaus - AM**<br>**Vila Velha - ES**<br>**Arujá - SP**<br>**Teresina - PI** 	| Anderson Rodrigues<br>Elton Ferreira<br>Francisco Lira<br>Luciana Soares<br>Rita Oliveira<br>Rodrigo Schauffert<br>Sanay Fonseca<br>Stanley Fonseca<br>Vanessa Otska<br>Clístenes  Faria 	| anderson.rodriguo@uel.br<br>eltoncleberton@hotmail.com<br>jacksonlira.rs@gmail.com<br>lucianacqs@hotmail.com<br>rita.olibeira@pelotas.rs.gov.br<br>rodsschauffert@gmail.com<br>sanay.pedrosa@pmm.am.gov.br<br><br>van.otsuka11@gmail.com<br>suporte.esus@gmail.com 	|
