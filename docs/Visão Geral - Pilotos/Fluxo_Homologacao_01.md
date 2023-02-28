@@ -23,9 +23,9 @@ Objetivando maximizar a compreensão sobre os processos que norteiam o processo 
 
 Uma vez identificado as necessidades pela área demandante (Ministério da Saúde, Municípios Pilotos, Conass, Conasems, Órgãos de Controle, Canal de Suporte, etc ), o recurso ou funcionalidade é discutido internamente pelas áreas técnicas e negociais do Ministério da Saúde e Parceiros da Estratégia (Pilotos, CONASS, CONASEMS), para posterior submissão da proposta à Equipe do Laboratório Bridge para construção técnica da solução de software que atenderá as necessidades, conformea proposição apresentada.
 
-Abaixo, segue o descritivo das principais etapas, após mapeamento da demanda:
+Abaixo, seguem o descritivo das principais etapas, após identificação da necessidade:
 
-1- **Bridge:** Construção, testagem e verificação da aderência da solução de software, conforme necessidade do demandante; <br>
+1- **Bridge:** <br>
 
     a. Receber demanda técnica;
     b. Discutir a implementação;
