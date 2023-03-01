@@ -13,14 +13,15 @@ last_modified_date: "05/07/2021"
     <head>
         <link rel="stylesheet" type="text/css" href="estilos.css">
     </head>
-    <!-- Última versão CSS compilada e minificada -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+   
 
-<!-- Tema opcional -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-<!-- Última versão JavaScript compilada e minificada -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+
 <body>
 
 
@@ -35,21 +36,49 @@ Para usufruto de tal facilidade o Município Piloto, após o recebimento do mate
 <br>
 
 <form>
-  <div class="form-group">
-    <label for="exampleInputEmail1">Endereço de email</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Seu email">
+
+  <div class="form-group">  
+    <label for="exampleInputEmail1">Solicitante</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nome completo">
     <small id="emailHelp" class="form-text text-muted">Nunca vamos compartilhar seu email, com ninguém.</small>
   </div>
+
   <div class="form-group">
-    <label for="exampleInputPassword1">Senha</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Senha">
+    <label for="exampleInputEmail">E-mail</label>
+    <input type="email" class="form-control" id="exampleInputPassword1" placeholder="Senha">
   </div>
+
   <div class="form-group form-check">
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
     <label class="form-check-label" for="exampleCheck1">Clique em mim</label>
   </div>
-  <button type="submit" class="btn btn-primary">Enviar</button>
-</form>
+</form
+
+<select class="form-select form-select-sm" aria-label=".form-select-sm example">
+  <option selected>Selecione o Município</option>
+  <option value="1">Brasília</option>
+  <option value="1">Espírito Santo</option>
+  <option value="2">Mato Grosso</option>
+  <option value="3">Londrina - PR</option>
+  <option value="3">Doutor Severiano - RN</option>
+  <option value="3">Coronel Fabriciano - MG</option>
+  <option value="3">Pelotas - RS</option>
+  <option value="3">Otacílio Costa - SC</option>
+  <option value="3">Manaus - AM</option>
+  <option value="3">Vila Velha - ES</option>
+  <option value="3">Arujá - SP</option>
+  <option value="3">Teresina - PI</option>
+</select>
+  
+
+<button type="submit" class="btn btn-primary">Enviar</button>
+
+
+
+
+
+
+
 
 
 </body>
