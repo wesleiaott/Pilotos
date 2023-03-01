@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Versão 5.0.1
+title: Versão 5.1
 parent:  Prontuário Eletrônico
 nav_order: 4
 has_children: false
@@ -28,10 +28,11 @@ Módulos com novidades:
 
 * Agora é possível registrar o marcador de consumo alimentar do cidadão diretamente no atendimento. A opção foi incluída no Objetivo do SOAP em quase todos os tipos de atendimento e o formulário é apresentado de acordo com a idade do cidadão.
 
-Gif mostrando o cadastro de uma lotação de estágioImagem de pause
+![](./media/001.gif)
 
 * As informações de consumo alimentar registradas no atendimento também são apresentadas no histórico e impressão. É possível reconhecer um atendimento com esse registro através da etiqueta “Marcadores de consumo alimentar".
-Gif mostrando o cadastro de uma lotação de estágioImagem de pause
+
+![](./media/002.gif)
 
 Busca ativa de vacinação
 
@@ -59,7 +60,7 @@ Encaminhamento externo
 * Serviço de Atenção Domiciliar;
 * Intersetorial.
 
-Print de Encaminhamento externo
+![](./media/003.png)
 
 Adaptação do PEC para uso do estagiário
 
@@ -68,17 +69,17 @@ A nova funcionalidade permite que estagiários utilizem o PEC e tenham os atendi
 * Login individual para o estagiário;
 * Cadastro de uma lotação de estágio com um respectivo supervisor;
 
-Gif mostrando o cadastro de uma lotação de estágioImagem de pause
+![](./media/004.gif)
 
 * Retificação dos atendimentos realizados pelo estagiário antes do início da revisão pelo supervisor;
 * Revisão dos atendimentos feitos pelo estagiário antes da finalização;
 
-Gif mostrando a revisão de um atendimento feito pelo estagiárioImagem de pause
+![](./media/005.gif)
 
 * Atualizações no Histórico para apresentar atendimentos realizados por estagiários;
 * Novos status na Lista de Atendimento para suportar as funcionalidades.
 
-Print do status aguardando revisão
+![](./media/006.png)
 
 Reterritorialização
 
@@ -86,11 +87,11 @@ Reterritorialização
 
 * Acesse a seção "Gestão de Cadastros" e a aba de Reterritorialização. Nesta tela basta realizar uma busca pelos imóveis desejados.
 
-Print reterritorializacao busca
+![](./media/007.png)
 
 * Aí então basta selecionar na lista quais deles devem ser reterritorializados, informar os novos dados e clicar em "Atualizar imóveis".
 
-Print reterritorializacao seleção
+![](./media/008.png)
 
 * Este processo preserva automaticamente os núcleos familiares envolvidos, gerando novas fichas de atualização assim que um novo lote de fichas for gerado e enviado.
 
@@ -98,12 +99,13 @@ Observação do cidadão
 
 * Agora é possível registrar no prontuário que um cidadão deve ficar em observação. Para tanto é necessário ativar o botão “Cidadão em observação” que irá liberar um novo fluxo no sistema:
 
-Print botão “Cidadão em observação”
+![](./media/009.png)
 
 * Na lista de atendimentos os cidadãos em observação ficarão em uma seção separada;
 
 * O profissional que iniciou a observação é considerado o profissional responsável, sendo este o único que poderá finalizar o atendimento de observação;
-Print profissional responsável”
+
+![](./media/010.png)
 
 * Os outros profissionais que participarem da observação são considerados profissionais auxiliares, pois o foco desses profissionais é estabilizar o cidadão de acordo com o plano de cuidado prescrito pelo profissional responsável. Sendo que, os atendimentos dos profissionais auxiliares terão o mesmo formato que um atendimento de procedimentos com as seguintes mudanças:
 
