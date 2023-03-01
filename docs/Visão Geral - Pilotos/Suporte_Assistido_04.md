@@ -67,6 +67,9 @@ Para usufruto de tal facilidade o Município Piloto, após o recebimento do mate
   <option value="3">Teresina - PI</option>
 </select>
 <br>
+<label for="exampleInputEmail">Escolha uma data:</label> 
+<br>
+<br>
 <input type="date" required pattern="[0-9]{4}-[0-9]{2}-[0-9]{2}">
 <br>
 <br>
