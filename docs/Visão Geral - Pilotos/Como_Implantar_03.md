@@ -5,7 +5,7 @@ parent:  Visão Geral - Pilotos
 nav_order: 5
 has_children: false
 has_toc: true
-last_modified_date: "05/07/2021"
+last_modified_date: "28/02/2023"
 ---
 
 <style>
@@ -25,7 +25,7 @@ last_modified_date: "05/07/2021"
 <p>Como qualquer sistema de informação que se prese, a implantação do Prontuário Eletrônico do Cidadão (PEC),
 requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. Abaixo, segue o rol de etapas necessárias para à sua adesão: </p>
 <br>
-<img src="./media/como_implantar.png"></img>
+<img src="./media/como_implantar.png">
 
 
 
