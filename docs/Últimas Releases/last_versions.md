@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Últimas releases
+title: Versões Liberadas
 parent:    Últimas Releases
 nav_order: 9
 has_children: false
