@@ -13,11 +13,7 @@ last_modified_date: "28/02/2023"
         text-align:justify;
         font-family:Verdana;
         font-size:12px;
-    }
-    img{
-        width:1024px;
-        height:200px;                
-    }
+    }    
 </style>
 
 <h1>Como Implantar:</h1>
