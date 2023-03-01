@@ -34,6 +34,7 @@ last_modified_date: "05/07/2021"
 Para usufruto de tal facilidade o Município Piloto, após o recebimento do material de apoio e a release do e-SUS APS, deverá preencher o formulário abaixo, indicando o dia e a hora para o suporte técnico:
 
 <br>
+<br>
 
 <form>
 
@@ -68,7 +69,6 @@ Para usufruto de tal facilidade o Município Piloto, após o recebimento do mate
 </select>
 <br>
 <label for="exampleInputEmail">Escolha uma data:</label> 
-<br>
 <br>
 <input type="date" required pattern="[0-9]{4}-[0-9]{2}-[0-9]{2}">
 <br>
