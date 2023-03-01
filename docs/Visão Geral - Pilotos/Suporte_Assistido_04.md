@@ -38,23 +38,20 @@ Para usufruto de tal facilidade o Município Piloto, após o recebimento do mate
 <form>
 
   <div class="form-group">  
-    <label for="exampleInputEmail1">Solicitante</label>
+    <label for="exampleInputEmail1">Solicitante:</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nome completo">
     <small id="emailHelp" class="form-text text-muted">Nunca vamos compartilhar seu email, com ninguém.</small>
   </div>
 
   <div class="form-group">
-    <label for="exampleInputEmail">E-mail</label>
+    <label for="exampleInputEmail">E-mail:</label>
     <input type="email" class="form-control" id="exampleInputPassword1" placeholder="Senha">
   </div>
 
-  <div class="form-group form-check">
-    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-    <label class="form-check-label" for="exampleCheck1">Clique em mim</label>
-  </div>
-</form
-
-<select class="form-select form-select-sm" aria-label=".form-select-sm example">
+<br>
+<label for="exampleInputEmail">Município:</label>
+<br>
+<select class="form-select form-select-sm" aria-label=".form-select-sm example">  
   <option selected>Selecione o Município</option>
   <option value="1">Brasília</option>
   <option value="1">Espírito Santo</option>
@@ -69,9 +66,15 @@ Para usufruto de tal facilidade o Município Piloto, após o recebimento do mate
   <option value="3">Arujá - SP</option>
   <option value="3">Teresina - PI</option>
 </select>
+<br>
+<button type="submit" class="btn btn-primary">Enviar</button>
+
+</form>
+
+
   
 
-<button type="submit" class="btn btn-primary">Enviar</button>
+
 
 
 
