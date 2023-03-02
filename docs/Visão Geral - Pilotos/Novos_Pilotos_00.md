@@ -8,6 +8,8 @@ has_toc: true
 last_modified_date: "28/02/2023"
 ---
 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
 # Novos Pilotos - Estratégia e-SUS APS
 
 <br>
