@@ -11,7 +11,7 @@ last_modified_date: "05/07/2021"
 <html>
     <title></title>
     <head>
-        <link rel="stylesheet" type="text/css" href="estilos.css">
+        <link rel="stylesheet" type="text/css" href="../estilos.css">
     </head>
    
 

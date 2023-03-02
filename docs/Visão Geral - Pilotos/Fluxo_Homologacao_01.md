@@ -47,7 +47,7 @@ Abaixo, seguem o descritivo das principais etapas, após identificação da nece
 
 3- **Pilotos:** 
 
-     a. Realizar instalação do e-SUS PEC;
+    a. Realizar instalação do e-SUS PEC;
     b. Testar as novas funcionalidades;
     c. Reportar erros, sugestões de melhoria e aderência da solução disponibilizada;
     d. Responder formulário de avaliaço da versão.
