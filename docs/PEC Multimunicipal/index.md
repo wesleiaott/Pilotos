@@ -8,7 +8,26 @@ last_modified_date: "01/03/2023"
 ---
 
 e-SUS Atenção Primária à Saúde (e-SUS APS)
-![](/media/logoesus_new.png)
+{: .fs-10 }
+{: .fw-700 }
+{: .text-center }
+<br>
+<br>
+PRONTUÁRIO ELETRÔNICO DO CIDADÃO (PEC)
+{: .fs-8 }
+{: .text-center }
+MANUAL DE USO
+{: .fs-8 }
+{: .text-center }
+<br>
+<br>
+(versão 5.0)
+{: .fs-6 }
+{: .text-center }
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
