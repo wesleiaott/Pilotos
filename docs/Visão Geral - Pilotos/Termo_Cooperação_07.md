@@ -16,6 +16,6 @@ last_modified_date: "05/07/2021"
 		<title></title>
 	</head>
 	<body>
-		<iframe src="./compromisso.pdf" width="100%" height="100%" style="border: none;">
+		<embed src="compromisso.pdf" type="application/pdf" width="100%" height="100%">
 	</body>
 </html>
