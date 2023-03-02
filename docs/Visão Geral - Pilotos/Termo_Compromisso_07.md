@@ -8,12 +8,25 @@ has_toc: true
 last_modified_date: "05/07/2021"
 ---
 
-# Termo de Compromisso:
+<h1> Termo de Compromisso: </h1>
+
+<hr>
+
+<style>
+
+*{
+    text-align:justify;
+    font-size:14px;
+}
+</style>
+
+
+<br>
 
 <p>O <b>Termo de Compromisso</b> é um documento firmado entre o Ministério da Saúde, Municípios e Estados Pilotos da Estratégia e-SUS APS. Almeja formalizar, publicizar e tornar transparente o objetivo do <b>Projeto Pilotos</b>, bem como definir direitos e obrigações de ambas as partes, pactuar metas, devolutivas e contribuições de cada um dos integrantes, de forma a contribuir com o desenvolvimento dos sistemas de informação, que compõe a Estratégia e-SUS APS.  </p>
 
 <br>
-Conforme Cláusula 4ª do termo de compromisso, poderá ser objeto de rescisão, as seguintes hipóteses:</b>
+Conforme <b>Cláusula 4ª</b> do termo de compromisso, poderá ser objeto de rescisão, as seguintes hipóteses:
 <br>
 <br>
 
