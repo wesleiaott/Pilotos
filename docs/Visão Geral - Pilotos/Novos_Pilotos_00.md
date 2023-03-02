@@ -42,93 +42,79 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <th scope="row">1</th>
       <td>Espírito Santo</td>
       <td>Atila Rodrigues</td>
-      <td>atilaslamberti@saude.gov.br
-</td>
-      <td></td>
+      <td>atilaslamberti@saude.gov.br</td>      
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>Mato Grosso</td>
       <td>Luis Andra</td>
-      <td>luisandrade@saude.gov.br</td>
-      <td></td>
+      <td>luisandrade@saude.gov.br</td>      
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>Brasília</td>
       <td>Carolina Campagnoli</td>
-      <td>carolperes.es@gmail.com</td>
-      <td></td>
+      <td>carolperes.es@gmail.com</td>      
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>Londrina - PR</td>
+      <td>Londrina</td>
       <td>Anderson Rodrigues</td>
-      <td>anderson.rodriguo@uel.br</td>
-      <td></td>
+      <td>anderson.rodriguo@uel.br</td>      
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>Juazeiro do Norte - CE</td>
+      <td>Juazeiro do Norte</td>
       <td>Elton Ferreira</td>
-      <td>eltoncleberton@hotmail.com</td>
-      <td></td>
+      <td>eltoncleberton@hotmail.com</td>      
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>Doutor Severiano - RN</td>
+      <td>Doutor Severiano</td>
       <td>Francisco Lira</td>
-      <td>jacksonlira.rs@gmail.com</td>
-      <td></td>
+      <td>jacksonlira.rs@gmail.com</td>      
     </tr>
     <tr>
       <th scope="row">7</th>
-      <td>Coronel Fabriciano - MG</td>
+      <td>Coronel Fabriciano</td>
       <td>Luciana Soares</td>
-      <td>lucianacqs@hotmail.com</td>
-      <td></td>
+      <td>lucianacqs@hotmail.com</td>      
     </tr>    
     <tr>
       <th scope="row">9</th>
-      <td>Pelotas - RS</td>
+      <td>Pelotas</td>
       <td>Rita Oliveira</td>
-      <td>rita.olibeira@pelotas.rs.gov.br</td>
-      <td></td>
+      <td>rita.olibeira@pelotas.rs.gov.br</td>      
     </tr>
      <tr>
       <th scope="row">10</th>
-      <td>Otacílio Costa - SC</td>
+      <td>Otacílio Costa</td>
       <td>Rodrigo Schauffert</td>
-      <td>rodsschauffert@gmail.com</td>
-      <td></td>
+      <td>rodsschauffert@gmail.com</td>      
     </tr>
      <tr>
       <th scope="row">11</th>
-      <td>Manaus - AM</td>
+      <td>Manaus</td>
       <td>Sanay Fonseca</td>
-      <td>sanay.pedrosa@pmm.am.gov.br</td>
-      <td></td>
+      <td>sanay.pedrosa@pmm.am.gov.br</td>      
     </tr>
      <tr>
       <th scope="row">12</th>
-      <td>Vila Velha - ES</td>
+      <td>Vila Velha</td>
       <td>Stanley Fonseca</td>
-      <td>stanleymfonseca@gmail.com</td>
-      <td></td>
+      <td>stanleymfonseca@gmail.com</td>      
     </tr>
      <tr>
       <th scope="row">13</th>
-      <td>Arujá - SP</td>
+      <td>Arujá</td>
       <td>Vanessa Otska</td>
-      <td>van.otsuka11@gmail.com</td>
-      <td></td>
+      <td>van.otsuka11@gmail.com</td>      
     </tr>
      <tr>
       <th scope="row">14</th>
-      <td>Teresina - PI</td>
+      <td>Teresina</td>
       <td>Clístenes Faria</td>
-      <td>suporte.esus@gmail.com</td>
-      <td></td>
+      <td>suporte.esus@gmail.com</td>  
     </tr>
      
   </tbody>
