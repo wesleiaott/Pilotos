@@ -19,7 +19,7 @@ Abaixo, segue modelo do termo de cooperação, que é disponibilizado a todos os
 
 <b>O presente termo de compromisso poderá ser objeto de rescisão, nas seguintes hipóteses:</b>
 
-<div style="padding-left:50px;">
+<div style="padding-left:20px;">
 a. Falta de envio do parecer da Secretaria de Estado de Saúde do [MUNICÍPIO] dentro dos prazos estabelecidos no item D do parágrafo I da CLÁUSULA SEGUNDA deste Termo;
 
 b. Por acordo mútuo entre os pactuantes;
@@ -29,7 +29,7 @@ c. O presente Termo poderá ser rescindido de pleno direito, antes do seu térmi
 d. Distribuição dos softwares por parte do Município ou Distrito Federal colaborador para TERCEIROS.
 
 e. Deixar de cumprir com as RESPONSABILIDADES e OBRIGAÇÕES referidas nos itens F, Ge L do parágrafo Ida CLÁUSULA SEGUNDA deste Termo.
-</p>
+</div>
 
 
 <br>
