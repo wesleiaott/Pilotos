@@ -11,11 +11,6 @@ last_modified_date: "05/07/2021"
 # Termo de Cooperação:
 
 
-<html>
-	<head>
-		<title></title>
-	</head>
-	<body>
-		<embed src="compromisso.pdf" type="application/pdf" width="100%" height="100%">
-	</body>
-</html>
+	
+
+<iframe src="https://cgiap-saps.github.io/Pilotos/docs/compromisso.pdf width="100%" height="100%" width="100%"></iframe>
