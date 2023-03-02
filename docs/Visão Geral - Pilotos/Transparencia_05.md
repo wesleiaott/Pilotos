@@ -32,7 +32,7 @@ last_modified_date: "05/07/2021"
       <td>RNDS - Envio do RAC</td>
       <td>19/09/2022</td>
       <td>24/02/2023</td>
-      <td></td>
+      <td class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="10" aria-valuemax="50"></td>
     </tr>
     <tr>
       <th scope="row">2</th>
