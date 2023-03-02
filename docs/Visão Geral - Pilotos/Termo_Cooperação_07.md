@@ -8,8 +8,10 @@ has_toc: true
 last_modified_date: "05/07/2021"
 ---
 
-# CAPÍTULO 1 - Orientações Gerais sobre o Sistema
-{: .no_toc }
+# Termo de Cooperação:
 
-Neste capítulo, abordaremos os conceitos e orientações iniciais para utilização do Sistema e-SUS APS com PEC.
-
+<table cellpadding="0" cellspacing="0" align="center" width="100%" height="100%">
+    <tr>
+        <td><iframe src="./compromisso.pdf" width="600" height="780" style="border: none;"></iframe></td>
+    </tr>
+</table>
