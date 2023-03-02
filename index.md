@@ -7,7 +7,9 @@ description: "Manual e-SUS APS"
 permalink: /Pilotos/docs
 ---
 
-<img src="./media/logoesus_new.png">
+
+![](./media/logoesus_new.png)
+
 
 <br>
 <br>
