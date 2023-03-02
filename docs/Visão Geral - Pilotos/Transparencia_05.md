@@ -94,6 +94,7 @@ last_modified_date: "05/07/2021"
       <th scope="row">11</th>
       <td>Busca Ativa - Etapa 2</td>
       <td>30/01/2023</td>
+      <td>24/02/2023</td>
       <td></td>
     </tr>
      <tr>
