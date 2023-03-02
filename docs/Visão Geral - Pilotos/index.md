@@ -10,15 +10,7 @@ last_modified_date: "27/02/2023"
 
 <link rel="stylesheet" type="text/css" href="../estilos.css">
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ![](/media/logoesus_new.png)
-
 <br>
 <br>
 <br>
