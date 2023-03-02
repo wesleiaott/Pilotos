@@ -45,7 +45,7 @@ last_modified_date: "05/07/2021"
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Próxima reunião técnica<b> (24/02/2023)</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Próxima reunião técnica<b> (24/02/2023)</b></a>
         </h4>
       </div>
       <div id="collapse2" class="panel-collapse collapse">
