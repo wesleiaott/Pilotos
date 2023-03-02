@@ -8,6 +8,8 @@ has_toc: true
 last_modified_date: "28/02/2023"
 ---
 
+<link rel="stylesheet" type="text/css" href="../estilos.css">
+
 # Fluxo de Homologação:
 
 
