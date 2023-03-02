@@ -7,7 +7,7 @@ has_children: false
 has_toc: true
 last_modified_date: "07/01/2022"
 ---
-
+<link rel="stylesheet" type="text/css" href="../estilos.css">
 
 Versão 5.0.10
 

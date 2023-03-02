@@ -8,6 +8,8 @@ has_toc: true
 last_modified_date: "07/01/2022"
 ---
 
+<link rel="stylesheet" type="text/css" href="../estilos.css">
+
 Versão 5.0.19
 
 * Correção de cenário onde alguns elementos de marcação de texto eram exibidos incorretamente no histórico de exames.

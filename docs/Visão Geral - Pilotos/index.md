@@ -8,6 +8,8 @@ permalink: /
 last_modified_date: "27/02/2023"
 ---
 
+<link rel="stylesheet" type="text/css" href="../estilos.css">
+
 e-SUS Atenção Primária à Saúde (e-SUS APS)
 {: .fs-10 }
 {: .fw-700 }
