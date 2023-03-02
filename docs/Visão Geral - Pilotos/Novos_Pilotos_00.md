@@ -18,23 +18,116 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
 
 >Art. 3º A validação e a homologação dos sistemas e aplicativos de que trata esta Resolução serão realizados por equipe técnica composta por representantes indicados pelo Ministério da Saúde, Conselho Nacional de Secretários de Saúde (CONASS) e Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS).
 
-<hr>
-
-#### **Indicações Conass:**
+<br>
 
 <hr>
 
-| **Estados:**                                          	| **Representantes:**                                  	| **E-mail:**                                                                        	|
-|-------------------------------------------------------	|------------------------------------------------------	|------------------------------------------------------------------------------------	|
-| **Espírito Santo**<br>**Mato Grosso**<br>**Brasília** 	| Atila Rodrigues<br>Luis Andra<br>Carolina Campagnoli 	| atilaslamberti@saude.gov.br<br>luisandrade@saude.gov.br<br>carolperes.es@gmail.com 	|
-
+### **Indicações Conass e Conasems:**
 
 <hr>
 
-#### **Indicações Conasems:**
-
-<hr>
-
-| **Municípios:**                                                                                                                                                                                                                             	| **Representantes:**                                                                                                                                                                      	| **E-mail:**                                                                                                                                                                                                                                                        	|
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| **Londrina - PR**<br>**Juazeiro do Norte - CE**<br>**Doutor Severiano - RN**<br>**Coronel Fabriciano - MG**<br>**Pelotas - RS**<br>**Otacílio Costa - SC**<br>**Manaus - AM**<br>**Vila Velha - ES**<br>**Arujá - SP**<br>**Teresina - PI** 	| Anderson Rodrigues<br>Elton Ferreira<br>Francisco Lira<br>Luciana Soares<br>Rita Oliveira<br>Rodrigo Schauffert<br>Sanay Fonseca<br>Stanley Fonseca<br>Vanessa Otska<br>Clístenes  Faria 	| anderson.rodriguo@uel.br<br>eltoncleberton@hotmail.com<br>jacksonlira.rs@gmail.com<br>lucianacqs@hotmail.com<br>rita.olibeira@pelotas.rs.gov.br<br>rodsschauffert@gmail.com<br>sanay.pedrosa@pmm.am.gov.br<br><br>van.otsuka11@gmail.com<br>suporte.esus@gmail.com 	|
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Estados</th>
+      <th scope="col">Representantes</th>
+      <th scope="col">Contato:</th>      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Espírito Santo</td>
+      <td>Atila Rodrigues</td>
+      <td>atilaslamberti@saude.gov.br
+</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Mato Grosso</td>
+      <td>Luis Andra</td>
+      <td>luisandrade@saude.gov.br</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Brasília</td>
+      <td>Carolina Campagnoli</td>
+      <td>carolperes.es@gmail.com</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Londrina - PR</td>
+      <td>Anderson Rodrigues</td>
+      <td>anderson.rodriguo@uel.br</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>Juazeiro do Norte - CE</td>
+      <td>Elton Ferreira</td>
+      <td>eltoncleberton@hotmail.com</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>Doutor Severiano - RN</td>
+      <td>Francisco Lira</td>
+      <td>jacksonlira.rs@gmail.com</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>Coronel Fabriciano - MG</td>
+      <td>Luciana Soares</td>
+      <td>lucianacqs@hotmail.com</td>
+      <td></td>
+    </tr>    
+    <tr>
+      <th scope="row">9</th>
+      <td>Pelotas - RS</td>
+      <td>Rita Oliveira</td>
+      <td>rita.olibeira@pelotas.rs.gov.br</td>
+      <td></td>
+    </tr>
+     <tr>
+      <th scope="row">10</th>
+      <td>Otacílio Costa - SC</td>
+      <td>Rodrigo Schauffert</td>
+      <td>rodsschauffert@gmail.com</td>
+      <td></td>
+    </tr>
+     <tr>
+      <th scope="row">11</th>
+      <td>Manaus - AM</td>
+      <td>Sanay Fonseca</td>
+      <td>sanay.pedrosa@pmm.am.gov.br</td>
+      <td></td>
+    </tr>
+     <tr>
+      <th scope="row">12</th>
+      <td>Vila Velha - ES</td>
+      <td>Stanley Fonseca</td>
+      <td>stanleymfonseca@gmail.com</td>
+      <td></td>
+    </tr>
+     <tr>
+      <th scope="row">13</th>
+      <td>Arujá - SP</td>
+      <td>Vanessa Otska</td>
+      <td>van.otsuka11@gmail.com</td>
+      <td></td>
+    </tr>
+     <tr>
+      <th scope="row">14</th>
+      <td>Teresina - PI</td>
+      <td>Clístenes Faria</td>
+      <td>suporte.esus@gmail.com</td>
+      <td></td>
+    </tr>
+     
+  </tbody>
+</table>
