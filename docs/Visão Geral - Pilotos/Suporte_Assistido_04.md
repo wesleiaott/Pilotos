@@ -25,8 +25,6 @@ last_modified_date: "05/07/2021"
 <body>
 
 
-
-
 <h1>Suporte Técnico Assistido:</h1>
 
 <p>Objetivando maximizar e apoiar a testagem das soluções de software que compõem a Estratégia e-SUS APS, a Coordenação Geral de Projetos e Inovação (CGPROJ) da SAPS, lança mão de mais uma facilidade com o claro propósito de aproximar os Municípios Pilotos a realizarem a implantação, uso e testagem das ferramentas, ampliando assim o fluxo de devolutivas e contribuindo para a identificação de oportunidades que possam contribuir para o aprimoramento das ferramentas, mapeamento de erros e ampliação da aderência do e-SUS no âmbito da Atenção Primária (APS).</p>

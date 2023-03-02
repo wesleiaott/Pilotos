@@ -10,7 +10,7 @@ last_modified_date: "28/02/2023"
 
 <link rel="stylesheet" type="text/css" href="../estilos.css">
 
-# Teste Alfa e Beta:
+<h1> Teste Alfa e Beta: </h1>
 
 Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibilizados no Portal da Atenção Primária (APS) para ampla utilização, as soluções de software da Estratégia e-SUS APS são submetidas a várias baterias de teste que visam atestar a integridade do sistema e a ocorrência de eventuais anomalias que não foram identificadas nas etapais finais de concepção do sistema; dentre as modalidades de testes mais difundidas e amplamente empregadas, destacamos o teste alfa e beta de software, conforme texto abaixo:
 
