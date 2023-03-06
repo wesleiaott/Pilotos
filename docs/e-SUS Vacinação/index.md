@@ -4,7 +4,7 @@ title: e-SUS Vacinação
 nav_order: 5
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /
+permalink: /e-SUS Vacinação
 last_modified_date: "27/02/2023"
 ---
 
