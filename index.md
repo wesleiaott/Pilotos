@@ -4,7 +4,7 @@ title: Manual e-SUS APS (Pilotos)
 nav_order: 1
 has_children: false
 description: "Manual e-SUS APS"
-permalink: /Pilotos/docs
+permalink: /
 ---
 
 
