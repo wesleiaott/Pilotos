@@ -4,7 +4,7 @@ title: e-SUS Território
 nav_order: 6
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /
+permalink: /e-SUS Território
 last_modified_date: "27/02/2023"
 ---
 

@@ -4,7 +4,7 @@ title: Últimas Releases
 nav_order: 9
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /
+permalink: /Últimas Releases
 last_modified_date: "27/02/2023"
 ---
 

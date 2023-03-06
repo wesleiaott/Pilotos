@@ -3,7 +3,7 @@ layout: default
 title: PEC - Multimunicipal
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /
+permalink: /PEC Multimunicipal
 last_modified_date: "01/03/2023"
 ---
 

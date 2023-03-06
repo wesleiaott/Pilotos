@@ -4,7 +4,7 @@ title: Prontuário Eletrônico
 nav_order: 3
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /
+permalink: /Prontuário Eletrônico
 last_modified_date: "27/02/2023"
 ---
 

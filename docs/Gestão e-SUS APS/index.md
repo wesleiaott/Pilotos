@@ -4,7 +4,7 @@ title: Gestão e-SUS APS
 nav_order: 4
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /
+permalink: /Gestão e-SUS APS
 last_modified_date: "27/02/2023"
 ---
 

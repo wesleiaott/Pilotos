@@ -4,7 +4,7 @@ title: e-SUS Atenção Domiciliar
 nav_order: 8
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /
+permalink: /e-SUS Atenção Domiciliar
 last_modified_date: "27/02/2023"
 ---
 

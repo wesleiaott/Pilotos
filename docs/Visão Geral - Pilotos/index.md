@@ -4,7 +4,7 @@ title: Visão Geral - Pilotos
 nav_order: 2
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /
+permalink: /Visão Geral - Pilotos
 last_modified_date: "27/02/2023"
 ---
 

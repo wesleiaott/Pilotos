@@ -4,7 +4,7 @@ title: e-SUS Atividade Coletiva
 nav_order: 7
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /
+permalink: /e-SUS Atividade Coletiva
 last_modified_date: "27/02/2023"
 ---
 

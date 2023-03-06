@@ -3,7 +3,7 @@ layout: default
 title: Contribua
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /
+permalink: /Contribua
 last_modified_date: "01/03/2023"
 ---
 
