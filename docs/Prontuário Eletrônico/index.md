@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prontuário Eletrônico
+title: Prontuário Eletrônico (PEC)
 nav_order: 3
 has_children: true
 description: "Manual e-SUS APS"
