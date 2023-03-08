@@ -8,9 +8,9 @@ permalink: /e-SUS Vacinação
 last_modified_date: "27/02/2023"
 ---
 
-<table class="table table-bordered">
+<table class="table table-responsive-md">
 
-  <thead>
+  <thead class="thead-dark">
     <tr>
       <th class="" scope="col" colspan="4">e- SUS Vacinação:</th>      
     </tr>
