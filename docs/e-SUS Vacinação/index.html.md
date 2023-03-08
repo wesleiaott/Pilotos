@@ -8,7 +8,7 @@ permalink: /e-SUS Vacinação
 last_modified_date: "27/02/2023"
 ---
 
-<table class="table table-bordered">
+<table class="table">
 
   <thead>
     <tr>
@@ -19,23 +19,23 @@ last_modified_date: "27/02/2023"
   <tbody>
     <tr>
       <th > Versão Site da APS:</th>      
-      <td> 2.1.2</td>
+      <th > 2.1.2</th>
     </tr>
     <tr>
       <th >Liberação:</th>      
-      <td>20/01/2023</td>      
+      <th >20/01/2023</th>      
     </tr>
     <tr>
       <th > Versão Site da APS:</th>      
-      <td> 2.1.2</td>
+      <th > 2.1.2</th>
     </tr>
     <tr>
       <th >Liberação:</th>    
-      <td>20/01/2023</td>  
+      <th >20/01/2023</th>  
     </tr>
     <tr>
       <th >Descrição:</th>      
-      <td>O e-SUS Vacinação veio para ajudar o profissional de saúde a registrar imunizações em ações de campanhas vacinais. Através de uma interface simples e instrutiva, agora será possível cadastrar vacinações com muito mais agilidade.
+      <th >O e-SUS Vacinação veio para ajudar o profissional de saúde a registrar imunizações em ações de campanhas vacinais. Através de uma interface simples e instrutiva, agora será possível cadastrar vacinações com muito mais agilidade.
 
 Uma vez conectado com seu servidor e-SUS APS PEC, os dados da sua lotação profissional serão carregados automaticamente no cabeçalho das fichas criadas e outras informações, como data e turno, serão preenchidas automaticamente pelo aplicativo com base nos dados do seu dispositivo.
 
@@ -43,7 +43,7 @@ Para começar, basta cadastrar uma vacinação com dados como imunobiológico, f
 
 O e-SUS Vacinação foi criado para funcionar offline! Assim você poderá utilizá-lo em campanhas de vacinação em qualquer lugar. Você precisará de internet somente para conectar com o servidor e-SUS APS PEC e realizar o envio dos registros de vacinação realizados durante o dia. Mas atenção: o envio das informações é necessário para que as atividades de vacinação sejam contabilizadas como produção e consolidadas nos relatórios do município.
 
-O e-SUS Vacinação ainda conta com informações de apoio e interface amigável para que seu trabalho seja ainda mais fácil e você possa se dedicar ao que realmente importa: o cuidado em saúde para a população.</td>
+O e-SUS Vacinação ainda conta com informações de apoio e interface amigável para que seu trabalho seja ainda mais fácil e você possa se dedicar ao que realmente importa: o cuidado em saúde para a população.</th>
     </tr>
     <tr>
       <th>Resultado última avaliação:</th>      
