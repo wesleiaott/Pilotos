@@ -8,79 +8,52 @@ permalink: /Prontuário Eletrônico
 last_modified_date: "27/02/2023"
 ---
 
-e-SUS Atenção Primária à Saúde (e-SUS APS)
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-e-SUS Atenção Primária à Saúde (e-SUS APS)
-{: .fs-10 }
-{: .fw-700 }
-{: .text-center }
-<br>
-<br>
-PRONTUÁRIO ELETRÔNICO DO CIDADÃO (PEC)
-{: .fs-8 }
-{: .text-center }
-MANUAL DE USO
-{: .fs-8 }
-{: .text-center }
-<br>
-<br>
-(versão 5.0)
-{: .fs-6 }
-{: .text-center }
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-*Elaboração, distribuição e informações*<br>
+<table class="table table-bordered">
 
-**MINISTÉRIO DA SAÚDE**<br>
-Secretaria de Atenção Primária à Saúde<br>
-Departamento de Saúde da Família<br>
-Esplanada dos Ministérios - Bloco G - 7º andar<br>
-CEP: 70.058-900 – Brasília/DF<br>
-Tels.: (61) 3315-8090 / 3315-8044<br>
-Site: <http://sisaps.saude.gov.br/esus/><br>
-Suporte: <http://esusaps.bridge.ufsc.br/support/login>
+  <thead class="row">
+    <tr>
+      <th class="text-center table-dark" scope="col" colspan="4">Prontuário Eletrônico do Cidadão (PEC) v.5.0</th>
+    </tr>
+  </thead>
 
-**Supervisor Geral**<br>
-Renata Maria de Oliveira Costa
-
-**Coordenação Técnica Geral**<br>
-Michael Luiz Diana de Oliveira
-
-**Organização**<br>
-Ana Claudia Cielo, Igor de Carvalho Gomes e João Geraldo de Oliveira Junior
-
-**Revisão Técnica**<br>
-André Cury Alves, Ana Claudia Cielo, Igor de Carvalho Gomes, João Geraldo de Oliveira Junior e Micael Macedo Pereira da Trindade.
-
-**Elaboração de texto**<br>
-Adriana Kitajima, Allan Nuno Alves de Souza, Ana Claudia Cielo, André Cury Alves, Edson Lucena, Igor de Carvalho Gomes, João Geraldo de Oliveira Júnior, Janaína Nogueira Guimarães, Micael Macedo Pereira, da Trindade, Rodrigo André Cuevas Gaete, Thaís Alessa Leite, Vanessa Lora, Virgínia Fava,
-
-**Projeto Gráfico**<br>
-Alexandre Soares de Brito e Diogo Ferreira Gonçalves
+  <tbody>
+    <tr>
+      <th class="col-sm-3"> Versão Site da APS:</th>
+      <td> 5.0.20</td>
+    </tr>
+    <tr>
+      <th >Liberação:</th>      
+      <td>20/01/2023</td>      
+    </tr>
+    <tr>
+      <th > Versão Pilotos:</th>      
+      <td>5.1.10</td>
+    </tr>
+    <tr>
+      <th >Liberação:</th>    
+      <td>20/01/2023</td>  
+    </tr>
+    <tr>
+      <th >Descrição:</th>      
+      <td style="text-align:justify">
+      
+O e-SUS APS é uma estratégia do Departamento de Saúde da Família (DESF) para reestruturar as informações da Atenção Primária à Saúde (APS) em nível nacional. Esta ação está alinhada com a proposta mais geral de reestruturação dos Sistemas de Informação em Saúde (SIS) do Ministério da Saúde (MS), entendendo que a qualificação da gestão da informação é fundamental para ampliar a qualidade no atendimento à população.
 <br>
 <br>
+A Estratégia e-SUS APS faz referência ao processo de informatização qualificada do Sistema Único de Saúde (SUS) em busca de um SUS eletrônico (e-SUS) e tem como objetivo concretizar um novo modelo de gestão de informação que apoie os municípios e os serviços de saúde na gestão efetiva da APS e na qualificação do cuidado dos usuários.
 <br>
-
-**Ficha Catalográfica**
-{: .text-center }
-
-Brasil. Ministério da Saúde. Secretaria de Atenção Primária à Saúde.<br>
-e-SUS Atenção Primária à Saúde: Manual do Sistema com Prontuário Eletrônico do Cidadão PEC – Versão 4.3 [recurso eletrônico] / Ministério da Saúde, Secretaria de Atenção Primária à Saúde, Secretaria Executiva. – Brasília: Ministério da Saúde, 2021.<br>
 <br>
-ISBN **Versão Preliminar**<br>
-Modo de acesso: <https://aps.saude.gov.br/ape/esus><br>
-CDU 614<br>
+Esse modelo nacional de gestão da informação na APS é definido a partir de diretrizes e requisitos essenciais que orientam e organizam o processo de reestruturação desse SIS, instituindo-se o Sistema de Informação em Saúde para a Atenção Básica (SISAB), por meio da Portaria GM/MS Nº 1.412, de 10 de julho de 2013, e a Estratégia e-SUS APS para sua operacionalização. </td>    
+    <tr>
+      <th>Resultado última avaliação:</th>      
+    </tr>
+    
+  </tbody>
+</table>
 
-Catalogação na fonte – Coordenação-Geral de Documentação e Informação – Editora MS – OS 2021.
+<br>
+<br>
