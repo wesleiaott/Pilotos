@@ -11,7 +11,7 @@ last_modified_date: "27/02/2023"
 <table class="table table-bordered table-striped">
   <thead class="thead-dark">
     <tr>
-      <th class="align-middle" scope="col" colspan="4">e- SUS Vacinação:</th>      
+      <th scope="col" colspan="4" align-text-right>e- SUS Vacinação:</th>      
     </tr>
   </thead>
   <tbody>
@@ -44,7 +44,7 @@ O e-SUS Vacinação foi criado para funcionar offline! Assim você poderá utili
 O e-SUS Vacinação ainda conta com informações de apoio e interface amigável para que seu trabalho seja ainda mais fácil e você possa se dedicar ao que realmente importa: o cuidado em saúde para a população.</p></th>
     </tr>
     <tr>
-      <th scope="row">Resultado última avaliação:</th>      
+      <th scope="row">Resultado última avaliação:</th>
     </tr>
     
   </tbody>
