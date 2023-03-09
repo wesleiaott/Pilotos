@@ -8,7 +8,7 @@ permalink: /e-SUS Vacinação
 last_modified_date: "27/02/2023"
 ---
 
-<table class="table table-responsive-md">
+<table class="table table-dark">
 
   <thead class="thead-dark">
     <tr>
@@ -18,7 +18,7 @@ last_modified_date: "27/02/2023"
 
   <tbody>
     <tr>
-      <th > Versão Site da APS:</th>      
+      <th> Versão Site da APS:</th>      
       <td> 2.1.2</td>
     </tr>
     <tr>
