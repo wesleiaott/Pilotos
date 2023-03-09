@@ -30,7 +30,7 @@ last_modified_date: "27/02/2023"
       <td>20/01/2023</td>      
     </tr>
     <tr>
-      <th > Versão Site da APS:</th>      
+      <th > Versão Pilotos:</th>      
       <td> 2.1.2</td>
     </tr>
     <tr>
