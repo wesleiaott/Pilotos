@@ -14,7 +14,7 @@ last_modified_date: "27/02/2023"
 
 <table class="table table-bordered">
 
-  <thead class="thead-light">
+  <thead class="row">
     <tr>
       <th class="" scope="col" colspan="4">e- SUS Vacinação:</th>      
     </tr>
@@ -22,7 +22,7 @@ last_modified_date: "27/02/2023"
 
   <tbody>
     <tr>
-      <th> Versão Site da APS:</th>      
+      <th class="col-sm-3"> Versão Site da APS:</th>      
       <td> 2.1.2</td>
     </tr>
     <tr>
