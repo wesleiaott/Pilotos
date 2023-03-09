@@ -16,7 +16,7 @@ last_modified_date: "27/02/2023"
 
   <thead class="row">
     <tr>
-      <th class="" scope="col" colspan="4">e- SUS Vacinação:</th>      
+      <th class="text-center table-dark" scope="col" colspan="4">e- SUS Vacinação:</th>
     </tr>
   </thead>
 
