@@ -31,7 +31,7 @@ last_modified_date: "27/02/2023"
     </tr>
     <tr>
       <th > Versão Pilotos:</th>      
-      <td> 2.1.2</td>
+      <td> 3.1</td>
     </tr>
     <tr>
       <th >Liberação:</th>    
