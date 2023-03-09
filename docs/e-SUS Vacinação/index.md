@@ -8,7 +8,11 @@ permalink: /e-SUS Vacinação
 last_modified_date: "27/02/2023"
 ---
 
-<table>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<table class="table table-bordered">
 
   <thead class="thead-dark">
     <tr>
