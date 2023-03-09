@@ -39,14 +39,20 @@ last_modified_date: "27/02/2023"
     </tr>
     <tr>
       <th >Descrição:</th>      
-      <td style="text-align:justify">O e-SUS Vacinação veio para ajudar o profissional de saúde a registrar imunizações em ações de campanhas vacinais. Através de uma interface simples e instrutiva, agora será possível cadastrar vacinações com muito mais agilidade.
-
+      <td style="text-align:justify">
+      
+O e-SUS Vacinação veio para ajudar o profissional de saúde a registrar imunizações em ações de campanhas vacinais. Através de uma interface simples e instrutiva, agora será possível cadastrar vacinações com muito mais agilidade.
+<br>
+<br>
 Uma vez conectado com seu servidor e-SUS APS PEC, os dados da sua lotação profissional serão carregados automaticamente no cabeçalho das fichas criadas e outras informações, como data e turno, serão preenchidas automaticamente pelo aplicativo com base nos dados do seu dispositivo.
-
+<br>
+<br>
 Para começar, basta cadastrar uma vacinação com dados como imunobiológico, fabricante, lote, local de atendimento e estratégia, para depois informar os cidadãos imunizados. Assim, cada cidadão imunizado irá gerar um único registro de vacinação, sem necessidade de informar repetidamente os dados do imunobiológico utilizado.
-
+<br>
+<br>
 O e-SUS Vacinação foi criado para funcionar offline! Assim você poderá utilizá-lo em campanhas de vacinação em qualquer lugar. Você precisará de internet somente para conectar com o servidor e-SUS APS PEC e realizar o envio dos registros de vacinação realizados durante o dia. Mas atenção: o envio das informações é necessário para que as atividades de vacinação sejam contabilizadas como produção e consolidadas nos relatórios do município.
-
+<br>
+<br>
 O e-SUS Vacinação ainda conta com informações de apoio e interface amigável para que seu trabalho seja ainda mais fácil e você possa se dedicar ao que realmente importa: o cuidado em saúde para a população.</td>
     </tr>
     <tr>
