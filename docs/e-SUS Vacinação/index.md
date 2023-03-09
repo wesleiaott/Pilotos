@@ -12,11 +12,11 @@ last_modified_date: "27/02/2023"
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-<table class="table table-bordered">
+<table class="table">
 
-  <thead class="row">
+  <thead class="thead-dark">
     <tr>
-      <th class="text-center table-dark" scope="col" colspan="4">e- SUS Vacinação:</th>
+      <th class="text-center" scope="col" colspan="4">e- SUS Vacinação:</th>
     </tr>
   </thead>
 
