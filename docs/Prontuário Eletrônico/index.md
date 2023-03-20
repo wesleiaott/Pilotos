@@ -16,7 +16,7 @@ last_modified_date: "27/02/2023"
 
   <thead class="row">
     <tr>
-      <th class="text-center table-dark" scope="col" colspan="4">Prontuário Eletrônico do Cidadão (PEC) v.5.0</th>
+      <th class="text-center table-dark" scope="col" colspan="4">Prontuário Eletrônico do Cidadão (PEC) v.5.0.</th>
     </tr>
   </thead>
 
