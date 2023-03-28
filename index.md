@@ -23,7 +23,7 @@ permalink: /
 <br>
 *Elaboração, distribuição e informações*<br>
 
-**MINISTÉRIO DA SAÚDE**<br>
+**MINISTÉRIO DA SAÚDE.**<br>
 Secretaria de Atenção Primária à Saúde<br>
 Departamento de Saúde da Família<br>
 Esplanada dos Ministérios - Bloco G - 7º andar<br>
