@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pontos de Controle
+title: Calendários de Reuniões
 parent:  Visão Geral - Pilotos
 nav_order: 10
 has_children: false
@@ -13,7 +13,7 @@ last_modified_date: "05/07/2021"
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-<h1> Pontos de Controle: </h1>
+<h1> Calendários de Reuniões: </h1>
 
 <div class="container">
   <br>
