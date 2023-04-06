@@ -32,16 +32,16 @@ Dúvidas relacionadas a tal recurso poderão ser tiradas no seguinte canal: pilo
 
 2 - Edite o arquivo "application.properties" e insira os seguintes parâmetros:
 
-    spring.boot.admin.client.instance.name=NOME_DO_MUNICIPIO
-    spring.boot.admin.client.url=http://pecadm.esusab.ufsc.br
-    spring.boot.admin.client.username=bridge-admin-client
-    spring.boot.admin.client.password=bridge-admin-client-pass
-    spring.boot.admin.client.period=60000
-    spring.boot.admin.client.instance.service-url=http://127.0.0.1:8080
-    management.endpoints.web.exposure.include=*
-    management.endpoint.health.show-details=always
-    graflux.enabled=true
-    graflux.server=https://graflux.ctn.bridge.ufsc.br
+            spring.boot.admin.client.instance.name=NOME_DO_MUNICIPIO
+            spring.boot.admin.client.url=http://pecadm.esusab.ufsc.br
+            spring.boot.admin.client.username=bridge-admin-client
+            spring.boot.admin.client.password=bridge-admin-client-pass
+            spring.boot.admin.client.period=60000
+            spring.boot.admin.client.instance.service-url=http://127.0.0.1:8080
+            management.endpoints.web.exposure.include=*
+            management.endpoint.health.show-details=always
+            graflux.enabled=true
+            graflux.server=https://graflux.ctn.bridge.ufsc.br
 
 3 - Altere o link de acesso ao PEC no local de http://127.0.0.1:8080 para o link do seu servidor. Caso tenham trocado a porta, colocar também a porta em que estão, exemplo: http://150.168.16.25:80
 
