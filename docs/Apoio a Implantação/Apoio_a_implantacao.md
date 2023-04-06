@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Como implantar
-parent: PEC - Multimunicipal
+parent: Apoio a Implantação
 nav_order: 10
 has_children: false
 has_toc: true
