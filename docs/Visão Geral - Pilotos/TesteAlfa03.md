@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teste Alfa e Beta
+title: Teste Alfa
 parent:  Visão Geral - Pilotos
 nav_order: 3
 has_children: false
@@ -10,7 +10,7 @@ last_modified_date: "28/02/2023"
 
 <link rel="stylesheet" type="text/css" href="../estilos.css">
 
-<h1> Teste Alfa e Beta: </h1>
+<h1> Teste Alfa:</h1>
 
 Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibilizados no Portal da Atenção Primária (APS) para ampla utilização, as soluções de software da Estratégia e-SUS APS são submetidas a várias baterias de teste que visam atestar a integridade do sistema e a ocorrência de eventuais anomalias que não foram identificadas nas etapais finais de concepção do sistema; dentre as modalidades de testes mais difundidas e amplamente empregadas, destacamos o teste alfa e beta de software, conforme texto abaixo:
 
@@ -21,10 +21,6 @@ Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibi
 ## Teste Alfa:
 
 Alfa é um teste de disponibilidade limitada realizado antes que as versões sejam liberadas para uso mais difundido. O objetivo com o teste Alfa é verificar a funcionalidade e coletar feedback de um conjunto limitado de clientes; esta modalidade de teste de software também é executado para identificar bugs antes de lançar o produto para usuários reais ou para o público. É considerado um teste de aceitação de usuário.</p>
-
-## Teste Beta:
-
-Na versão Beta, os produtos ou recursos estão prontos para testes e usos mais amplos pelos clientes. É comum as versões Beta serem anunciadas publicamente. Não há SLA em uma versão Beta, a menos que especificado de outra forma nos termos de produtos ou de um programa Beta específico. No entanto, o suporte técnico é limitado. Em média, a fase Beta dura cerca de seis meses.
 
 ## Teste alfa no PEC:
 

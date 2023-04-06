@@ -22,7 +22,7 @@ A ativação do monitoramento constitui fator imprescindível a atuação do Sup
 
 <br>
 
-Dúvidas relacionadas a tal recurso poderão ser tiradas no seguinte canal: piloto.esusab@saude.gov.br
+Dúvidas relacionadas a tal recurso poderão ser tiradas no seguinte canal: **piloto.esusab@saude.gov.br**
 
 </p>
 
