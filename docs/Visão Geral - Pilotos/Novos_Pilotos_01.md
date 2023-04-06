@@ -2,7 +2,7 @@
 layout: default
 title: Novos Pilotos
 parent:  Visão Geral - Pilotos
-nav_order: 2
+nav_order: 1
 has_children: false
 has_toc: true
 last_modified_date: "28/02/2023"
