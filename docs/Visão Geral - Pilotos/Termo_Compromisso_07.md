@@ -23,25 +23,19 @@ Conforme <b>Cláusula 4ª</b> do termo de compromisso, poderá ser objeto de res
 <br>
 <br>
 
-> <b>a.</b> Falta de envio do parecer da Secretaria de Estado de Saúde do [MUNICÍPIO] dentro dos prazos estabelecidos no item D do parágrafo I da CLÁUSULA SEGUNDA deste Termo;
-<br>
+<b>a.</b> Falta de envio do parecer da Secretaria de Estado de Saúde do [MUNICÍPIO] dentro dos prazos estabelecidos no item D do parágrafo I da CLÁUSULA SEGUNDA deste Termo;
 <br>
 <b>b.</b> Por acordo mútuo entre os pactuantes;
 <br>
-<br>
 <b>c.</b> O presente Termo poderá ser rescindido de pleno direito, antes do seu término, desde que a parte interessada comunique à outra, por escrito, da sua intenção, com a antecedência mínima de 30 (trinta) dias;
-<br>
 <br>
 <b>d.</b> Distribuição dos softwares por parte do Município ou Distrito Federal colaborador para TERCEIROS.
 <br>
-<br>
 <b>e.</b> Deixar de cumprir com as RESPONSABILIDADES e OBRIGAÇÕES referidas nos itens F, Ge L do parágrafo Ida CLÁUSULA SEGUNDA deste Termo.
 <br>
-</div>
 
 Abaixo, segue modelo do termo de compromisso, que é disponibilizado a todos os membros igualmente:
 
-<br>
 <br>
 
 <iframe src="https://cgiap-saps.github.io/Pilotos/compromisso.pdf" width="890px" height="900px"></iframe>
