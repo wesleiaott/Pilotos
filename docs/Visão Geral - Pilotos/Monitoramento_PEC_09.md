@@ -12,21 +12,21 @@ last_modified_date: "06/04/2023"
 
 <h2>Monitoramento e-SUS APS</h2>
 
-</br>
+<br>
 
 <p>
 Para apoiar no monitoramento do Prontuário Eletrônico do Cidadão - PEC que está sendo Pilotado entre os Municípios Pilotos da Estratégia e-SUS APS, o <a href="https://esusaps.freshdesk.com/">Laboratório Bridge </a>  dispõe de uma ferramenta de monitoramento interno que apoia na aferição do desempenho da aplicação, bem como identificação de eventuais gargalos e questões performáticas que ajudam no suporte e otimização da aplicação durante o período de homologação das versões.
-</br>
+<br>
 
 A ativação do monitoramento constitui fator imprescindível a atuação do Suporte Técnico e é item **obrigatório**, conforme termo de compromisso pactuado entre os Municípios Pilotos e o Ministério da Saúde.
 
-</br>
+<br>
 
 Dúvidas relacionadas a tal recurso poderão ser tiradas no seguinte canal: piloto.esusab@saude.gov.br
 
 </p>
 
-</br>
+<br>
 
 1 - Acesse o diretório padrão do PEC -> webserver -> config
 
@@ -51,7 +51,7 @@ Dúvidas relacionadas a tal recurso poderão ser tiradas no seguinte canal: pilo
 
 6 - Reiniciar o serviço do PEC.
 
-</br>
+<br>
 
 Ferramenta de monitoramento habilitada com **Sucesso!!**
 
