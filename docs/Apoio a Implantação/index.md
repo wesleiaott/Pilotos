@@ -1,9 +1,9 @@
 ---
 layout: default
-title: PEC - Multimunicipal
+title: Apoio a Implantação
 has_children: true
 description: "Manual e-SUS APS"
-permalink: /PEC Multimunicipal
+permalink: /Apoio a Implantação
 last_modified_date: "01/03/2023"
 ---
 
