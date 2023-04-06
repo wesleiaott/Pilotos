@@ -26,8 +26,6 @@ Dúvidas relacionadas a tal recurso poderão ser tiradas no seguinte canal: pilo
 
 </p>
 
-<br>
-
 1 - Acesse o diretório padrão do PEC -> webserver -> config
 
 2 - Edite o arquivo "application.properties" e insira os seguintes parâmetros:
@@ -50,8 +48,6 @@ Dúvidas relacionadas a tal recurso poderão ser tiradas no seguinte canal: pilo
 5 - Liberar o envio para: https://graflux.ctn.bridge.ufsc.br
 
 6 - Reiniciar o serviço do PEC.
-
-<br>
 
 Ferramenta de monitoramento habilitada com **Sucesso!!**
 
