@@ -8,19 +8,23 @@ has_toc: true
 last_modified_date: "01/03/2023"
 ---
 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="../estilos.css">
+
 <h1>Como Implantar:</h1>
 
 <p>Como qualquer sistema de informação que se prese, a implantação do Prontuário Eletrônico do Cidadão (PEC),
 requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. Abaixo, segue o rol de etapas necessárias para à sua adesão: </p>
 <br>
 
-<table class="table">
+<table class="table table-striped">
   <thead class="thead-dark">
     <tr>
       <th scope="col" colspan="3">Requisitos mínimos para a instalação do e-SUS APS do tipo Centralizador
 Centralizadores Municipais:</th>            
     </tr>
   </thead>
+
   <tbody>
     <tr>
       <th scope="row">1</th>
@@ -82,7 +86,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=500M"</td>
 <br>
 <br>
 
-<table class="table">
+<table class="table table-striped">
   <thead class="thead-dark">
     <tr>
       <th scope="col" colspan="3">Requisitos mínimos para a instalação do e-SUS APS do tipo Centralizador
@@ -145,7 +149,7 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
 <br>
 <br>
 
-<table class="table">
+<table class="table table-striped">
   <thead class="thead-dark">
     <tr>
       <th scope="col" colspan="3">Ambiente para até 40 usuários simultâneos:</th>            
@@ -199,7 +203,7 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
 <br>
 <br>
 
-<table class="table">
+<table class="table table-striped">
   <thead class="thead-dark">
     <tr>
       <th scope="col" colspan="3">Ambiente para até 100 usuários simultâneos:</th>            
@@ -259,7 +263,7 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
 <br>
 
 
-<table class="table">
+<table class="table table-striped">
   <thead class="thead-dark">
     <tr>
       <th scope="col" colspan="3">Ambiente para até 1000 usuários simultâneos:</th>            
@@ -323,7 +327,7 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
 <br>
 <br>
 
-<table class="table">
+<table class="table table-striped">
   <thead class="thead-dark">
     <tr>
       <th scope="col" colspan="3">Ambiente para até 2500 usuários simultâneos:</th>            
@@ -388,7 +392,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
 <br>
 <br>
 
-<table class="table">
+<table class="table table-striped">
   <thead class="thead-dark">
     <tr>
       <th scope="col" colspan="3">Ambiente para até 4000 usuários simultâneos:</th>            
