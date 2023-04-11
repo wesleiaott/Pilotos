@@ -40,7 +40,8 @@ Módulos com novidades:
   
   - Para as consultas odontológicas, é sugerida uma consulta a cada trimestre da gestação, enquanto a lotação de profissional sugerida será de profissional com CBO de dentista.
     
-<img src="./media/011.gif">
+![](./media/011.gif)
+
 <br>
 - Ainda durante os atendimentos de pré-natal, serão apresentadas as sugestões de quais serão todas as datas que deverão ocorrer os próximos acompanhamentos de pré-natal, bem como um atendimento odontológico a cada trimestre da gestação.
 <br>
