@@ -46,53 +46,70 @@ Módulos com novidades:
 - Ainda durante os atendimentos de pré-natal, serão apresentadas as sugestões de quais serão todas as datas que deverão ocorrer os próximos acompanhamentos de pré-natal, bem como um atendimento odontológico a cada trimestre da gestação.
 <br>
 <br>
-<img src="./media/012.png">
+
+![](./media/012.png)
+
 <b>Gestão da garantia do acesso.</b>
 <br>
 <br>
 Nesta nova atualização, o PEC passa a contar com o novo módulo de gestão da garantia do acesso, o objetivo do módulo é permitir que os profissionais possam criar uma lista para gerir a demanda reprimida dos estabelecimentos de saúde. Através do módulo poderão ser visualizados os contatos e demandas dos cidadãos que buscaram atendimento e não conseguiram acesso ao serviço e direcioná-los para um possível agendamento futuro.
-    <br>
-    <img src="./media/013.gif">
-    <br>
-    <br>
-    <b>Prescrição Digital</b>
-    <br>    
-    <br>
-    <li>Ao encaminhar a prescrição de medicamentos para o cidadão, será possível optar por realizar a impressão ou gerar uma prescrição digital através da opção “Prescrição digital”, caso a instalação esteja habilitada para gerar prescrições digitais. O documento da prescrição digital será gerado no formato PDF e enviado ao cidadão, que poderá utilizá-lo para retirar medicamentos. Na farmácia, será possível registar que os medicamentos da prescrição foram fornecidos.</li>
-    <li>A prescrição digital será encaminhada ao cidadão via SMS. É possível editar o telefone celular antes de encaminhar clicando no ícone de edição ao lado do número.</li>
-    <br>    
-    <img src="./media/014.gif">
+<br>
+
+![](./media/013.gif)
+
+<br>
+<br>
+<b>Prescrição Digital</b>
+<br>    
+<br>
+- Ao encaminhar a prescrição de medicamentos para o cidadão, será possível optar por realizar a impressão ou gerar uma prescrição digital através da opção “Prescrição digital”, caso a instalação esteja habilitada para gerar prescrições digitais. O documento da prescrição digital será gerado no formato PDF e enviado ao cidadão, que poderá utilizá-lo para retirar medicamentos. Na farmácia, será possível registar que os medicamentos da prescrição foram fornecidos.
+<br>
+<br>
+
+- A prescrição digital será encaminhada ao cidadão via SMS. É possível editar o telefone celular antes de encaminhar clicando no ícone de edição ao lado do número.
+<br>    
+
+![](./media/014.gif)
+
 <br>
 <br>
 - Para gerar a prescrição digital, é necessário realizar uma assinatura eletrônica do documento. O PEC irá abrir uma nova janela para o processo de assinatura.
 <br>
 <br>
-<img src="./media/015.gif">
-    <br>
-    <b>Teleinterconsulta</b>
-    <br>
-    <p>A partir desta atualização, é possível realizar teleinterconsultas diretamente no PEC através do novo módulo Videochamadas. Assim, essa modalidade de consulta entre dois profissionais pode agora ser feita através de um canal oficial de comunicação.</p>
-    <br>
-<img src="./media/016.png">
-    <p>Para utilizar essa nova funcionalidade, é necessário que o acesso à instalação seja feito utilizando o protocolo HTTPS e que o Administrador da Instalação habilite as videochamadas nas configurações de internet:</p>
-    <br>
-<img src="./media/017.gif">
-    <br>
-    <p>Depois disso, basta que seja criada uma nova chamada no módulo Videochamadas e que seja enviado o link de acesso para o profissional com quem se deseja realizar a teleinterconsulta, seja ele usuário do PEC ou não. O profissional que receber o link consegue então acessar a teleinterconsulta após preencher seus dados.</p>
-    <img src="./media/018.1.png">
-    <br>
-    <br>
-    <img src="./media/018.2.png">
-    <br>
-    <br>
+
+![](./media/015.gif)
+
+<br>
+<b>Teleinterconsulta</b>
+<br>
+<br>
+<p>A partir desta atualização, é possível realizar teleinterconsultas diretamente no PEC através do novo módulo Videochamadas. Assim, essa modalidade de consulta entre dois profissionais pode agora ser feita através de um canal oficial de comunicação.</p>
+<br>
+
+![](./media/016.png)
+
+<p>Para utilizar essa nova funcionalidade, é necessário que o acesso à instalação seja feito utilizando o protocolo HTTPS e que o Administrador da Instalação habilite as videochamadas nas configurações de internet:</p>
+<br>
+![](./media/017.gif)
+<br>
+<br>
+<p>Depois disso, basta que seja criada uma nova chamada no módulo Videochamadas e que seja enviado o link de acesso para o profissional com quem se deseja realizar a teleinterconsulta, seja ele usuário do PEC ou não. O profissional que receber o link consegue então acessar a teleinterconsulta após preencher seus dados.</p>
+<br>
+![](./media/018.1.png)
+<br>
+<br>
+![](./media/018.2.png)
+<br>
+<br>
     
 <b>RNDS - Envio de atendimentos individuais</b>
-    <br>
-    <br>
+<br>
+<br>
 
 - Agora, para as instalações com a RNDS configurada, os registros dos Atendimentos Individuais serão enviados à Rede Nacional de Dados em Saúde (RNDS) ao finalizar o respectivo atendimento.
 
 - Atualizada a página para visualização da quantidade de registros enviados, localizada no módulo de "Gestão municipal", aba "RNDS". Agora, também haverá informações de envio sobre os registros de atendimentos.
-    - 
+
 <br>
-<img src="./media/019.png">
+
+![](./media/019.png)
