@@ -88,10 +88,10 @@ Nesta nova atualização, o PEC passa a contar com o novo módulo de gestão da 
 
 ![](./media/018.2.png)
 <br>
-    
+
 <b>RNDS - Envio de atendimentos individuais</b>
 <br>
-<br>
+<br>****
 
 - Agora, para as instalações com a RNDS configurada, os registros dos Atendimentos Individuais serão enviados à Rede Nacional de Dados em Saúde (RNDS) ao finalizar o respectivo atendimento.
 
