@@ -15,7 +15,7 @@ Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibi
 Abaixo, segue excerto do Teste Alfa para Policlínicas:
 
 
-<img src="./media/02.png">
+![](./media/02.png)
 
 <br>
 
