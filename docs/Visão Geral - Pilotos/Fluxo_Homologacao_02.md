@@ -16,7 +16,6 @@ last_modified_date: "28/02/2023"
 Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o descrito das principais etapas de homologação das versões de teste do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:
 <br>
 <br>
-
 ![](../Prontuário%20Eletrônico/media/020.png)
 
 **Atores:**
