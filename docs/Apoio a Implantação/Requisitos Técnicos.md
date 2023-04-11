@@ -11,7 +11,7 @@ last_modified_date: "01/03/2023"
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="../estilos.css">
 
-<h1>Como Implantar:</h1>
+<h1>Requisitos Técnicos:</h1>
 
 <p>Como qualquer sistema de informação que se prese, a implantação do Prontuário Eletrônico do Cidadão (PEC),
 requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. Abaixo, segue o rol de etapas necessárias para à sua adesão: </p>
