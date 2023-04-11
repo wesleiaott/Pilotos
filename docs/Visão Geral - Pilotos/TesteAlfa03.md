@@ -8,25 +8,33 @@ has_toc: true
 last_modified_date: "28/02/2023"
 ---
 
-<link rel="stylesheet" type="text/css" href="../estilos.css">
-
 <h1> Teste Alfa:</h1>
 
-Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibilizados no Portal da Atenção Primária (APS) para ampla utilização, as soluções de software da Estratégia e-SUS APS são submetidas a várias baterias de teste que visam atestar a integridade do sistema e a ocorrência de eventuais anomalias que não foram identificadas nas etapais finais de concepção do sistema; dentre as modalidades de testes mais difundidas e amplamente empregadas, destacamos o teste alfa e beta de software, conforme texto abaixo:
+Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibilizados no ambiente de homologação para larga utilização entre os Pilotos da Estratégia e-SUS APS,  é necessário verificar a conformidade da aplicação, ante os requisitos que foram levantados durante a "Fase de Descoberta"; Tal mapeamento ocorre durante a fase intitulada **TESTE ALFA**. Nesta fase, as principais funcionalidades desenvolvidas serão testadas e avaliadas para posterior liberação da versão ao ambiente de homologação.
 
-![fluxo](./media/releases.PNG)
+Abaixo, segue excerto do Teste Alfa para Policlínicas:
+
+
+<img src="./media/02.png">
 
 <br>
-
-## Teste Alfa:
-
-Alfa é um teste de disponibilidade limitada realizado antes que as versões sejam liberadas para uso mais difundido. O objetivo com o teste Alfa é verificar a funcionalidade e coletar feedback de um conjunto limitado de clientes; esta modalidade de teste de software também é executado para identificar bugs antes de lançar o produto para usuários reais ou para o público. É considerado um teste de aceitação de usuário.</p>
 
 ## Teste alfa no PEC:
 
 No âmbito do Prontuário Eletrônico do Cidadão (PEC), solicitamos aos profissionais que percorram alguns fluxos do sistema e avaliem algumas perguntas realizadas conforme a atividade proposta.
 
-As tarefas geralmente são realizadas na versão de homologação do sistema (que contém apenas dados de cidad~so fictícios), disponível em link previamente disponibilizado.
+As tarefas geralmente são realizadas na versão de homologação do sistema (que contém apenas dados de cidadãos fictícios), disponível em link previamente disponibilizado.
+
+**Atividade de exemplo proposta:**
+
+        "Acesse o sistema como um Enfermeiro ou Técnico de enfermagem e realize uma Escuta inicial para o cidadão Mario Andrade que chegou na policlínica através da regulação para o serviço de cardiologia. 
+
+        O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construção civil. Foi encaminhado pela Unidade Básica do Centro para o serviço de cardiologia de sua policlínica com suspeita de Insuficiência Cardíaca Agudizada.
+
+        O cidadão refere que, há 1 ano, começou a cursar com dispneia aos grandes esforços. Tal sintoma se acentuou ao longo dos meses, passando a ocorrer aos médios esforços com dificuldades para subir as escadas de casa e, há 1 mês, ao repouso. Comenta, ainda, que não tolera o decúbito dorsal, e que “permanece na posição sentada para conseguir respirar” (sic), sentindo piora considerável da dispneia quando se deita. Associadamente, refere surgimento e piora gradativa de tosse seca há 4 meses, a qual se acentua no final da tarde e noite. Refere perda ponderal de aproximadamente 06 kg, associada a redução do apetite nos últimos 06 meses. Nega febre, sudorese, astenia, mal-estar ou disgeusia.  Refere tabagismo (15 anos-maço), alcoolismo (ao menos 250ml de destilado diariamente de segunda à quinta-feira e 500-750ml de destilado diariamente de sexta feira à domingo. Nega uso de drogas ilícitas. Não realiza atividades físicas. Mora em casa própria, de alvenaria, com saneamento básico e coleta de lixo.
+        Paciente relata hipertensão (diagnosticado há mais de 10 anos) e diabetes tipo II (diagnosticado há menos de 6 meses). Relata uso de Losartana 50mg 12/12h, Anlodipino 5mg 1x/dia, Metformina XR 750mg após o almoço e após o jantar e Gliclazida 30mg antes do almoço.
+
+        Simule um atendimento de Escuta inicial para o cidadão."
 
 **Algumas orientações:**
 
