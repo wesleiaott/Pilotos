@@ -39,7 +39,7 @@ Módulos com novidades:
 <ul>
     <li>Para o acompanhamento de pré-natal, a data da próxima consulta é sugerida conforme a idade gestacional, respeitando as cadências estipuladas na caderneta da gestante, enquanto a lotação de profissional alterna entre profissionais com CBO de médico e enfermeiro.</li>
     <li>Para as consultas odontológicas, é sugerida uma consulta a cada trimestre da gestação, enquanto a lotação de profissional sugerida será de profissional com CBO de dentista.</li>
-    <br>
+    <br>    
     <img src="./media/011.gif">
     <br>
     <li>Ainda durante os atendimentos de pré-natal, serão apresentadas as sugestões de quais serão todas as datas que deverão ocorrer os próximos acompanhamentos de pré-natal, bem como um atendimento odontológico a cada trimestre da gestação.</li>
