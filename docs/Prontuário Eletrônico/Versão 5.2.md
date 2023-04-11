@@ -20,8 +20,7 @@ Facilidades no agendamento de consultas de pré-natal:
 - Prescrição digital
 - Teleinterconsulta
 - RNDS - Envio de atendimentos individuais
-
-<b>Facilidades no agendamento de consultas de pré-natal</b>
+- Facilidades no agendamento de consultas de pré-natal
 
 <p>Com a nova funcionalidade de agendamentos, durante um atendimento de pré-natal, será possível realizar o <b>agendamento da próxima consulta para acompanhamento de pré-natal e a consulta odontológica de pré-natal.</b> O PEC irá <b>sugerir a data e lotação de profissional</b>, sendo que a pessoa responsável pelo atendimento tem liberdade para alterar essas informações conforme disponibilidade das partes envolvidas.</p>
 
@@ -51,7 +50,7 @@ Nesta nova atualização, o PEC passa a contar com o novo módulo de gestão da 
 <b>Prescrição Digital</b>
 
 <br>
-Ao encaminhar a prescrição de medicamentos para o cidadão, será possível optar por realizar a impressão ou gerar uma prescrição digital através da opção “Prescrição digital”, caso a instalação esteja habilitada para gerar prescrições digitais. O documento da prescrição digital será gerado no formato PDF e enviado ao cidadão, que poderá utilizá-lo para retirar medicamentos. Na farmácia, será possível registar que os medicamentos da prescrição foram fornecidos.
+- Ao encaminhar a prescrição de medicamentos para o cidadão, será possível optar por realizar a impressão ou gerar uma prescrição digital através da opção “Prescrição digital”, caso a instalação esteja habilitada para gerar prescrições digitais. O documento da prescrição digital será gerado no formato PDF e enviado ao cidadão, que poderá utilizá-lo para retirar medicamentos. Na farmácia, será possível registar que os medicamentos da prescrição foram fornecidos.
 <br>
 <br>
 
@@ -80,7 +79,6 @@ Ao encaminhar a prescrição de medicamentos para o cidadão, será possível op
 
 ![](./media/017.gif)
 <br>
-<br>
 <p>Depois disso, basta que seja criada uma nova chamada no módulo Videochamadas e que seja enviado o link de acesso para o profissional com quem se deseja realizar a teleinterconsulta, seja ele usuário do PEC ou não. O profissional que receber o link consegue então acessar a teleinterconsulta após preencher seus dados.</p>
 <br>
 
@@ -90,7 +88,6 @@ Ao encaminhar a prescrição de medicamentos para o cidadão, será possível op
 
 ![](./media/018.2.png)
 <br>
-<br>
     
 <b>RNDS - Envio de atendimentos individuais</b>
 <br>
@@ -99,7 +96,6 @@ Ao encaminhar a prescrição de medicamentos para o cidadão, será possível op
 - Agora, para as instalações com a RNDS configurada, os registros dos Atendimentos Individuais serão enviados à Rede Nacional de Dados em Saúde (RNDS) ao finalizar o respectivo atendimento.
 
 - Atualizada a página para visualização da quantidade de registros enviados, localizada no módulo de "Gestão municipal", aba "RNDS". Agora, também haverá informações de envio sobre os registros de atendimentos.
-
 <br>
 
 ![](./media/019.png)
