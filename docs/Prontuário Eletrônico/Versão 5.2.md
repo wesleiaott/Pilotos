@@ -12,25 +12,14 @@ last_modified_date: "11/04/2023"
 
 <h1>Versão 5.2</h1>
 
-Módulos com novidades:
-<ul>
-    <li>Prescrição digital</li>
-    <li>Teleinterconsulta</li>
-    <li>Gestão da garantia de acesso</li>
-    <li>Facilidades no agendamento de consultas de pré-natal</li>
-    <li>RNDS - Envio do Registro de Atendimento Clínico (RAC)</li>    
-</ul>
-
 <b>Novidades:</b>
 
-<ul>
-    <br>
-    <li>Facilidades no agendamento de consultas de pré-natal</li>
-    <li>Gestão da garantia do acesso</li>
-    <li>Prescrição digital</li>
-    <li>Teleinterconsulta</li>
-    <li>RNDS - Envio de atendimentos individuais</li>
-</ul>
+Facilidades no agendamento de consultas de pré-natal:
+
+- Gestão da garantia do acesso
+- Prescrição digital
+- Teleinterconsulta
+- RNDS - Envio de atendimentos individuais
 
 <b>Facilidades no agendamento de consultas de pré-natal</b>
 
@@ -58,11 +47,11 @@ Nesta nova atualização, o PEC passa a contar com o novo módulo de gestão da 
 ![](./media/013.gif)
 
 <br>
-<br>
+
 <b>Prescrição Digital</b>
-<br>    
+
 <br>
-- Ao encaminhar a prescrição de medicamentos para o cidadão, será possível optar por realizar a impressão ou gerar uma prescrição digital através da opção “Prescrição digital”, caso a instalação esteja habilitada para gerar prescrições digitais. O documento da prescrição digital será gerado no formato PDF e enviado ao cidadão, que poderá utilizá-lo para retirar medicamentos. Na farmácia, será possível registar que os medicamentos da prescrição foram fornecidos.
+Ao encaminhar a prescrição de medicamentos para o cidadão, será possível optar por realizar a impressão ou gerar uma prescrição digital através da opção “Prescrição digital”, caso a instalação esteja habilitada para gerar prescrições digitais. O documento da prescrição digital será gerado no formato PDF e enviado ao cidadão, que poderá utilizá-lo para retirar medicamentos. Na farmácia, será possível registar que os medicamentos da prescrição foram fornecidos.
 <br>
 <br>
 
@@ -72,16 +61,14 @@ Nesta nova atualização, o PEC passa a contar com o novo módulo de gestão da 
 ![](./media/014.gif)
 
 <br>
-<br>
-- Para gerar a prescrição digital, é necessário realizar uma assinatura eletrônica do documento. O PEC irá abrir uma nova janela para o processo de assinatura.
-<br>
+
+- Para gerar a prescrição digital, é necessário realizar uma assinatura eletrônica do documento. O PEC irá abrir uma nova janela para o processo de assinatura.  
+
 <br>
 
 ![](./media/015.gif)
 
-<br>
 <b>Teleinterconsulta</b>
-<br>
 <br>
 <p>A partir desta atualização, é possível realizar teleinterconsultas diretamente no PEC através do novo módulo Videochamadas. Assim, essa modalidade de consulta entre dois profissionais pode agora ser feita através de um canal oficial de comunicação.</p>
 <br>
@@ -90,14 +77,17 @@ Nesta nova atualização, o PEC passa a contar com o novo módulo de gestão da 
 
 <p>Para utilizar essa nova funcionalidade, é necessário que o acesso à instalação seja feito utilizando o protocolo HTTPS e que o Administrador da Instalação habilite as videochamadas nas configurações de internet:</p>
 <br>
+
 ![](./media/017.gif)
 <br>
 <br>
 <p>Depois disso, basta que seja criada uma nova chamada no módulo Videochamadas e que seja enviado o link de acesso para o profissional com quem se deseja realizar a teleinterconsulta, seja ele usuário do PEC ou não. O profissional que receber o link consegue então acessar a teleinterconsulta após preencher seus dados.</p>
 <br>
+
 ![](./media/018.1.png)
 <br>
 <br>
+
 ![](./media/018.2.png)
 <br>
 <br>
