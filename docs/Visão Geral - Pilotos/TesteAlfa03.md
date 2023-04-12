@@ -26,6 +26,7 @@ Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibi
 <br>
 Exemplo de Formulário para o <b>Teste Alfa para Policlínicas</b>:
 <br>
+<br>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="1" class="active"></li>
