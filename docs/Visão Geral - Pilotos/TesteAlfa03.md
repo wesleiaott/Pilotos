@@ -96,10 +96,11 @@ O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construç�
 <br>
 <h6>Algumas orientações:</h6>
 <br>
-<br>
-- As tarefas propostas devem ser realizaads por profissionais que utilizam o sistema no seu dia a dia;
-- Os profissionais deverão simular a sua rotina de trabalho e os possíveis imprevistos que podem acontecer durante a utilização do sistema, a fim de avaliar se há algo a ser melhorado na nova funcionalidade.
-<br>
+<ul>
+    <li>As tarefas propostas devem ser realizaads por profissionais que utilizam o sistema no seu dia a dia;</li>
+    <br>
+    <li>Os profissionais deverão simular a sua rotina de trabalho e os possíveis imprevistos que podem acontecer durante a utilização do sistema, a fim de avaliar se há algo a ser melhorado na nova funcionalidade.</li>
+</ul>
 <br>
 <b>OBSERVAÇÃO:</b> A avaliação deverá ser feita utilizando o formulário fornecido e deverá ser respondido até a data proposta. Em caso de dificuldades ou erros durante o preenchimento do formulário, orientamos encaminhar e-mail para <b>piloto.esusab@saude.gov.br</b> ou o relato deverá ser registrado no Grupo dos Pilotos no WhatsApp.
 
