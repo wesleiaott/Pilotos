@@ -26,6 +26,7 @@ Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibi
 
 Abaixo, segue trecho do Teste Alfa para Policlínicas:
 <br>
+<br>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="1" class="active"></li>
@@ -35,7 +36,9 @@ Abaixo, segue trecho do Teste Alfa para Policlínicas:
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/02.PNG" alt="Primeiro Slide">
+      <img class="d-block w-100" class="carousel-caption d-none d-md-block" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/02.PNG" alt="Primeiro Slide">
+      <h5>Primeiro Slide</h5>
+      <p>Título do primeio slide</p>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/03.PNG" alt="Segundo Slide">
