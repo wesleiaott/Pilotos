@@ -22,9 +22,9 @@ last_modified_date: "28/02/2023"
 <h1> Teste Alfa:</h1>
 <br>
 Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibilizados no ambiente de homologação para larga utilização entre os Pilotos da Estratégia e-SUS APS,  é necessário verificar a conformidade da aplicação, ante os requisitos que foram levantados durante a "Fase de Descoberta"; Tal mapeamento ocorre durante a fase intitulada <b>TESTE ALFA</b>. Nesta fase, as principais funcionalidades desenvolvidas serão testadas e avaliadas para posterior liberação da versão ao ambiente de homologação.
-
-Abaixo, segue trecho do Teste Alfa para Policlínicas:
 <br>
+<br>
+Exemplo de Formulário para o <b>Teste Alfa para Policlínicas</b>:
 <br>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -88,9 +88,7 @@ O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construç�
     <p style="background-color:#E6E5F0; padding:15px;border-radius:5px;">O cidadão refere que, há 1 ano, começou a cursar com dispneia aos grandes esforços. Tal sintoma se acentuou ao longo dos meses, passando a ocorrer aos médios esforços com dificuldades para subir as escadas de casa e, há 1 mês, ao repouso. Comenta, ainda, que não tolera o decúbito dorsal, e que “permanece na posição sentada para conseguir respirar” (sic), sentindo piora considerável da dispneia quando se deita. Associadamente, refere surgimento e piora gradativa de tosse seca há 4 meses, a qual se acentua no final da tarde e noite. Refere perda ponderal de aproximadamente 06 kg, associada a redução do apetite nos últimos 06 meses. Nega febre, sudorese, astenia, mal-estar ou disgeusia.  Refere tabagismo (15 anos-maço), alcoolismo (ao menos 250ml de destilado diariamente de segunda à quinta-feira e 500-750ml de destilado diariamente de sexta feira à domingo. Nega uso de drogas ilícitas. Não realiza atividades físicas. Mora em casa própria, de alvenaria, com saneamento básico e coleta de lixo.
     Paciente relata hipertensão (diagnosticado há mais de 10 anos) e diabetes tipo II (diagnosticado há menos de 6 meses). Relata uso de Losartana 50mg 12/12h, Anlodipino 5mg 1x/dia, Metformina XR 750mg após o almoço e após o jantar e Gliclazida 30mg antes do almoço.</p>
 <br>
-<br>
 <h4>Simule um atendimento de Escuta inicial para o cidadão.</h4>
-<br>
 <br>
 <h4>Algumas orientações:</h4>
 <br>
