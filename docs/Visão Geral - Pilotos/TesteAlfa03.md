@@ -61,30 +61,39 @@ Abaixo, segue trecho do Teste Alfa para Policlínicas:
 <br>
 
 ## Teste alfa no PEC:
-
+<br>
 No âmbito do Prontuário Eletrônico do Cidadão (PEC), solicitamos aos profissionais que percorram alguns fluxos do sistema e avaliem algumas perguntas realizadas conforme a atividade proposta.
 
 As tarefas geralmente são realizadas na versão de homologação do sistema (que contém apenas dados de cidadãos fictícios), disponível em link previamente disponibilizado.
 
 **Atividade de exemplo proposta:**
-
+<br>
+<br>
 Durante a realização do "Teste Alfa", você será solicitado a executar várias tarefas propostas, como se estive em ambiente real de atendimento clínico no estabelecimento de saúde e será solicitado executar várias atividades, como proposto abaixo:
-
+<br>
+<br>
 **Como Enfermeiro**
-
+<br>
+<br>
 "Acesse o sistema como um Enfermeiro ou Técnico de enfermagem e realize uma Escuta inicial para o cidadão Mario Andrade que chegou na policlínica através da regulação para o serviço de cardiologia. 
-
+<br>
+<br>
 **Cidadão chega a UBS por demanda espontânea:**
-
+<br>
+<br>
 O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construção civil. Foi encaminhado pela Unidade Básica do Centro para o serviço de cardiologia de sua policlínica com suspeita de Insuficiência Cardíaca Agudizada.
-
+<br>
+<br>
 **Relato do paciente:**
-
+<br>
+<br>
     O cidadão refere que, há 1 ano, começou a cursar com dispneia aos grandes esforços. Tal sintoma se acentuou ao longo dos meses, passando a ocorrer aos médios esforços com dificuldades para subir as escadas de casa e, há 1 mês, ao repouso. Comenta, ainda, que não tolera o decúbito dorsal, e que “permanece na posição sentada para conseguir respirar” (sic), sentindo piora considerável da dispneia quando se deita. Associadamente, refere surgimento e piora gradativa de tosse seca há 4 meses, a qual se acentua no final da tarde e noite. Refere perda ponderal de aproximadamente 06 kg, associada a redução do apetite nos últimos 06 meses. Nega febre, sudorese, astenia, mal-estar ou disgeusia.  Refere tabagismo (15 anos-maço), alcoolismo (ao menos 250ml de destilado diariamente de segunda à quinta-feira e 500-750ml de destilado diariamente de sexta feira à domingo. Nega uso de drogas ilícitas. Não realiza atividades físicas. Mora em casa própria, de alvenaria, com saneamento básico e coleta de lixo.
     Paciente relata hipertensão (diagnosticado há mais de 10 anos) e diabetes tipo II (diagnosticado há menos de 6 meses). Relata uso de Losartana 50mg 12/12h, Anlodipino 5mg 1x/dia, Metformina XR 750mg após o almoço e após o jantar e Gliclazida 30mg antes do almoço.
-
+<br>
+<br>
 **Simule um atendimento de Escuta inicial para o cidadão.**
-
+<br>
+<br>
 **Algumas orientações:**
 
 * As tarefas propostas devem ser realizaads por profissionais que utilizam o sistema no seu dia a dia;
