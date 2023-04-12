@@ -61,6 +61,7 @@ Exemplo de Formulário para o <b>Teste Alfa para Policlínicas</b>:
 
 <h2>Teste alfa no PEC:</h2>
 <br>
+<br>
 No âmbito do Prontuário Eletrônico do Cidadão (PEC), solicitamos aos profissionais que percorram alguns fluxos do sistema e avaliem algumas perguntas realizadas conforme a atividade proposta.
 
 As tarefas geralmente são realizadas na versão de homologação do sistema (que contém apenas dados de cidadãos fictícios), disponível em link previamente disponibilizado.
