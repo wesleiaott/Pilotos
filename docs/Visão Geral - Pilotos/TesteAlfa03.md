@@ -16,7 +16,7 @@ Abaixo, segue excerto do Teste Alfa para Policlínicas:
 
 <br>
 
-![](./media/02.png)
+![](media/02.png)
 
 <br>
 
