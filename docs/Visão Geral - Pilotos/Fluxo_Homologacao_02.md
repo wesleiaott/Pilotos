@@ -19,7 +19,7 @@ Objetivando maximizar a compreensão sobre os processos que norteiam o processo 
 
 <!-- ![](./media/01.png)-->
 
-<img src="./media/01.png">
+<img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/logo_homehost.png">
 
 **Principais atores envolvidos:**
 
