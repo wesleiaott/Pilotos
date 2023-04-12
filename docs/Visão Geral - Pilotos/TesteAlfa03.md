@@ -33,13 +33,13 @@ Abaixo, segue trecho do Teste Alfa para Policlínicas:
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src=".\media\01.png" alt="Primeiro Slide">
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/02.PNG" alt="Primeiro Slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src=".\media\02.png" alt="Segundo Slide">
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/02.PNG" alt="Segundo Slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src=".\media\01.png" alt="Terceiro Slide">
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/02.PNG" alt="Terceiro Slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
