@@ -17,7 +17,9 @@ Objetivando maximizar a compreensão sobre os processos que norteiam o processo 
 <br>
 <br>
 
-![](./media/01.png)
+<!-- ![](./media/01.png)-->
+
+<img src="./media/01.png">
 
 **Principais atores envolvidos:**
 
