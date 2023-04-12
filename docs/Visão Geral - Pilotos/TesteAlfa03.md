@@ -15,7 +15,6 @@ last_modified_date: "28/02/2023"
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-
 </head>
 
 <body>
@@ -66,35 +65,34 @@ No âmbito do Prontuário Eletrônico do Cidadão (PEC), solicitamos aos profiss
 
 As tarefas geralmente são realizadas na versão de homologação do sistema (que contém apenas dados de cidadãos fictícios), disponível em link previamente disponibilizado.
 
-<h6>Atividade de exemplo proposta:</h6>
-<br>
+<h4>Atividade de exemplo proposta:</h4>
 <br>
 Durante a realização do "Teste Alfa", você será solicitado a executar várias tarefas propostas, como se estive em ambiente real de atendimento clínico no estabelecimento de saúde e será solicitado executar várias atividades, como proposto abaixo:
 <br>
 <br>
-<h6>Como Enfermeiro</h6>
+<h4>Como Enfermeiro</h4>
 <br>
 <br>
 "Acesse o sistema como um Enfermeiro ou Técnico de enfermagem e realize uma Escuta inicial para o cidadão Mario Andrade que chegou na policlínica através da regulação para o serviço de cardiologia. 
 <br>
 <br>
-<h6>Cidadão chega a UBS por demanda espontânea:</h6>
+<h4>Cidadão chega a UBS por demanda espontânea:</h4>
 <br>
 <br>
 O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construção civil. Foi encaminhado pela Unidade Básica do Centro para o serviço de cardiologia de sua policlínica com suspeita de Insuficiência Cardíaca Agudizada.
 <br>
 <br>
-<h6>Relato do paciente:</h6>
+<h4>Relato do paciente:</h4>
 <br>
 <br>
     O cidadão refere que, há 1 ano, começou a cursar com dispneia aos grandes esforços. Tal sintoma se acentuou ao longo dos meses, passando a ocorrer aos médios esforços com dificuldades para subir as escadas de casa e, há 1 mês, ao repouso. Comenta, ainda, que não tolera o decúbito dorsal, e que “permanece na posição sentada para conseguir respirar” (sic), sentindo piora considerável da dispneia quando se deita. Associadamente, refere surgimento e piora gradativa de tosse seca há 4 meses, a qual se acentua no final da tarde e noite. Refere perda ponderal de aproximadamente 06 kg, associada a redução do apetite nos últimos 06 meses. Nega febre, sudorese, astenia, mal-estar ou disgeusia.  Refere tabagismo (15 anos-maço), alcoolismo (ao menos 250ml de destilado diariamente de segunda à quinta-feira e 500-750ml de destilado diariamente de sexta feira à domingo. Nega uso de drogas ilícitas. Não realiza atividades físicas. Mora em casa própria, de alvenaria, com saneamento básico e coleta de lixo.
     Paciente relata hipertensão (diagnosticado há mais de 10 anos) e diabetes tipo II (diagnosticado há menos de 6 meses). Relata uso de Losartana 50mg 12/12h, Anlodipino 5mg 1x/dia, Metformina XR 750mg após o almoço e após o jantar e Gliclazida 30mg antes do almoço.
 <br>
 <br>
-<h6>Simule um atendimento de Escuta inicial para o cidadão.</h6>
+<h4>Simule um atendimento de Escuta inicial para o cidadão.</h4>
 <br>
 <br>
-<h6>Algumas orientações:</h6>
+<h4>Algumas orientações:</h4>
 <br>
 <ul>
     <li>As tarefas propostas devem ser realizaads por profissionais que utilizam o sistema no seu dia a dia;</li>
