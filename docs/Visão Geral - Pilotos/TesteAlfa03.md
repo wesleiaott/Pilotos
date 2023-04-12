@@ -36,9 +36,7 @@ Abaixo, segue trecho do Teste Alfa para Policlínicas:
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" class="carousel-caption d-none d-md-block" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/02.PNG" alt="Primeiro Slide">
-      <h5>Primeiro Slide</h5>
-      <p>Título do primeio slide</p>
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/02.PNG" alt="Primeiro Slide">      
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/03.PNG" alt="Segundo Slide">
@@ -70,14 +68,22 @@ As tarefas geralmente são realizadas na versão de homologação do sistema (qu
 
 **Atividade de exemplo proposta:**
 
+Durante a realização do "Teste Alfa", você será solicitado a executar várias tarefas propostas, como se estive em ambiente real de atendimento clínico no estabelecimento de saúde e será solicitado executar várias atividades, como proposto abaixo:
+
+**Como Enfermeiro**
+
 "Acesse o sistema como um Enfermeiro ou Técnico de enfermagem e realize uma Escuta inicial para o cidadão Mario Andrade que chegou na policlínica através da regulação para o serviço de cardiologia. 
+
+**Cidadão chega a UBS por demanda espontânea:**
 
 O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construção civil. Foi encaminhado pela Unidade Básica do Centro para o serviço de cardiologia de sua policlínica com suspeita de Insuficiência Cardíaca Agudizada.
 
-O cidadão refere que, há 1 ano, começou a cursar com dispneia aos grandes esforços. Tal sintoma se acentuou ao longo dos meses, passando a ocorrer aos médios esforços com dificuldades para subir as escadas de casa e, há 1 mês, ao repouso. Comenta, ainda, que não tolera o decúbito dorsal, e que “permanece na posição sentada para conseguir respirar” (sic), sentindo piora considerável da dispneia quando se deita. Associadamente, refere surgimento e piora gradativa de tosse seca há 4 meses, a qual se acentua no final da tarde e noite. Refere perda ponderal de aproximadamente 06 kg, associada a redução do apetite nos últimos 06 meses. Nega febre, sudorese, astenia, mal-estar ou disgeusia.  Refere tabagismo (15 anos-maço), alcoolismo (ao menos 250ml de destilado diariamente de segunda à quinta-feira e 500-750ml de destilado diariamente de sexta feira à domingo. Nega uso de drogas ilícitas. Não realiza atividades físicas. Mora em casa própria, de alvenaria, com saneamento básico e coleta de lixo.
-Paciente relata hipertensão (diagnosticado há mais de 10 anos) e diabetes tipo II (diagnosticado há menos de 6 meses). Relata uso de Losartana 50mg 12/12h, Anlodipino 5mg 1x/dia, Metformina XR 750mg após o almoço e após o jantar e Gliclazida 30mg antes do almoço.
+**Relato do paciente:**
 
-Simule um atendimento de Escuta inicial para o cidadão."
+    O cidadão refere que, há 1 ano, começou a cursar com dispneia aos grandes esforços. Tal sintoma se acentuou ao longo dos meses, passando a ocorrer aos médios esforços com dificuldades para subir as escadas de casa e, há 1 mês, ao repouso. Comenta, ainda, que não tolera o decúbito dorsal, e que “permanece na posição sentada para conseguir respirar” (sic), sentindo piora considerável da dispneia quando se deita. Associadamente, refere surgimento e piora gradativa de tosse seca há 4 meses, a qual se acentua no final da tarde e noite. Refere perda ponderal de aproximadamente 06 kg, associada a redução do apetite nos últimos 06 meses. Nega febre, sudorese, astenia, mal-estar ou disgeusia.  Refere tabagismo (15 anos-maço), alcoolismo (ao menos 250ml de destilado diariamente de segunda à quinta-feira e 500-750ml de destilado diariamente de sexta feira à domingo. Nega uso de drogas ilícitas. Não realiza atividades físicas. Mora em casa própria, de alvenaria, com saneamento básico e coleta de lixo.
+    Paciente relata hipertensão (diagnosticado há mais de 10 anos) e diabetes tipo II (diagnosticado há menos de 6 meses). Relata uso de Losartana 50mg 12/12h, Anlodipino 5mg 1x/dia, Metformina XR 750mg após o almoço e após o jantar e Gliclazida 30mg antes do almoço.
+
+**Simule um atendimento de Escuta inicial para o cidadão.**
 
 **Algumas orientações:**
 
