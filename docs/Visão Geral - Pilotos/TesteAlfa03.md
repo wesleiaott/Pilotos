@@ -23,8 +23,8 @@ last_modified_date: "28/02/2023"
 
 Antes do Prontuário Eletrônico do Cidadão (PEC) e aplicativos serem disponibilizados no ambiente de homologação para larga utilização entre os Pilotos da Estratégia e-SUS APS,  é necessário verificar a conformidade da aplicação, ante os requisitos que foram levantados durante a "Fase de Descoberta"; Tal mapeamento ocorre durante a fase intitulada **TESTE ALFA**. Nesta fase, as principais funcionalidades desenvolvidas serão testadas e avaliadas para posterior liberação da versão ao ambiente de homologação.
 
-Abaixo, segue excerto do Teste Alfa para Policlínicas:
-
+Abaixo, segue trecho do Teste Alfa para Policlínicas:
+<br>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
