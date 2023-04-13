@@ -14,7 +14,7 @@ last_modified_date: "05/07/2021"
 
 <h1> Calendários de Reuniões 2023: </h1>
 
-<table class="table table-striped">
+<table class="table table-hover">
   <thead>
     <tr>
       <th scope="col">Mês:</th>
