@@ -17,7 +17,7 @@ last_modified_date: "05/07/2021"
 <p>Registro de todas as pautas técnicas que foram debatidas nas reuniões envolvendo os Municípios Pilotos da Estratégia e-SUS APS:</p>
 <br>
 <table class="table">
-  <thead style="background-color:#4D4646; color:#FFFF;">
+  <thead>
     <tr>
       <th scope="col">Mês:</th>
       <th scope="col">Data:</th>
@@ -31,7 +31,7 @@ last_modified_date: "05/07/2021"
       <th scope="row">Janeiro</th>
       <td>
         01/02/2023: Reunião mensal de alinhamento<br>
-        01/02/2023: Ponto de Controle Mensal SAPS e Municípios Pilotos<br>
+        01/02/2023: Ponto de Controle SAPS e Pilotos<br>
         01/02/2023: 1ª Reunião quinzenal<br>
         15/02/2023: 2ª Reunião quinzenal<br>        
       </td> 
