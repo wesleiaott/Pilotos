@@ -31,7 +31,7 @@ last_modified_date: "05/07/2021"
       <th scope="row">Janeiro:</th>
       <td>
         01/02/2023: Reunião Mensal<br>
-        01/02/2023: Ponto de Controle Mensal<br>
+        01/02/2023: Ponto de Controle<br>
         01/02/2023: 1ª Reunião quinzenal<br>
         15/02/2023: 2ª Reunião quinzenal<br>        
       </td> 
@@ -58,7 +58,7 @@ last_modified_date: "05/07/2021"
       <th scope="row">Fevereiro:</th>
       <td>
         01/02/2023: Reunião Mensal<br>
-        01/02/2023: Ponto de Controle Mensal<br>
+        01/02/2023: Ponto de Controle<br>
         01/02/2023: 1ª Reunião quinzenal<br>
         15/02/2023: 2ª Reunião quinzenal<br>
       </td> 
@@ -85,7 +85,7 @@ last_modified_date: "05/07/2021"
       <th scope="row">Março:</th>
       <td>
         01/02/2023: Reunião Mensal<br>
-        01/02/2023: Ponto de Controle Mensal<br>
+        01/02/2023: Ponto de Controle<br>
         01/02/2023: 1ª Reunião quinzenal<br>
         15/02/2023: 2ª Reunião quinzenal<br>
       </td> 
@@ -112,7 +112,7 @@ last_modified_date: "05/07/2021"
       <th scope="row">Abril:</th>
       <td>
         01/02/2023: Reunião Mensal<br>
-        01/02/2023: Ponto de Controle Mensal<br>
+        01/02/2023: Ponto de Controle<br>
         01/02/2023: 1ª Reunião quinzenal<br>
         15/02/2023: 2ª Reunião quinzenal<br>
       </td>
@@ -133,7 +133,7 @@ last_modified_date: "05/07/2021"
       <th scope="row">Maio:</th>
       <td>
         01/02/2023: Reunião Mensal<br>
-        01/02/2023: Ponto de Controle Mensal<br>
+        01/02/2023: Ponto de Controle<br>
         01/02/2023: 1ª Reunião quinzenal<br>
         15/02/2023: 2ª Reunião quinzenal<br>
       </td>  
@@ -154,7 +154,7 @@ last_modified_date: "05/07/2021"
       <th scope="row">Junho:</th>
       <td>
         01/02/2023: Reunião Mensal<br>
-        01/02/2023: Ponto de Controle Mensal<br>
+        01/02/2023: Ponto de Controle<br>
         01/02/2023: 1ª Reunião quinzenal<br>
         15/02/2023: 2ª Reunião quinzenal<br>
       </td> 
