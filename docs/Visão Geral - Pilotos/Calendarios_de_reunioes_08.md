@@ -20,7 +20,8 @@ last_modified_date: "05/07/2021"
       <th scope="col">Mês:</th>
       <th scope="col">Data:</th>
       <th scope="col">Horário:</th>
-      <th scope="col">Status:</th>      
+      <th scope="col">Status:</th>
+      <th scope="col">Memória da Reunião</th>      
     </tr>
   </thead>
   <tbody>
@@ -39,11 +40,17 @@ last_modified_date: "05/07/2021"
         15hs30<br>
       </td>
       <td>
-       <a href="#">Não realizada</a><br>
-       <a href="#">Não realizada</a><br>
-       <a href="#">Não realizada</a><br>
-       <a href="#">Não realizada</a><br>
+       Não realizada<br>
+       Não realizada<br>
+       Não realizada<br>
+       Não realizada<br>
       </td>   
+      <td>
+      <a href="#">Não há</a><br>
+      <a href="#">Não há</a><br>
+      <a href="#">Não há</a><br>
+      <a href="#">Não há</a><br>
+      </td>
     </tr>
     <tr>
       <th scope="row">Fevereiro</th>
@@ -60,11 +67,17 @@ last_modified_date: "05/07/2021"
         15hs30<br>
       </td> 
       <td>
-       <a href="#">Não realizada</a><br>
-       <a href="#">Não realizada</a><br>
-       <a href="#">Concluída</a><br>
-       <a href="#">Concluída</a><br>
+       Não realizada<br>
+       Não realizada<br>
+       Concluída<br>
+       Concluída<br>
       </td>   
+      <td>
+      <a href="#">Não há</a><br>
+      <a href="#">Não há</a><br>
+      <a href="#">Ata da reunião</a><br>
+      <a href="#">Ata da reunião</a><br>
+      </td>
     </tr>
     <tr>
       <th scope="row">Março</th>
@@ -80,11 +93,17 @@ last_modified_date: "05/07/2021"
         15hs30<br>
         15hs30<br>
       </td>  <td>
-       <a href="#">Concluída</a><br>
-       <a href="#">Concluída</a><br>
-       <a href="#">Concluída</a><br>
-       <a href="#">Concluída</a><br>
-      </td>           
+       Concluída<br>
+       Concluída<br>
+       Concluída<br>
+       Concluída<br>
+      </td>        
+      <td>
+      <a href="#">Ata da reunião</a><br>
+      <a href="#">Ata da reunião</a><br>
+      <a href="#">Ata da reunião</a><br>
+      <a href="#">Ata da reunião</a><br>
+      </td>   
     </tr>
     <tr>
       <th scope="row">Abril</th>
@@ -101,11 +120,11 @@ last_modified_date: "05/07/2021"
         15hs30<br>
       </td>      
       <td>
-       <a href="#">Pendente</a><br>
-       <a href="#">Pendente</a><br>
-       <a href="#">Pendente</a><br>
-       <a href="#">Pendente</a><br>
-      </td>   
+       Pendente<br>
+       Pendente<br>
+       Pendente<br>
+       Pendente<br>
+      </td>         
     </tr>
     <tr>
       <th scope="row">Maio</th>
@@ -122,10 +141,10 @@ last_modified_date: "05/07/2021"
         15hs30<br>
       </td>
       <td>
-       <a href="#">Pendente</a><br>
-       <a href="#">Pendente</a><br>
-       <a href="#">Pendente</a><br>
-       <a href="#">Pendente</a><br>
+       Pendente<br>
+       Pendente<br>
+       Pendente<br>
+       Pendente<br>
       </td>   
     </tr>
     <tr>
@@ -143,10 +162,10 @@ last_modified_date: "05/07/2021"
         15hs30<br>
       </td>
       <td>
-       <a href="#">Pendente</a><br>
-       <a href="#">Pendente</a><br>
-       <a href="#">Pendente</a><br>
-       <a href="#">Pendente</a><br>
+       Pendente<br>
+       Pendente<br>
+       Pendente<br>
+       Pendente<br>
       </td>   
       <tr>   
       
