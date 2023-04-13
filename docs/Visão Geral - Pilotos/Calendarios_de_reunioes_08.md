@@ -16,8 +16,6 @@ last_modified_date: "05/07/2021"
 
 <p>Registro de todas as pautas técnicas que foram debatidas nas reuniões envolvendo os Municípios Pilotos da Estratégia e-SUS APS:</p>
 <br>
-<br>
-<table>
 <table class="table">
   <thead style="background-color:#4D4646; color:#FFFF;">
     <tr>
