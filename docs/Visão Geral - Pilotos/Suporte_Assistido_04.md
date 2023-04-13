@@ -30,12 +30,10 @@ Para usufruto de tal facilidade, o Município Piloto após o recebimento do mate
 <br>
 <br>
 
-![](./media/07.PNG)
+<img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/07.PNG">
 <br>
 <br>
-<div class="container">
-  <button type="button" class="btn btn-primary" a href="https://www.google.com.br">Preencher Formulário</button>
-</div>
+<a href="https://forms.gle/A1ixdFSfLguKTYmu8" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Preencher Formulário</a>
 <br>
 <br>
 
