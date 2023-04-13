@@ -40,7 +40,9 @@ Uma vez identificado as necessidades pela área demandante (Ministério da Saúd
 
 3- **Desenvolvimento:** Uma vez firmado o TED, a próxima etapa refere-se ao desenvolvimento da solução de software que atenda a necessidade delimitada; Esta fase é compreendida por duas etapas e diversas subfases, conforme pode ser visto abaixo:
 <br>
+<br>
     a. **Discovery:** nesta fase, profissionais de saúde dos Municípios Pilotos são entrevistados (briefing), requisitos e necessidades são levantados e discutidos internamente, para a definição, ideação, prototipação e validação de ideias necessárias à construção do software. Em seguida, teremos a validação dos protótipos para aferição do que será construído, o esforço a ser empregado e o tempo necessário para o desenvolvimento;
+<br>
 <br>
     b. **Entrega:** Nesta fase, realizam-se ajustes de implementação e refinamento do produto a ser entregue, bem como apresentação do protótipo final e realização do **Teste Alfa** pelos Municípios Pilotos da Estratégia e-SUS APS; após realização dos testes, caso não haja qualquer embargo ou rejeição à liberação do software, a próxima etapa refere-se a liberação da versão no ambiente de homologação para continuidade dos testes, identificação de falhas, erros ou implementações de melhorias na versão; Emitido parecer favorável à liberação, a versão então é liberada no Portal da Atenção Primária (APS);
 <br>
@@ -48,4 +50,6 @@ Uma vez identificado as necessidades pela área demandante (Ministério da Saúd
 5- **Liberação em Homologação:** Nesta fase, o software é disponibilizado aos municípios Pilotos que compõem a Estratégia e-SUS APS, para que testes possam ser realizados, erros identificados, oportunidades de melhoria possam ser implementadas e cargas de estresse possam ser executadas, para aferição da performance da aplicação; Uma vez aprovado, os Municípios Pilotos assinam parecer técnico, dando aval à liberação da versão em ambiente de produção e publicação da nova versão no sítio da APS;
 
 6- **Liberação no Portal da APS:** Recebido aval para liberação, a versão é disponibilizada no sítio da APS, para que o e-SUS possa ser utilizado em escala nacional, conforme link: https://sisaps.saude.gov.br/esus/
-
+<br>
+<br>
+![](./media/06.png)
