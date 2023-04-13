@@ -14,6 +14,8 @@ last_modified_date: "05/07/2021"
 
 <h1> Transparência: </h1>
 
+<p>Objetivando publicizar as novas funcionalidades que encontram-se em desenvolvimento, divulgamos a relação de novos recursos que estão sendo trabalhados, para logo em breve, serem disponibilizadas aos Pilotos para Teste Alfa e Homologação:</p>
+
 <br>
 
 <table class="table">
