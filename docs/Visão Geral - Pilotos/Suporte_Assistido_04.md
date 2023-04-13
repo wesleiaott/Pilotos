@@ -34,24 +34,10 @@ Para usufruto de tal facilidade, o Município Piloto após o recebimento do mate
 <br>
 <br>
 <div class="container">
-  <button type="button" class="btn btn-primary">Preencher Formulário</button>
-  <a href="https://www.google.com.br">
+  <button type="button" class="btn btn-primary" a href="https://www.google.com.br">Preencher Formulário</button>
 </div>
-
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
 
 </body>
 </html>
