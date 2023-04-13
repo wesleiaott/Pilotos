@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grupo Telegram
+title: Grupo WhatsApp
 parent:  Visão Geral - Pilotos
 nav_order: 6
 has_children: false
