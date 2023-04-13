@@ -16,9 +16,7 @@ last_modified_date: "05/07/2021"
 Para maximizar o processo de entregas e evoluções constantes do sistema, A Coordenação Geral de Projetos e Inovação (CGPROJ), disponibiliza este espaço, para que os Municípios Pilotos da Estratégia e-SUS APS, possam propor melhorias e evoluções para o Prontuário Eletrônico do Cidadão (PEC) e seus aplicativos (Android e iOS).
 </p>
 <br>
-<br>
 <p>Abaixo, segue formulário para que você Município Piloto, possa contribuir com este trabalho!</p>
-<br>
 <br>
 <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/08.PNG">
 <br>
