@@ -19,7 +19,8 @@ last_modified_date: "05/07/2021"
     <tr>
       <th scope="col">Mês:</th>
       <th scope="col">Data:</th>
-      <th scope="col">Horário:</th>      
+      <th scope="col">Horário:</th>
+      <th scope="col">Status:</th>      
     </tr>
   </thead>
   <tbody>
@@ -37,6 +38,12 @@ last_modified_date: "05/07/2021"
         15hs30<br>
         15hs30<br>
       </td>
+      <td>
+       <a href="#">Não realizada</a><br>
+       <a href="#">Não realizada</a><br>
+       <a href="#">Não realizada</a><br>
+       <a href="#">Não realizada</a><br>
+      </td>   
     </tr>
     <tr>
       <th scope="row">Fevereiro</th>
@@ -51,7 +58,13 @@ last_modified_date: "05/07/2021"
         15hs30<br>
         15hs30<br>
         15hs30<br>
-      </td>    
+      </td> 
+      <td>
+       <a href="#">Não realizada</a><br>
+       <a href="#">Não realizada</a><br>
+       <a href="#">Concluída</a><br>
+       <a href="#">Concluída</a><br>
+      </td>   
     </tr>
     <tr>
       <th scope="row">Março</th>
@@ -66,7 +79,12 @@ last_modified_date: "05/07/2021"
         15hs30<br>
         15hs30<br>
         15hs30<br>
-      </td>          
+      </td>  <td>
+       <a href="#">Concluída</a><br>
+       <a href="#">Concluída</a><br>
+       <a href="#">Concluída</a><br>
+       <a href="#">Concluída</a><br>
+      </td>           
     </tr>
     <tr>
       <th scope="row">Abril</th>
@@ -82,6 +100,12 @@ last_modified_date: "05/07/2021"
         15hs30<br>
         15hs30<br>
       </td>      
+      <td>
+       <a href="#">Pendente</a><br>
+       <a href="#">Pendente</a><br>
+       <a href="#">Pendente</a><br>
+       <a href="#">Pendente</a><br>
+      </td>   
     </tr>
     <tr>
       <th scope="row">Maio</th>
@@ -97,6 +121,12 @@ last_modified_date: "05/07/2021"
         15hs30<br>
         15hs30<br>
       </td>
+      <td>
+       <a href="#">Pendente</a><br>
+       <a href="#">Pendente</a><br>
+       <a href="#">Pendente</a><br>
+       <a href="#">Pendente</a><br>
+      </td>   
     </tr>
     <tr>
       <th scope="row">Junho</th>
@@ -112,21 +142,13 @@ last_modified_date: "05/07/2021"
         15hs30<br>
         15hs30<br>
       </td>
-      <tr>
-      <th scope="row">Julho</th>
-      </tr>     
       <td>
-      <br>
-      <br>
-      <br>
-      </td>
-      <tr>
-      <th scope="row">Agosto</th>
-      </tr>     
-      <td>
-      <br>
-      <br>
-      <br>
-      </td>    
+       <a href="#">Pendente</a><br>
+       <a href="#">Pendente</a><br>
+       <a href="#">Pendente</a><br>
+       <a href="#">Pendente</a><br>
+      </td>   
+      <tr>   
+      
   </tbody>
 </table>
