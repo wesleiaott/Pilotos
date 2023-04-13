@@ -9,10 +9,10 @@ last_modified_date: "05/07/2021"
 ---
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-<h1> Calendários de Reuniões 2023: </h1>
+<h1> Calendário de Reuniões 2023: </h1>
 
 <p>Registro de todas as pautas técnicas que foram debatidas nas reuniões envolvendo os Municípios Pilotos da Estratégia e-SUS APS:</p>
 <br>
@@ -170,6 +170,6 @@ last_modified_date: "05/07/2021"
        Pendente<br>
        Pendente<br>
       </td>   
-    <tr>      
+    </tr>      
   </tbody>
 </table>
