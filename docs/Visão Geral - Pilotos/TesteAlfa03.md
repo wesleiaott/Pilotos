@@ -57,7 +57,7 @@ Exemplo de Formulário para <b>Teste Alfa:</b>
     <span class="sr-only">Próximo</span>
   </a>
 </div>
-Teste Alfa para Policlínicas.
+<b style="font-size:11px;">Figura 1: Teste Alfa para Policlínicas.</b>
 
 <br>
 
