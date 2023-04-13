@@ -49,7 +49,7 @@ Uma vez identificado as necessidades pela área demandante (Ministério da Saúd
 
 5- **Liberação em Homologação:** Nesta fase, o software é disponibilizado aos municípios Pilotos que compõem a Estratégia e-SUS APS, para que testes possam ser realizados, erros identificados, oportunidades de melhoria possam ser implementadas e cargas de estresse possam ser executadas, para aferição da performance da aplicação; Uma vez aprovado, os Municípios Pilotos assinam **Parecer Técnico**, dando aval à liberação da versão em ambiente de produção e publicação da nova versão no sítio da APS;
 
-6- **Liberação no Portal da APS:** Recebido aval para liberação, a versão é disponibilizada no sítio da APS, para que o e-SUS possa ser utilizado em escala nacional, conforme link: https://sisaps.saude.gov.br/esus/
+6- **Liberação no Portal da APS:** Recebido aval para liberação, a versão é disponibilizada no Sítio da APS, para que o e-SUS possa ser utilizado em escala nacional, conforme link: https://sisaps.saude.gov.br/esus/
 <br>
 <br>
 ![](./media/06.png)

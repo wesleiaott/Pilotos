@@ -66,20 +66,20 @@ Exemplo de Formulário para <b>Teste Alfa:</b>
 <br>
 No âmbito do Prontuário Eletrônico do Cidadão (PEC), solicitamos aos profissionais que percorram alguns fluxos do sistema e avaliem algumas perguntas realizadas conforme a atividade proposta.
 
-As tarefas geralmente são realizadas na versão de homologação do sistema (que contém apenas dados de cidadãos fictícios), disponível em link previamente disponibilizado.
+As tarefas geralmente são realizadas na versão de testes do sistema (que contém apenas dados de cidadãos fictícios), disponível em link previamente disponibilizado.
 
-<h4>Atividade de exemplo proposta:</h4>
+<h4>Exemplo de atividade proposta:</h4>
 <br>
-Durante a realização do "Teste Alfa", você será solicitado a executar várias tarefas propostas, como se estive em ambiente real de atendimento clínico no estabelecimento de saúde e será solicitado executar várias atividades, como proposto abaixo:
-<br>
-<br>
-<h4>Como Enfermeiro</h4>
+Durante a realização do "Teste Alfa", o Município Piloto será solicitado a executar várias tarefas propostas, como se estivesse em ambiente real de atendimento clínico no estabelecimento de saúde e será solicitado a executação de várias atividades, como proposto abaixo:
 <br>
 <br>
-"Acesse o sistema como um Enfermeiro ou Técnico de enfermagem e realize uma Escuta inicial para o cidadão Mario Andrade que chegou na policlínica através da regulação para o serviço de cardiologia. 
+<h4>Utilizando o perfil de Enfermeiro ou Técnico de Enfermagem:</h4>
 <br>
 <br>
-<h4>Cidadão chega a UBS por demanda espontânea:</h4>
+"Realize uma Escuta inicial para o cidadão Mario Andrade que chegou na policlínica através da regulação para o serviço de cardiologia. 
+<br>
+<br>
+<h4>Dados do cidadão:</h4>
 <br>
 <br>
 O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construção civil. Foi encaminhado pela Unidade Básica do Centro para o serviço de cardiologia de sua policlínica com suspeita de Insuficiência Cardíaca Agudizada.
@@ -96,7 +96,7 @@ O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construç�
 <h4>Algumas orientações:</h4>
 <br>
 <ul>
-    <li>As tarefas propostas devem ser realizaads por profissionais que utilizam o sistema no seu dia a dia;</li>
+    <li>As tarefas propostas devem ser realizadas por profissionais que utilizam o sistema no seu dia a dia;</li>
     <br>
     <li>Os profissionais deverão simular a sua rotina de trabalho e os possíveis imprevistos que podem acontecer durante a utilização do sistema, a fim de avaliar se há algo a ser melhorado na nova funcionalidade.</li>
 </ul>
