@@ -15,9 +15,11 @@ last_modified_date: "05/07/2021"
 <h1> Calendários de Reuniões 2023: </h1>
 
 <p>Registro de todas as pautas técnicas que foram debatidas nas reuniões envolvendo os Municípios Pilotos da Estratégia e-SUS APS:</p>
-
-<table class="table table-hover">
-  <thead>
+<br>
+<br>
+<table>
+<table class="table">
+  <thead style="background-color:#4D4646; color:#FFFF;">
     <tr>
       <th scope="col">Mês:</th>
       <th scope="col">Data:</th>
@@ -26,7 +28,6 @@ last_modified_date: "05/07/2021"
       <th scope="col">Memória:</th>      
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <th scope="row">Janeiro</th>
