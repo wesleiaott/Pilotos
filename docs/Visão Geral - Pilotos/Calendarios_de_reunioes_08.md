@@ -8,15 +8,14 @@ has_toc: true
 last_modified_date: "05/07/2021"
 ---
 
-<link rel="stylesheet" type="text/css" href="../estilos.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 <h1> Calendários de Reuniões 2023: </h1>
 
-<table class="table">
-  <thead class="thead-dark">
+<table class="table table-striped">
+  <thead>
     <tr>
       <th scope="col">Mês:</th>
       <th scope="col">Data:</th>
