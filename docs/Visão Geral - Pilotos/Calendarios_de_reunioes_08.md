@@ -14,6 +14,8 @@ last_modified_date: "05/07/2021"
 
 <h1> Calendários de Reuniões 2023: </h1>
 
+<p>Registro de todas as pautas técnicas que foram debatidas nas reuniões envolvendo os Municípios Pilotos da Estratégia e-SUS APS:</p>
+
 <table class="table table-hover">
   <thead>
     <tr>
@@ -21,9 +23,10 @@ last_modified_date: "05/07/2021"
       <th scope="col">Data:</th>
       <th scope="col">Horário:</th>
       <th scope="col">Status:</th>
-      <th scope="col">Memória da Reunião</th>      
+      <th scope="col">Memória:</th>      
     </tr>
   </thead>
+
   <tbody>
     <tr>
       <th scope="row">Janeiro</th>
@@ -46,10 +49,10 @@ last_modified_date: "05/07/2021"
        Não realizada<br>
       </td>   
       <td>
-      <a href="#">Não há</a><br>
-      <a href="#">Não há</a><br>
-      <a href="#">Não há</a><br>
-      <a href="#">Não há</a><br>
+      Não há<br>
+      Não há<br>
+      Não há<br>
+      Não há<br>
       </td>
     </tr>
     <tr>
@@ -73,8 +76,8 @@ last_modified_date: "05/07/2021"
        Concluída<br>
       </td>   
       <td>
-      <a href="#">Não há</a><br>
-      <a href="#">Não há</a><br>
+      Não há<br>
+      Não há<br>
       <a href="#">Ata da reunião</a><br>
       <a href="#">Ata da reunião</a><br>
       </td>
@@ -92,7 +95,8 @@ last_modified_date: "05/07/2021"
         15hs30<br>
         15hs30<br>
         15hs30<br>
-      </td>  <td>
+      </td>
+      <td>
        Concluída<br>
        Concluída<br>
        Concluída<br>
@@ -167,7 +171,6 @@ last_modified_date: "05/07/2021"
        Pendente<br>
        Pendente<br>
       </td>   
-      <tr>   
-      
+    <tr>      
   </tbody>
 </table>
