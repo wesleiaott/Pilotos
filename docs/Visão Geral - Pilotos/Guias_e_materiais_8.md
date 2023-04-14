@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guias e Materiais
-parent: Apoio a Implantação
+parent: Visão Geral - Pilotos
 nav_order: 8
 has_children: false
 has_toc: true
