@@ -18,8 +18,7 @@ last_modified_date: "01/03/2023"
 
 <h1>Como Implantar:</h1>
 
-<p>Como qualquer sistema de informação que se prese, a implantação do Prontuário Eletrônico do Cidadão (PEC),
-requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. Abaixo, segue o rol de etapas necessárias para à sua adesão: </p>
+<p>Como qualquer sistema de informação que se prese, a implantação do Prontuário Eletrônico do Cidadão (PEC), requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. Abaixo, segue o rol de etapas necessárias para à sua adesão: </p>
 <br>
 
 ![](./media/como_implantar.PNG)
