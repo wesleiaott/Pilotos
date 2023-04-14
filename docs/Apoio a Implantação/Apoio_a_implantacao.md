@@ -23,3 +23,4 @@ requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. A
 <br>
 
 ![](./media/como_implantar.PNG)
+
