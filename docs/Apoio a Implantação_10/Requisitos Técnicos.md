@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Requisitos Técnicos
-parent: Apoio a Implantação
+parent: Apoio a Implantação_00
 nav_order: 11
 has_children: false
 has_toc: true
