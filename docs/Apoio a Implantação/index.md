@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Apoio a Implantação
-has_children: true
-description: "Manual e-SUS APS"
-permalink: /Apoio a Implantação
+title: Como implantar
+parent: Apoio a Implantação
+nav_order: 10
+has_children: false
+has_toc: true
 last_modified_date: "01/03/2023"
 ---
 
