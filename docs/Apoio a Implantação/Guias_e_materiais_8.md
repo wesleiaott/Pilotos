@@ -2,7 +2,7 @@
 layout: default
 title: Guias e Materiais
 parent: Apoio a Implantação
-nav_order: 
+nav_order: 8
 has_children: false
 has_toc: true
 last_modified_date: "01/03/2023"
