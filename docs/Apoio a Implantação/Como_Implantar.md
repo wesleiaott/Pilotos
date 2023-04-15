@@ -33,12 +33,12 @@ last_modified_date: "01/03/2023"
 
 <nav>
   <div class="nav nav-tabs" id="nav-tab" role="tablist">
-    <a class="nav-item nav-link active" id="nav-cenario-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-cenario" aria-selected="true">Cenário</a>
-    <a class="nav-item nav-link" id="nav-ambiente-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-ambiente" aria-selected="false">Ambiente</a>
-    <a class="nav-item nav-link" id="nav-download-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-download" aria-selected="false">Download</a>
-    <a class="nav-item nav-link" id="nav-install-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-install" aria-selected="false">Instalar e Configurar</a>
-    <a class="nav-item nav-link" id="nav-chave-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-chave" aria-selected="false">Contra-chave</a>
-    <a class="nav-item nav-link" id="nav-xml-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-xml" aria-selected="false">XML</a>
+    <a class="nav-item nav-link active" id="nav-cenario-tab" data-toggle="tab" href="#nav-cenario" role="tab" aria-controls="nav-cenario" aria-selected="true">Cenário</a>
+    <a class="nav-item nav-link" id="nav-ambiente-tab" data-toggle="tab" href="#nav-ambiente" role="tab" aria-controls="nav-ambiente" aria-selected="false">Ambiente</a>
+    <a class="nav-item nav-link" id="nav-download-tab" data-toggle="tab" href="#nav-download" role="tab" aria-controls="nav-download" aria-selected="false">Download</a>
+    <a class="nav-item nav-link" id="nav-install-tab" data-toggle="tab" href="#nav-install" role="tab" aria-controls="nav-install" aria-selected="false">Instalar e Configurar</a>
+    <a class="nav-item nav-link" id="nav-chave-tab" data-toggle="tab" href="#nav-chave" role="tab" aria-controls="nav-chave" aria-selected="false">Contra-chave</a>
+    <a class="nav-item nav-link" id="nav-xml-tab" data-toggle="tab" href="#nav-xml" role="tab" aria-controls="nav-xml" aria-selected="false">XML</a>
   </div>
 </nav>
 <div class="tab-content" id="nav-tabContent">
