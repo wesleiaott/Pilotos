@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Novos Pilotos
+title: Municípios Pilotos
 parent:  Visão Geral - Pilotos
 nav_order: 1
 has_children: false
