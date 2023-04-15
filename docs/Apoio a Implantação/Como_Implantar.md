@@ -1,12 +1,27 @@
 ---
 layout: default
-title: Grupo WhatsApp
-parent:  Visão Geral - Pilotos
-nav_order: 6
+title: Apoio à Implantação
+parent: Como implantar
+nav_order: 0
 has_children: false
 has_toc: true
-last_modified_date: "05/07/2021"
+last_modified_date: "01/03/2023"
 ---
+
+<style>
+    p{
+        text-align:justify;
+        font-family:Verdana;
+        font-size:12px;
+    }    
+</style>
+
+<h1>Como Implantar:</h1>
+
+<p>Como qualquer sistema de informação que se prese, a implantação do Prontuário Eletrônico do Cidadão (PEC), requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. Abaixo, segue o rol de etapas necessárias para à sua adesão: </p>
+<br>
+
+![](./media/como_implantar.PNG)
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
@@ -14,13 +29,7 @@ last_modified_date: "05/07/2021"
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-<h1>Como Implantar:</h1>
-
-<p>Como qualquer sistema de informação que se prese, a implantação do Prontuário Eletrônico do Cidadão (PEC),
-requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. Abaixo, segue o rol de etapas necessárias para à sua adesão: </p>
 <br>
-
-  ![](./media/como_implantar.PNG)
 
 <nav>
   <div class="nav nav-tabs" id="nav-tab" role="tablist">
@@ -40,6 +49,5 @@ requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. A
 
   <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">...</div>
 
-
-
 </div>
+
