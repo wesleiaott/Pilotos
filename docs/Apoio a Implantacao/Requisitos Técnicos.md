@@ -26,7 +26,7 @@ requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. A
 
   <tbody>
     <tr>      
-      <td scope="row">Ambiente</td>      
+      <th scope="row">Ambiente</th>    
       <td>2 servidores (aplicação e banco de dados)</td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=500M"</td>
 <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th style ="text-align:center; "scope="col" colspan="3">Requisitos mínimos para a instalação do e-SUS APS em Centralizadores Estaduais:</th>            
+      <th style ="text-align:center;" scope="col" colspan="3">Requisitos mínimos para a instalação do e-SUS APS em Centralizadores Estaduais:</th>            
     </tr>
   </thead>
   <tbody>
@@ -149,7 +149,7 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
 <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th scope="col" colspan="3" style ="text-align:center";>Ambiente para até 40 usuários simultâneos:</th>            
+      <th style ="text-align:center"; scope="col" colspan="3">Ambiente para até 40 usuários simultâneos:</th>            
     </tr>
   </thead>
   <tbody>
@@ -203,7 +203,7 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
 <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th scope="col" colspan="3" style ="text-align:center";>Ambiente para até 100 usuários simultâneos:</th>            
+      <th style ="text-align:center"; scope="col" colspan="3">Ambiente para até 100 usuários simultâneos:</th>            
     </tr>
   </thead>
   <tbody>
@@ -263,7 +263,7 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
 <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th scope="col" colspan="3" style ="text-align:center";>Ambiente para até 1000 usuários simultâneos:</th>            
+      <th style ="text-align:center"; scope="col" colspan="3">Ambiente para até 1000 usuários simultâneos:</th>            
     </tr>
   </thead>
   <tbody>
@@ -327,7 +327,7 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
 <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th scope="col" colspan="3" style ="text-align:center";>Ambiente para até 2500 usuários simultâneos:</th>            
+      <th style ="text-align:center"; scope="col" colspan="3">Ambiente para até 2500 usuários simultâneos:</th>            
     </tr>
   </thead>
   <tbody>
@@ -392,7 +392,7 @@ XX:MaxMetaspaceSize=1024M -XX:ReservedCodeCacheSize=300M"</td>
 <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th scope="col" colspan="3" style ="text-align:center";>Ambiente para até 4000 usuários simultâneos:</th>            
+      <th style ="text-align:center"; scope="col" colspan="3">Ambiente para até 4000 usuários simultâneos:</th>            
     </tr>
   </thead>
   <tbody>
