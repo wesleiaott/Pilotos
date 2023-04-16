@@ -16,10 +16,10 @@ last_modified_date: "27/02/2023"
   <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/como_implantar.PNG">
 
   <h5>Etapas para implantação do PEC:</h5>
-
+  <br>
   <ol>
     <li>Definição do Cenário:</li>
-        <p>À definição do cenário, existem basicamente dois tipos de cenários: <b>Descentralizado e o Centralizado</b>. O cenário descentralizado, basicamente corresponde ao modelo clássico de estrutura no qual uma instalação única do PEC (instalação local), existente em um estabelecimento de saúde, serve de base para que computadores clientes dentro da mesma rede corporativa, possam ter acesso de forma compartilhada aos recursos desta instalação, permitindo assim, o compartilhamento do prontuário clínico do cidadão entre os setores e profissionais que atuam na prestação do serviço em saúde.
+        <p>À definição do cenário, existem basicamente dois tipos de cenários: <b>Descentralizado e o Centralizado</b>. O cenário descentralizado, basicamente corresponde ao modelo clássico de estrutura no qual uma instalação única do PEC (instalação local), existente em um estabelecimento de saúde, serve de base para que computadores clientes dentro da mesma rede corporativa, possam ter acesso de forma compartilhada aos recursos desta instalação, permitindo assim, o compartilhamento do prontuário clínico do cidadão entre os setores e profissionais que atuam na prestação do serviço em saúde.</p>
     <li>Preparação do Ambiente:</li>
         <p>Esta etapa diz respeito ao provimento do aparato tecnológico que sustentará o ambiente que receberá o Prontuário Eletrônico do Cidadão (PEC). Tal ambiente poderá ser sob infraestrutura própria ou utilizando soluções de computação em nuvem. Definem-se informações relevantes, como: hardware, sistema operacional, banco de dados, parametrização da JVM, etc.</p>
     <li>Download e-SUS PEC:</li>
