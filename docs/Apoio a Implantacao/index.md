@@ -10,7 +10,7 @@ last_modified_date: "27/02/2023"
 
 <h1>Como Implantar:</h1>
   <br>
-  <p>Para qualquer sistema de informação que se prese, a etapa de planejamento é fase cruscial na determinação do êxito ou fracasso na adoção de qualquer sistema de informação. Com as soluções de software que compõem a Estratégia e-SUS APS, também não é diferente. Sua adoção, requer o cumprimento de algumas premissas fundamentais, conforme poderá ser visto na ilustração abaixo:</p>
+  <p>Para qualquer sistema de informação que se preze, a etapa de planejamento é fase cruscial na determinação do êxito ou fracasso na adoção de qualquer sistema de informação. Com as soluções de software que compõem a Estratégia e-SUS APS, também não é diferente. Sua adoção, requer o cumprimento de algumas premissas fundamentais, conforme poderá ser visto na ilustração abaixo:</p>
   <br>
 
   <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/como_implantar.PNG">
@@ -29,7 +29,7 @@ last_modified_date: "27/02/2023"
     <li>Contra-chave:</li>
         <p>A contra-chave é uma sequência alfanumérica, gerada via e-GESTOR AB, que permite a ativação daquela instalação e uso para transmissão dos dados de produção à Base Federal (SISAB). </p>
     <li>Importação do XML:</li>
-        <p>O XML é um arquivo gerado via e-GESTOR AB e que deverá ser importado dentro do PEC para carregamento dos profissionais de saúde que atuarão naquela UBS, suas respectivas lotações, equipes, além das informações do próprio estabelecimento de saúde responsável pela transmissão dos dados. </p>
+        <p>O XML é um arquivo gerado via e-GESTOR AB e que deverá ser importado dentro do PEC para carregamento dos profissionais de saúde que atuarão naquela UBS, suas respectivas lotações, equipes, além das informações do próprio estabelecimento de saúde responsável pela transmissão dos dados. Cada município possui seu respectivo XML e é gerado conforme seu código IBGE.</p>
   </ol>
   
 
