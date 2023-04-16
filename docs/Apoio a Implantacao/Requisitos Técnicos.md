@@ -26,7 +26,7 @@ requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. A
 
   <tbody>
     <tr>      
-      <td>Ambiente</td>      
+      <td scope="row">Ambiente</td>      
       <td>2 servidores (aplicação e banco de dados)</td>
     </tr>
     <tr>
