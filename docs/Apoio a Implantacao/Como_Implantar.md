@@ -49,6 +49,11 @@ last_modified_date: "01/03/2023"
       <br>
       <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/pec_descentralizado.PNG">
       <li>Arquitetura Centralizada:</li>
+      <br>
+      <p>Ao contrário da topologia descentralizada, na arquitetura centralizada, uma instalação do e-SUS APS é <b>externa e compartilhada</b>, podendo vários estabelecimentos de saúde (UBSs), terem acesso simultâneo e em tempo real a aplicação, para o atendimento clínico do paciente; nesta modalidade, tem-se de forma evidente, acesso ao Prontuário Único do Cidadão, no nível municipal. Abaixo, segue ilustração do cenário proposto:</p>
+      <br>
+      <br>
+      <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/pec_centralizado.PNG">
   </ul>
 </div>
 
