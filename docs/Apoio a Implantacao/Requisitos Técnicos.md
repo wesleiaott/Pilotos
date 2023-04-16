@@ -20,7 +20,7 @@ requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. A
 <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th style ="text-align:center;" scope="col" colspan="3">Requisitos mínimos para a instalação do e-SUS APS em Centralizadores Municipais:</th>            
+      <th style ="text-align:center;" scope="col" colspan="2">Requisitos mínimos para a instalação do e-SUS APS em Centralizadores Municipais:</th>            
     </tr>
   </thead>
 
