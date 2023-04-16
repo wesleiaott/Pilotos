@@ -18,7 +18,7 @@ Para maximizar o processo de entregas e evoluções constantes do sistema, A Coo
 <br>
 Abaixo, segue formulário para que você Município Piloto, possa contribuir com este trabalho!</p>
 <br>
-<img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/08.PNG">
+<img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/08.PNG">
 <br>
 <br>
 <a href="https://forms.gle/E3kiuiWp9nc3TpTn7" target="_blank" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Contribuir</a>

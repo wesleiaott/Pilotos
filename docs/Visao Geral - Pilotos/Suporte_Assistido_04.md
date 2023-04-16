@@ -30,7 +30,7 @@ Para usufruto de tal facilidade, o Município Piloto após o recebimento do mate
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Vis%C3%A3o%20Geral%20-%20Pilotos/media/07.PNG">
+<img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/07.PNG">
 <br>
 <br>
 <a href="https://forms.gle/A1ixdFSfLguKTYmu8" target="_blank" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Preencher Formulário</a>
