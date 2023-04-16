@@ -147,8 +147,7 @@ Parametrização set "JAVA_OPTS=-Xms4096M -Xmx10240M -XX:MetaspaceSize =512M -XX
       <td>Sistema Operacional</td>
       <td>Ubuntu Server 64 bits ou Windows Server 64 bits</td>      
     </tr>
-    <tr>
-      <th scope="row">4</th>
+    <tr>      
       <td>Memória RAM - Aplicação:</td>
       <td>8GB  Barramento DDR4  Mínimo 1600MHz</td>      
     </tr>    
