@@ -77,7 +77,7 @@ last_modified_date: "01/03/2023"
       <br>
       <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/pec_centralizado.PNG">
       <br>
-      <h6>Considerações:</h6>
+      <h4>Considerações:</h4>
       <br>
       <p>A adoção de uma arquitetura ou outra, irá depender basicamente da necessidade do município. Lembrando-se que quanto mais estabelecimentos de saúde conectados a uma instalação PEC, mais robusto deverá ser o hardware que sustentará aquele ambiente, sob risco da aplicação declinar em termos de performance e apresentar lentidão na sua operacionalização.</p>
   </ul>
