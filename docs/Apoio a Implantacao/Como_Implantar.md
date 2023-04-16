@@ -54,7 +54,7 @@ last_modified_date: "01/03/2023"
       <p>Nesta topologia, uma instalação do e-SUS APS é <b>interna e exclusiva</b> de um determinado estabelecimento de saúde (UBS). Isto significa, que temos um PEC instalado localmente neste ambiente e partir de uma rede compartilhada, é possível que computadores internos a esta rede, posssam acessar simultaneamente aquela instalação e usufruir dos recursos compartilhados daquela instalação. Abaixo, segue ilustração do cenário proposto:
       <br>
       <br>
-      <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Apoio%a% Implantacao/media/pec_descentralizado.PNG">
+      <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/pec_descentralizado.PNG">
       <li>Arquitetura Centralizada:</li>
     </ul>   
   <br>
