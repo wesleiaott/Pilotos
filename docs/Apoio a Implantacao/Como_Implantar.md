@@ -36,13 +36,7 @@ last_modified_date: "01/03/2023"
 </nav>
 
 <div class="tab-content" id="nav-tabContent">
-  <div class="tab-pane fade show active" id="nav-cenario" role="tabpanel" aria-labelledby="nav-cenario-tab">  
-  <h1>Como Implantar:</h1>
-
-  <p>Como qualquer sistema de informação que se prese, a implantação do Prontuário Eletrônico do Cidadão (PEC), requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. Abaixo, segue o rol de etapas necessárias para à sua adesão: </p>
-  <br>
-
-  <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/como_implantar.PNG">
+  <div class="tab-pane fade show active" id="nav-cenario" role="tabpanel" aria-labelledby="nav-cenario-tab">    
 
   <h4>Definição de Cenário:</h4><br>
   <p>Antes de efetivamente se realizar a implantação do Prontuário Eletrônico do Cidadão (PEC) no ambiente de produção, deve-se preliminarmente, realizar o mapeamento do ambiente, identificar necessidades e de acordo com o cenário proposto, implementar ajustes técnicos de acordo com as especificidades de cada cenário. Abaixo, segue detalhamento técnico de dois tipos principais de arquiteturas: Centralizada e Descentralizada.</p>
