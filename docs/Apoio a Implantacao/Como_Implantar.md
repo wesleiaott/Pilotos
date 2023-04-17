@@ -85,11 +85,47 @@ last_modified_date: "01/03/2023"
 
   <div class="tab-pane fade" id="nav-ambiente" role="tabpanel" aria-labelledby="nav-ambiente-tab">
   
-  <h1>Requisitos Técnicos:</h1>
+  <h1>Prepação do Ambiente:</h1>
 
-<p>Como qualquer sistema de informação que se prese, a implantação do Prontuário Eletrônico do Cidadão (PEC),
-requer o cumprimento de algumas premissas fundamentais, antes de sua adoção. Abaixo, segue o rol de etapas necessárias para à sua adesão: </p>
-<br>
+  <p>Esta etapa diz respeito ao provimento do aparato tecnológico que sustentará o ambiente que receberá o Prontuário Eletrônico do Cidadão (PEC). Tal ambiente poderá ser sob infraestrutura própria ou utilizando soluções de computação em nuvem. Definem-se informações relevantes, como: hardware, sistema operacional, banco de dados, parametrização da JVM, etc.</p>
+  <br>
+
+  <h4>Sistema Operacional:</h4>
+
+  <table class="table table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th style ="text-align:center;" scope="col" colspan="2">Sistemas Operacinais Compatíveis:</th>            
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Microsoft Windows</td>
+      <td>
+          Windows 7<br>
+          Windows 8<br>
+          Windows 10<br>
+          Windows Server<br>
+	    </td>      
+    </tr>   
+     <tr>      
+      <td>GNU/LINUX</td>
+      <td>
+          Debian<br>
+          Ubuntu<br>
+          Red Hat<br>
+          CentOS<br>
+	    </td>      
+    </tr>     
+  </tbody>
+</table>
+
+  <h4>Instalação do JAVA:</h4>
+
+  <h4>Especificações de Banco de Dados:</h4>
+  
+  <h4>Especificações técnicas de hardware, por acessos simultâneos:</h4>
 
 <table class="table table-striped">
   <thead class="thead-dark">
