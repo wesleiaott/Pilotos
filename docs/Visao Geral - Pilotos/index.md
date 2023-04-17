@@ -8,71 +8,38 @@ permalink: /Visão Geral - Pilotos
 last_modified_date: "27/02/2023"
 ---
 
-<link rel="stylesheet" type="text/css" href="../estilos.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-![](../media/logoesus_new.png)
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-<div style="text-align:center;">
+<table class="table table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th style ="text-align:center;" scope="col" colspan="2">Visão Geral - Pilotos Estratégia e-SUS APS</th>            
+    </tr>
+  </thead>
 
-<h1>Estratégia e-SUS APS</h1><br>
-<h2>Manual de uso</h2>
-
-</div>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-*Elaboração, distribuição e informações*<br>
-
-**MINISTÉRIO DA SAÚDE.**<br>
-Secretaria de Atenção Primária à Saúde<br>
-Departamento de Saúde da Família<br>
-Esplanada dos Ministérios - Bloco G - 7º andar<br>
-CEP: 70.058-900 – Brasília/DF<br>
-Tels.: (61) 3315-8090 / 3315-8044<br>
-Site: <http://sisaps.saude.gov.br/esus/><br>
-Suporte: <http://esusaps.bridge.ufsc.br/support/login>
-
-**Supervisor Geral**<br>
-Renata Maria de Oliveira Costa
-
-**Coordenação Técnica Geral**<br>
-Michael Luiz Diana de Oliveira
-
-**Organização**<br>
-Ana Claudia Cielo, Igor de Carvalho Gomes e João Geraldo de Oliveira Junior
-
-**Revisão Técnica**<br>
-André Cury Alves, Ana Claudia Cielo, Igor de Carvalho Gomes, João Geraldo de Oliveira Junior e Micael Macedo Pereira da Trindade.
-
-**Elaboração de texto**<br>
-Adriana Kitajima, Allan Nuno Alves de Souza, Ana Claudia Cielo, André Cury Alves, Edson Lucena, Igor de Carvalho Gomes, João Geraldo de Oliveira Júnior, Janaína Nogueira Guimarães, Micael Macedo Pereira, da Trindade, Rodrigo André Cuevas Gaete, Thaís Alessa Leite, Vanessa Lora, Virgínia Fava,
-
-**Projeto Gráfico**<br>
-Alexandre Soares de Brito e Diogo Ferreira Gonçalves
-<br>
-<br>
-<br>
-
-**Ficha Catalográfica**
-{: .text-center }
-
-Brasil. Ministério da Saúde. Secretaria de Atenção Primária à Saúde.<br>
-e-SUS Atenção Primária à Saúde: Manual do Sistema com Prontuário Eletrônico do Cidadão PEC – Versão 4.3 [recurso eletrônico] / Ministério da Saúde, Secretaria de Atenção Primária à Saúde, Secretaria Executiva. – Brasília: Ministério da Saúde, 2021.<br>
-<br>
-ISBN **Versão Preliminar**<br>
-Modo de acesso: <https://aps.saude.gov.br/ape/esus><br>
-CDU 614<br>
-
-Catalogação na fonte – Coordenação-Geral de Documentação e Informação – Editora MS – OS 2021.
+  <tbody>
+    <tr>
+      <td>Microsoft Windows</td>
+      <td>
+		Windows 7<br>
+		Windows 8<br>
+		Windows 10<br>
+		Windows Server<br>
+	  </td>      
+    </tr>   
+     <tr>      
+      <td>GNU/LINUX</td>
+      <td>
+		Debian<br>
+		Ubuntu<br>
+		Red Hat<br>
+		CentOS<br>
+	  </td>      
+    </tr>
+     
+  </tbody>
+</table>

@@ -86,7 +86,7 @@ last_modified_date: "01/03/2023"
   <div class="tab-pane fade" id="nav-ambiente" role="tabpanel" aria-labelledby="nav-ambiente-tab">
   
   <h1>Prepação do Ambiente:</h1>
-
+  <br>
   <p>Esta etapa diz respeito ao provimento do aparato tecnológico que sustentará o ambiente que receberá o Prontuário Eletrônico do Cidadão (PEC). Tal ambiente poderá ser sob infraestrutura própria ou utilizando soluções de computação em nuvem. Definem-se informações relevantes, como: hardware, sistema operacional, banco de dados, parametrização da JVM, etc.</p>
   <br>
 
