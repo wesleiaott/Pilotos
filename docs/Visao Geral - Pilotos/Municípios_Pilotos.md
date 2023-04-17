@@ -33,9 +33,9 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
   <thead class="thead-dark">
     <tr>
       <th scope="col">#</th>
-      <th scope="col">Estados</th>
-      <th scope="col">Representantes</th>
-      <th scope="col">Contato:</th>      
+      <th scope="col">Estados:</th>
+      <th scope="col">Representantes:</th>    
+      <th scope="col">Técnicos:</th>      
     </tr>
   </thead>
   <tbody>
@@ -43,79 +43,79 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <th scope="row">1</th>
       <td>Espírito Santo</td>
       <td>Atila Rodrigues</td>
-      <td>atilaslamberti@saude.gov.br</td>      
+      <td>...</td>      
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>Mato Grosso</td>
-      <td>Luis Andra</td>
-      <td>luisandrade@saude.gov.br</td>      
+      <td>Luis Andra</td>   
+      <td>...</td>    
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>Brasília</td>
       <td>Carolina Campagnoli</td>
-      <td>carolperes.es@gmail.com</td>      
+      <td>...</td>          
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>Londrina</td>
-      <td>Anderson Rodrigues</td>
-      <td>anderson.rodriguo@uel.br</td>      
+      <td>Anderson Rodrigues</td> 
+      <td>...</td>        
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>Juazeiro do Norte</td>
       <td>Elton Ferreira</td>
-      <td>eltoncleberton@hotmail.com</td>      
+      <td>...</td>            
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>Doutor Severiano</td>
-      <td>Francisco Lira</td>
-      <td>jacksonlira.rs@gmail.com</td>      
+      <td>Francisco Lira</td> 
+      <td>...</td>        
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>Coronel Fabriciano</td>
       <td>Luciana Soares</td>
-      <td>lucianacqs@hotmail.com</td>      
+      <td>...</td>            
     </tr>    
     <tr>
       <th scope="row">9</th>
       <td>Pelotas</td>
       <td>Rita Oliveira</td>
-      <td>rita.olibeira@pelotas.rs.gov.br</td>      
+      <td>...</td>          
     </tr>
      <tr>
       <th scope="row">10</th>
       <td>Otacílio Costa</td>
       <td>Rodrigo Schauffert</td>
-      <td>rodsschauffert@gmail.com</td>      
+      <td>...</td>           
     </tr>
      <tr>
       <th scope="row">11</th>
       <td>Manaus</td>
-      <td>Sanay Fonseca</td>
-      <td>sanay.pedrosa@pmm.am.gov.br</td>      
+      <td>Sanay Fonseca</td> 
+      <td>...</td>           
     </tr>
      <tr>
       <th scope="row">12</th>
       <td>Vila Velha</td>
       <td>Stanley Fonseca</td>
-      <td>stanleymfonseca@gmail.com</td>      
+      <td>...</td>           
     </tr>
      <tr>
       <th scope="row">13</th>
       <td>Arujá</td>
-      <td>Vanessa Otska</td>
-      <td>van.otsuka11@gmail.com</td>      
+      <td>Vanessa Otska</td>   
+      <td>...</td>      
     </tr>
      <tr>
       <th scope="row">14</th>
       <td>Teresina</td>
       <td>Clístenes Faria</td>
-      <td>suporte.esus@gmail.com</td>  
+      <td>...</td>      
     </tr>
      
   </tbody>
