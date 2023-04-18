@@ -34,7 +34,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
     <tr>      
       <th scope="col">Estados:</th>
       <th scope="col">Representantes:</th>    
-      <th scope="col">Técnicos:</th>      
+      <th scope="col">Representantes Técnicos:</th>      
     </tr>
   </thead>
   <tbody>
