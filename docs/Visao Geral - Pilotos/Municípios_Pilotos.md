@@ -31,8 +31,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
 
 <table class="table">
   <thead class="thead-dark">
-    <tr>
-      <th scope="col">#</th>
+    <tr>      
       <th scope="col">Estados:</th>
       <th scope="col">Representantes:</th>    
       <th scope="col">Representantes Técnicos:</th>      
@@ -40,70 +39,69 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
   </thead>
   <tbody>
     <tr>      
-      <td>Espírito Santo</td>
-      <td>Atila Rodrigues</td>
+      <td>Brasília - DF</td>
+      <td>Lídia Glasielle</td>
       <td>...</td>      
     </tr>
     <tr>      
-      <td>Mato Grosso</td>
-      <td>Luis Andra</td>   
+      <td>Arujá - SP</td>
+      <td>Vanessa Otska</td>   
       <td>...</td>    
     </tr>
     <tr>      
-      <td>Brasília</td>
-      <td>Carolina Campagnoli</td>
+      <td>Doutor Severiano - RN</td>
+      <td>Francisco Lira</td>
       <td>...</td>          
     </tr>
     <tr>      
-      <td>Londrina</td>
-      <td>Anderson Rodrigues</td> 
+      <td>Juzeiro do Norte - CE</td>
+      <td>Elton Ferreira</td> 
       <td>...</td>        
     </tr>
     <tr>      
-      <td>Juazeiro do Norte</td>
-      <td>Elton Ferreira</td>
+      <td>Londrina - PR</td>
+      <td>Anderson Nobre</td>
       <td>...</td>            
     </tr>
     <tr>      
-      <td>Doutor Severiano</td>
-      <td>Francisco Lira</td> 
+      <td>Manaus - AM</td>
+      <td>Sanay Pedrosa</td> 
       <td>...</td>        
     </tr>
     <tr>      
-      <td>Coronel Fabriciano</td>
-      <td>Luciana Soares</td>
+      <td>Medina - MG</td>
+      <td>Walter Vieira</td>
       <td>...</td>            
     </tr>    
     <tr>      
-      <td>Pelotas</td>
-      <td>Rita Oliveira</td>
+      <td>Otacílio Costa - SC</td>
+      <td>Rodrigo Schauffert</td>
       <td>...</td>          
     </tr>
      <tr>      
-      <td>Otacílio Costa</td>
-      <td>Rodrigo Schauffert</td>
+      <td>Pelotas - RS</td>
+      <td>Rita Oliveira</td>
       <td>...</td>           
     </tr>
      <tr>      
-      <td>Manaus</td>
-      <td>Sanay Fonseca</td> 
+      <td>Teresina - PI</td>
+      <td>Karoline Rodrigues</td> 
       <td>...</td>           
     </tr>
      <tr>      
-      <td>Vila Velha</td>
+      <td>Vila Velha - ES</td>
       <td>Stanley Fonseca</td>
       <td>...</td>           
     </tr>
      <tr>      
-      <td>Arujá</td>
-      <td>Vanessa Otska</td>   
+      <td>Espírito Santos - ES</td>
+      <td>Átilas Lamberti</td> 
       <td>...</td>      
     </tr>
-     <tr>      
-      <td>Teresina</td>
-      <td>Clístenes Faria</td>
-      <td>...</td>      
-    </tr>
-     
+    <tr>      
+      <td>Mato Grosso - MT</td>
+      <td>Cristhiane Duarte</td>
+      <td>...</td>
+    </tr>     
   </tbody>
 </table>
