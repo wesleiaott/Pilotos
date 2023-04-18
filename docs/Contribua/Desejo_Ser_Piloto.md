@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Contribua
+title: Deseja ser Piloto?
 parent:  Contribua
-nav_order: 1
+nav_order: 2
 has_children: false
 has_toc: true
 last_modified_date: "28/02/2023"
@@ -16,4 +16,4 @@ last_modified_date: "28/02/2023"
     }    
 </style>
 
-<h1>Deseja Contribuir?</h1>
+<h1>Gostaria de ser Piloto:</h1>
