@@ -35,84 +35,71 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <th scope="col">#</th>
       <th scope="col">Estados:</th>
       <th scope="col">Representantes:</th>    
-      <th scope="col">Técnicos:</th>      
+      <th scope="col">Representantes Técnicos:</th>      
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th scope="row">1</th>
+    <tr>      
       <td>Espírito Santo</td>
       <td>Atila Rodrigues</td>
       <td>...</td>      
     </tr>
-    <tr>
-      <th scope="row">2</th>
+    <tr>      
       <td>Mato Grosso</td>
       <td>Luis Andra</td>   
       <td>...</td>    
     </tr>
-    <tr>
-      <th scope="row">3</th>
+    <tr>      
       <td>Brasília</td>
       <td>Carolina Campagnoli</td>
       <td>...</td>          
     </tr>
-    <tr>
-      <th scope="row">4</th>
+    <tr>      
       <td>Londrina</td>
       <td>Anderson Rodrigues</td> 
       <td>...</td>        
     </tr>
-    <tr>
-      <th scope="row">5</th>
+    <tr>      
       <td>Juazeiro do Norte</td>
       <td>Elton Ferreira</td>
       <td>...</td>            
     </tr>
-    <tr>
-      <th scope="row">6</th>
+    <tr>      
       <td>Doutor Severiano</td>
       <td>Francisco Lira</td> 
       <td>...</td>        
     </tr>
-    <tr>
-      <th scope="row">7</th>
+    <tr>      
       <td>Coronel Fabriciano</td>
       <td>Luciana Soares</td>
       <td>...</td>            
     </tr>    
-    <tr>
-      <th scope="row">9</th>
+    <tr>      
       <td>Pelotas</td>
       <td>Rita Oliveira</td>
       <td>...</td>          
     </tr>
-     <tr>
-      <th scope="row">10</th>
+     <tr>      
       <td>Otacílio Costa</td>
       <td>Rodrigo Schauffert</td>
       <td>...</td>           
     </tr>
-     <tr>
-      <th scope="row">11</th>
+     <tr>      
       <td>Manaus</td>
       <td>Sanay Fonseca</td> 
       <td>...</td>           
     </tr>
-     <tr>
-      <th scope="row">12</th>
+     <tr>      
       <td>Vila Velha</td>
       <td>Stanley Fonseca</td>
       <td>...</td>           
     </tr>
-     <tr>
-      <th scope="row">13</th>
+     <tr>      
       <td>Arujá</td>
       <td>Vanessa Otska</td>   
       <td>...</td>      
     </tr>
-     <tr>
-      <th scope="row">14</th>
+     <tr>      
       <td>Teresina</td>
       <td>Clístenes Faria</td>
       <td>...</td>      
