@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deseja ser Piloto?
+title: Seja Município Piloto
 parent:  Deseja Contribuir?
 nav_order: 2
 has_children: false
