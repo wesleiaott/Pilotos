@@ -23,19 +23,17 @@ last_modified_date: "28/02/2023"
 <nav>
   <div class="nav nav-tabs" id="nav-tab" role="tablist">
     <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Home</a>
-    <a class="nav-item nav-link active" id="nav-planejamento-tab" data-toggle="tab" href="#nav-planejamento" role="tab" aria-controls="nav-planejamento" aria-selected="true">Planejamento</a>
+    <a class="nav-item nav-link" id="nav-planejamento-tab" data-toggle="tab" href="#nav-planejamento" role="tab" aria-controls="nav-planejamento" aria-selected="false">Planejamento</a>
     <a class="nav-item nav-link" id="nav-entrevistas-tab" data-toggle="tab" href="#nav-entrevistas" role="tab" aria-controls="nav-entrevistas" aria-selected="false">Entrevistas</a>
     <a class="nav-item nav-link" id="nav-prototipo-tab" data-toggle="tab" href="#nav-prototipo" role="tab" aria-controls="nav-prototipo" aria-selected="false">Protótipo</a>
     <a class="nav-item nav-link" id="nav-testealfa-tab" data-toggle="tab" href="#nav-testealfa" role="tab" aria-controls="nav-testealfa" aria-selected="false">Teste Alfa</a>
     <a class="nav-item nav-link" id="nav-homologacao-tab" data-toggle="tab" href="#nav-homologacao" role="tab" aria-controls="nav-homologacao" aria-selected="false">Homologação</a>    
   </div>
 </nav>
-<br>
 <br> 
 <div class="tab-content" id="nav-tabContent">
     <div class="tab-pane fade" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:
-<br>
 <br>
 
 ![](./media/01.jpg)
