@@ -43,9 +43,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Lídia Glasielle</td>
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>      
     </tr>
     <tr>      
@@ -53,9 +51,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Vanessa Otska</td>   
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>    
     </tr>
     <tr>      
@@ -63,9 +59,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Francisco Lira</td>
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>          
     </tr>
     <tr>      
@@ -73,9 +67,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Elton Ferreira</td> 
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>        
     </tr>
     <tr>      
@@ -83,9 +75,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Anderson Nobre</td>
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>           
       </td>            
     </tr>
     <tr>      
@@ -93,9 +83,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Sanay Pedrosa</td> 
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>        
     </tr>
     <tr>      
@@ -103,9 +91,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Walter Vieira</td>
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>            
     </tr>    
     <tr>      
@@ -113,9 +99,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Rodrigo Schauffert</td>
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>          
     </tr>
      <tr>      
@@ -123,9 +107,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Rita Oliveira</td>
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>           
     </tr>
      <tr>      
@@ -133,9 +115,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Karoline Rodrigues</td> 
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>           
     </tr>
      <tr>      
@@ -143,9 +123,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Stanley Fonseca</td>
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>           
     </tr>
      <tr>      
@@ -153,9 +131,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Átilas Lamberti</td> 
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>            
       </td>      
     </tr>
     <tr>      
@@ -163,9 +139,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>Cristhiane Duarte</td>
       <td>
             contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
-            contato@email.com.br<br>
+            contato@email.com.br<br>           
       </td>
     </tr>     
   </tbody>
