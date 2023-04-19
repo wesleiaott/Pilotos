@@ -34,7 +34,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
     <tr>      
       <th scope="col">Estados:</th>
       <th scope="col">Representantes Executivos:</th>
-      <th scope="col">Representantes Técnicos:</th>      
+      <th scope="col">Representantes Técnicos:</th>
+      <th scope="col">Termo de Cooperação:</th>      
     </tr>
   </thead>
   <tbody>
@@ -44,7 +45,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>      
+      </td>
+      <a href="#"><td>Documento rubricado</td></a>      
     </tr>
     <tr>      
       <td>Arujá - SP</td>
@@ -53,6 +55,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
             contato@email.com.br<br>
             contato@email.com.br<br>            
       </td>    
+      <a href="#"><td>Documento rubricado</td></a>
     </tr>
     <tr>      
       <td>Doutor Severiano - RN</td>
@@ -60,7 +63,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>          
+      </td>  
+      <a href="#"><td>Documento rubricado</td></a>        
     </tr>
     <tr>      
       <td>Juzeiro do Norte - CE</td>
@@ -68,7 +72,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>        
+      </td>    
+      <a href="#"><td>Documento rubricado</td></a>    
     </tr>
     <tr>      
       <td>Londrina - PR</td>
@@ -76,7 +81,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>           
-      </td>            
+      </td>  
+      <a href="#"><td>Documento rubricado</td></a>          
     </tr>
     <tr>      
       <td>Manaus - AM</td>
@@ -84,7 +90,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>        
+      </td>  
+      <a href="#"><td>Documento rubricado</td></a>      
     </tr>
     <tr>      
       <td>Medina - MG</td>
@@ -92,7 +99,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>            
+      </td>   
+      <a href="#"><td>Documento rubricado</td></a>         
     </tr>    
     <tr>      
       <td>Otacílio Costa - SC</td>
@@ -100,7 +108,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>          
+      </td> 
+      <a href="#"><td>Documento rubricado</td></a>         
     </tr>
      <tr>      
       <td>Pelotas - RS</td>
@@ -108,7 +117,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>           
+      </td>   
+      <a href="#"><td>Documento rubricado</td></a>        
     </tr>
      <tr>      
       <td>Teresina - PI</td>
@@ -116,7 +126,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>           
+      </td>  
+      <a href="#"><td>Documento rubricado</td></a>         
     </tr>
      <tr>      
       <td>Vila Velha - ES</td>
@@ -124,7 +135,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>           
+      </td>    
+      <a href="#"><td>Documento rubricado</td></a>       
     </tr>
      <tr>      
       <td>Espírito Santos - ES</td>
@@ -132,7 +144,8 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td>      
+      </td>    
+      <a href="#"><td>Documento rubricado</td></a>  
     </tr>
     <tr>      
       <td>Mato Grosso - MT</td>
@@ -141,6 +154,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
             contato@email.com.br<br>
             contato@email.com.br<br>           
       </td>
+      <a href="#"><td>Documento rubricado</td></a>
     </tr>     
   </tbody>
 </table>
