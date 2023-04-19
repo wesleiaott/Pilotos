@@ -17,7 +17,8 @@ last_modified_date: "28/02/2023"
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
 <h1> Etapas de Desenvolvimento e Contribuição dos Pilotos da Estratégia e-SUS APS: </h1>
-
+<br>
+<br>
 
 <nav>
   <div class="nav nav-tabs" id="nav-tab" role="tablist">
@@ -29,7 +30,8 @@ last_modified_date: "28/02/2023"
     <a class="nav-item nav-link" id="nav-homologacao-tab" data-toggle="tab" href="#nav-homologacao" role="tab" aria-controls="nav-homologacao" aria-selected="false">Homologação</a>    
   </div>
 </nav>
- 
+<br>
+<br> 
 <div class="tab-content" id="nav-tabContent">
     <div class="tab-pane fade" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:
