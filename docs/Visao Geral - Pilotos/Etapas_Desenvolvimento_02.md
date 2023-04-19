@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Etapas de Desenvolvimento
+title: Etapas Desenvolvimento
 parent:  Visão Geral - Pilotos
 nav_order: 2
 has_children: false
