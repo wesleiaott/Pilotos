@@ -41,67 +41,132 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
     <tr>      
       <td>Brasília - DF</td>
       <td>Lídia Glasielle</td>
-      <td>...</td>      
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>      
     </tr>
     <tr>      
       <td>Arujá - SP</td>
       <td>Vanessa Otska</td>   
-      <td>...</td>    
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>    
     </tr>
     <tr>      
       <td>Doutor Severiano - RN</td>
       <td>Francisco Lira</td>
-      <td>...</td>          
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>          
     </tr>
     <tr>      
       <td>Juzeiro do Norte - CE</td>
       <td>Elton Ferreira</td> 
-      <td>...</td>        
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>        
     </tr>
     <tr>      
       <td>Londrina - PR</td>
       <td>Anderson Nobre</td>
-      <td>...</td>            
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>            
     </tr>
     <tr>      
       <td>Manaus - AM</td>
       <td>Sanay Pedrosa</td> 
-      <td>...</td>        
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>        
     </tr>
     <tr>      
       <td>Medina - MG</td>
       <td>Walter Vieira</td>
-      <td>...</td>            
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>            
     </tr>    
     <tr>      
       <td>Otacílio Costa - SC</td>
       <td>Rodrigo Schauffert</td>
-      <td>...</td>          
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>          
     </tr>
      <tr>      
       <td>Pelotas - RS</td>
       <td>Rita Oliveira</td>
-      <td>...</td>           
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>           
     </tr>
      <tr>      
       <td>Teresina - PI</td>
       <td>Karoline Rodrigues</td> 
-      <td>...</td>           
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>           
     </tr>
      <tr>      
       <td>Vila Velha - ES</td>
       <td>Stanley Fonseca</td>
-      <td>...</td>           
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>           
     </tr>
      <tr>      
       <td>Espírito Santos - ES</td>
       <td>Átilas Lamberti</td> 
-      <td>...</td>      
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>      
     </tr>
     <tr>      
       <td>Mato Grosso - MT</td>
       <td>Cristhiane Duarte</td>
-      <td>...</td>
+      <td>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+            contato@email.com.br<br>
+      </td>
     </tr>     
   </tbody>
 </table>
