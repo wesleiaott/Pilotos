@@ -54,7 +54,7 @@ last_modified_date: "27/02/2023"
                     </td>           
                   </tr>
                 </tbody>
-              <table>          
+              </table>          
           <br>
           <p>Os Municípios Pilotos da Estraégia e-SUS APS, recebem suporte exclusivo do <b>Laboratório Bridge</b> e da <b>Secretarária de Atenção Primária à Saúde (SAPS)</b> e são assistidos por representantes do <b>Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS)</b> e integram grupos exclusivos de comunicação via WhatsApp, para celeridade dos diálogos e compartilhamento de informações úteis à Estratégia.</p>
     </tr>     
