@@ -30,8 +30,8 @@ last_modified_date: "28/02/2023"
   </div>
 </nav>
  
-  
-<div class="tab-pane fade" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+<div class="tab-content" id="nav-tabContent">
+    <div class="tab-pane fade" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
 Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:
 <br>
 <br>
@@ -209,4 +209,5 @@ O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construç�
 
 <div class="tab-pane fade" id="nav-homologacao" role="tabpanel" aria-labelledby="nav-homologacao-tab">
 Nesta fase, o software é disponibilizado aos municípios Pilotos que compõem a Estratégia e-SUS APS, para que testes possam ser realizados, erros identificados, oportunidades de melhoria possam ser implementadas e cargas de estresse possam ser executadas, para aferição da performance da aplicação; Uma vez aprovado, os Municípios Pilotos assinam Parecer Técnico, dando aval à liberação da versão em ambiente de produção e publicação da nova versão no sítio da APS;
+    </div>
 </div>
