@@ -17,7 +17,7 @@ last_modified_date: "27/02/2023"
 <table class="table table-striped">
   <thead class="thead-dark">
     <tr>
-      <th style ="text-align:center;" colspan="2">Visão Geral - Pilotos Estratégia e-SUS APS</th>            
+      <th style ="text-align:center;" scope="col" colspan="2">Visão Geral - Pilotos Estratégia e-SUS APS</th>            
     </tr>
   </thead>
 
@@ -28,7 +28,7 @@ last_modified_date: "27/02/2023"
           <p><b>Os Municípios Pilotos da Estratégia e-SUS APS</b>, é uma iniciativa que remonta a própria história do Prontuário Eletrônico do Cidadão (PEC) e tem por objetivo contribuir na maximização da qualidade dos produtos de software que são disponibilizados no Portal da APS e de forma controlada, realizar dois tipos principais de teste de software: <b>o Teste Alfa e o Teste de Homologação</b>. Cada qual com sua respectiva importância, auxiliam no processo de identificação da aderência da solução desenvolvida, diante da realidade dos municípios Brasil a fora, além de contribuirem no processo de identificação de erros, gargalos e oportunidades de melhoria, antes mesmo do sistema ser efetivamente disponiblizado a nível nacional.</p>
           <br>
           <p>Conforme indicação do CONASS e CONASEMS, 13 municípios compõem o rol de Municípios Pilotos da Estratégia e-SUS APS:</p>
-              <table>
+              <table class="table">
                 <tbody>
                   <tr>      
                     <td>
