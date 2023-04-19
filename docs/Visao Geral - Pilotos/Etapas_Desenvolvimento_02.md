@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fluxo Homologação
+title: Etapas de Desenvolvimento
 parent:  Visão Geral - Pilotos
 nav_order: 2
 has_children: false
@@ -10,7 +10,7 @@ last_modified_date: "28/02/2023"
 
 <link rel="stylesheet" type="text/css" href="../estilos.css">
 
-<h1> Fluxo de Homologação: </h1>
+<h1> Etapas de Desenvolvimento e Contribuição dos Pilotos da Estratégia e-SUS APS: </h1>
 
 
 Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:
