@@ -8,76 +8,31 @@ has_toc: true
 last_modified_date: "28/02/2023"
 ---
 
-<link rel="stylesheet" type="text/css" href="../estilos.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-
-<h1> Etapas de Desenvolvimento e Contribuição dos Pilotos da Estratégia e-SUS APS: </h1>
-<br>
-<br>
 <nav>
   <div class="nav nav-tabs" id="nav-tab" role="tablist">
     <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Home</a>
     <a class="nav-item nav-link" id="nav-planejamento-tab" data-toggle="tab" href="#nav-planejamento" role="tab" aria-controls="nav-planejamento" aria-selected="false">Planejamento</a>
-    <a class="nav-item nav-link" id="nav-entrevistas-tab" data-toggle="tab" href="#nav-entrevistas" role="tab" aria-controls="nav-entrevistas" aria-selected="false">Entrevistas</a>
-    <a class="nav-item nav-link" id="nav-prototipo-tab" data-toggle="tab" href="#nav-prototipo" role="tab" aria-controls="nav-prototipo" aria-selected="false">Protótipo</a>
-    <a class="nav-item nav-link" id="nav-testealfa-tab" data-toggle="tab" href="#nav-testealfa" role="tab" aria-controls="nav-testealfa" aria-selected="false">Teste Alfa</a>
-    <a class="nav-item nav-link" id="nav-homologacao-tab" data-toggle="tab" href="#nav-homologacao" role="tab" aria-controls="nav-homologacao" aria-selected="false">Homologação</a>    
+    <a class="nav-item nav-link" id="nav-entrevistas-tab" data-toggle="tab" href="#nav-entrevistas" role="tab" aria-controls="nav-entrevistas" aria-selected="false">PlanejamentoPlanejamento</a>
   </div>
 </nav>
-<br>
 
 <div class="tab-content" id="nav-tabContent">
-    <div class="tab-pane fade" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-        Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:
+  <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+    <h1> Etapas de Desenvolvimento e Contribuição dos Pilotos da Estratégia e-SUS APS: </h1>
     <br>
+    <br>
+    <p>Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:</p>
 
-    <img src="./media/01.jpg">    
+    <img src="./media/01.jpg">
 
-    **Principais atores envolvidos:**
 
-    1 - Secretaria de Atenção Primária à Saúde (SAPS); <br>
-    2 - Laboratório Bridge;<br>
-    3 - Municípios Pilotos da Estratégia e-SUS APS;<br>
-    4 - Profissionais de saúde do município;<br>
-    5 - CONASS;<br>
-    6 - CONASEMS.<br>
-
-    **Descrição das principais etapas:**
-
-    Uma vez identificado as necessidades pela área demandante (Ministério da Saúde, Municípios Pilotos, Conass, Conasems, Órgãos de Controle, Canal de Suporte, etc ), o recurso ou funcionalidade é discutido internamente pelas áreas técnicas e negociais do Ministério da Saúde e Parceiros da Estratégia (Pilotos, CONASS, CONASEMS), para posterior submissão da proposta à Equipe do Laboratório Bridge para construção técnica da solução de software que atenderá as necessidades, conforme a proposição apresentada.
-
-    <b>Abaixo, segue o descritivo das principais etapas, após identificação da necessidade:</b>
-
-    1- **Pactuação:** Na fase de pactuação, são identificadas necessidades e oportunidades de melhoria na evolução dos aplicativos da Estratégia e-SUS APS. Tais evoluções são criadas a partir de diversas fontes de entrada, dentre elas: Canal de Sugestões, Suporte, CONASS, CONASEMS, Municípios Pilotos, requisições externas/internas ao Ministério da Saúde, etc;
-
-    2- **Elaboração do TED:** Uma vez definido o escopo, tal necessidade é corroborada por meio de um Termo de Execução Descentralizada (TED), que nada mais é do que uma pactuação firmada entre o Ministério da Saúde e a Universidade Federal de Santa Catarina (UFSC), à prestação do serviço de desenvolvimento de software;
-
-    3- **Desenvolvimento:** Uma vez firmado o TED, a próxima etapa refere-se ao desenvolvimento da solução de software que atenda a necessidade delimitada; Esta fase é compreendida por duas etapas e diversas subfases, conforme pode ser visto abaixo:
-		<br>
-		<br>
-        a. **Discovery:** nesta fase, profissionais de saúde dos Municípios Pilotos são entrevistados (briefing), requisitos e necessidades são levantados e discutidos internamente, para a definição, ideação, prototipação e validação de ideias necessárias à construção do software. Em seguida, teremos a validação dos protótipos para aferição do que será construído, o esforço a ser empregado e o tempo necessário para o desenvolvimento;
-		<br>
-		<br>
-        b. **Entrega:** Nesta fase, realizam-se ajustes de implementação e refinamento do produto a ser entregue, bem como apresentação do protótipo final e realização do **Teste Alfa** pelos Municípios Pilotos da Estratégia e-SUS APS; após realização dos testes, caso não haja qualquer embargo ou rejeição à liberação do software, a próxima etapa refere-se a liberação da versão no ambiente de homologação para continuidade dos testes.
-		<br>
-
-    5- **Liberação em Homologação:** Nesta fase, o software é disponibilizado aos municípios Pilotos que compõem a Estratégia e-SUS APS, para que testes possam ser realizados, erros identificados, oportunidades de melhoria possam ser implementadas e cargas de estresse possam ser executadas, para aferição da performance da aplicação; Uma vez aprovado, os Municípios Pilotos assinam **Parecer Técnico**, dando aval à liberação da versão em ambiente de produção e publicação da nova versão no sítio da APS;
-
-    6- **Liberação no Portal da APS:** Recebido aval para liberação, a versão é disponibilizada no Sítio da APS, para que o e-SUS possa ser utilizado em escala nacional, conforme link: https://sisaps.saude.gov.br/esus/
-		<br>
-		<br>
-		![](./media/06.png)
-</div>
-	<div class="tab-pane fade" id="nav-planejamento" role="tabpanel" aria-labelledby="nav-planejamento-tab">Planejamento</div>
-	<div class="tab-pane fade" id="nav-entrevistas" role="tabpanel" aria-labelledby="nav-entrevistas-tab">Entrevistas</div>
-	<div class="tab-pane fade" id="nav-prototipo" role="tabpanel" aria-labelledby="nav-prototipo-tab">Protótipo</div>
-	<div class="tab-pane fade" id="nav-testealfa" role="tabpanel" aria-labelledby="nav-testealfa-tab">Teste Alfa</div>
-	<div class="tab-pane fade" id="nav-homologacao" role="tabpanel" aria-labelledby="nav-homologacao-tab">Homologação</div>
-
-	
+  </div>
+  <div class="tab-pane fade" id="nav-planejamento" role="tabpanel" aria-labelledby="nav-planejamento-tab">Planejamento</div>
+  <div class="tab-pane fade" id="nav-entrevistas" role="tabpanel" aria-labelledby="nav-entrevistas-tab">Planejamento</div>
 </div>
