@@ -60,7 +60,8 @@ last_modified_date: "01/03/2023"
       <div class="carousel-item">
         <img class="d-block w-100" src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Apoio%20a%20Implantacao/media/pec_descentralizado_02.PNG" alt="Segundo Slide">
       </div>    
-    </div>
+  </div>
+
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="sr-only">Anterior</span>
@@ -69,6 +70,7 @@ last_modified_date: "01/03/2023"
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Próximo</span>
     </a>
+    
   </div>
       <li>Arquitetura Centralizada:</li>
       <br>
