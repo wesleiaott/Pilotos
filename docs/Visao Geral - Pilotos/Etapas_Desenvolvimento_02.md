@@ -33,10 +33,10 @@ last_modified_date: "28/02/2023"
 
 <div class="tab-content" id="nav-tabContent">
     <div class="tab-pane fade" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-    Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:
+        Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:
     <br>
 
-    ![](./media/01.jpg)
+    <img src="./media/01.jpg">    
 
     **Principais atores envolvidos:**
 
@@ -72,14 +72,12 @@ last_modified_date: "28/02/2023"
 		<br>
 		<br>
 		![](./media/06.png)
-
-
-
+</div>
 	<div class="tab-pane fade" id="nav-planejamento" role="tabpanel" aria-labelledby="nav-planejamento-tab">Planejamento</div>
 	<div class="tab-pane fade" id="nav-entrevistas" role="tabpanel" aria-labelledby="nav-entrevistas-tab">Entrevistas</div>
 	<div class="tab-pane fade" id="nav-prototipo" role="tabpanel" aria-labelledby="nav-prototipo-tab">Protótipo</div>
 	<div class="tab-pane fade" id="nav-testealfa" role="tabpanel" aria-labelledby="nav-testealfa-tab">Teste Alfa</div>
 	<div class="tab-pane fade" id="nav-homologacao" role="tabpanel" aria-labelledby="nav-homologacao-tab">Homologação</div>
 
-	</div>
+	
 </div>
