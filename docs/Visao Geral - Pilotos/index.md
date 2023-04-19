@@ -22,8 +22,7 @@ last_modified_date: "27/02/2023"
   </thead>
 
   <tbody>       
-     <tr>      
-      <td>
+     <tr> 
           <h3>Contextualização:</h3>
           <br>
           <p><b>Os Municípios Pilotos da Estratégia e-SUS APS</b>, é uma iniciativa que remonta a própria história do Prontuário Eletrônico do Cidadão (PEC) e tem por objetivo contribuir na maximização da qualidade dos produtos de software que são disponibilizados no Portal da APS e de forma controlada, realizar dois tipos principais de teste de software: <b>o Teste Alfa e o Teste de Homologação</b>. Cada qual com sua respectiva importância, auxiliam no processo de identificação da aderência da solução desenvolvida, diante da realidade dos municípios Brasil a fora, além de contribuirem no processo de identificação de erros, gargalos e oportunidades de melhoria, antes mesmo do sistema ser efetivamente disponiblizado a nível nacional.
@@ -40,24 +39,25 @@ last_modified_date: "27/02/2023"
                         <li>Juzeiro do Norte - CE</li>
                         <li>Londrina - PR	</li>
                         <li>Manaus - AM</li>
-                        <li>Medina - MG	</li>                    
+                        <li>Medina - MG	</li>   
+                    </ol>                 
                     </td>
                     <td>
+                      <ol start="8">
                         <li>Otacílio Costa - SC</li>
                         <li>Pelotas - RS	</li>
                         <li>Teresina - PI	</li>
                         <li>Vila Velha - ES	</li>
                         <li>Espírito Santos - ES	</li>
                         <li>Mato Grosso - MT	</li>                  
-                    </ol>
+                      </ol>
                     </td>           
                   </tr>
                 <tbody>
               <table>
           </p>
           <br>
-          <p>Os Municípios Pilotos da Estraégia e-SUS APS, recebem suporte exclusivo do <b>Laboratório Bridge</b> e da <b>Secretarária de Atenção Primária à Saúde (SAPS)</b> e são assistidos por representantes do <b>Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS)</b> e integram grupos exclusivos de comunicação via WhatsApp, para celeridade dos diálogos e compartilhamento de informações úteis à Estratégia.</p>          
-      </td>            
+          <p>Os Municípios Pilotos da Estraégia e-SUS APS, recebem suporte exclusivo do <b>Laboratório Bridge</b> e da <b>Secretarária de Atenção Primária à Saúde (SAPS)</b> e são assistidos por representantes do <b>Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS)</b> e integram grupos exclusivos de comunicação via WhatsApp, para celeridade dos diálogos e compartilhamento de informações úteis à Estratégia.</p>
     </tr>     
   </tbody>
 </table>
