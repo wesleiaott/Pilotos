@@ -144,8 +144,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>            
-      </td> 
-      <td><a href="#">Assinatura do Município</a></td>           
+      </td>       
     </tr>
     <tr>      
       <td>Mato Grosso - MT</td>
@@ -153,8 +152,7 @@ Considerando resolução CIT nº 06/2013, que versa sobre a homologação tripar
       <td>
             contato@email.com.br<br>
             contato@email.com.br<br>           
-      </td>
-      <td><a href="#">Assinatura do Município</a></td>      
+      </td>      
     </tr>     
   </tbody>
 </table>
