@@ -93,7 +93,39 @@ last_modified_date: "28/02/2023"
 
   </div>
 
-  <div class="tab-pane fade" id="nav-planejamento" role="tabpanel" aria-labelledby="nav-planejamento-tab">Planejamento</div>
+  <div class="tab-pane fade" id="nav-planejamento" role="tabpanel" aria-labelledby="nav-planejamento-tab">
+    <h3>PLANEJAMENTO DO MÊS:<h3>
+
+    Apresentação do planejamento do mês:
+    <br>
+      <b>Demandas na fase de Briefing/Imersão:</b>
+    <ul>
+        <li>Apresentar demandas nessa fase</li>
+        <li>Apresentar cronograma de entrevistas</li>
+        <li>Solicitar aos pilotos a indicação dos profissionais de saúde (estabelecer 2 dias para envio);</li>
+    </ul>
+      <b>Demandas na fase de Refinamento/Apresentação do protótipo final:</b>
+    <ul>
+        <li>Apresentar demandas nessa fase</li>
+        <li>Informar a data da reunião de refinamento;</li>
+    </ul>
+      <b>Demandas na fase de avaliação de release/Teste alfa:</b>
+    <ul>  
+        <li>Apresentar demandas nessa fase</li>
+        <li>Informar a data de liberação da versão alfa</li>
+        <li>Informar a data limite para retorno do formulário preenchido</li>
+    </ul>
+
+      <b>Demandas na fase de Homologação:</b>
+    <ul>
+      <li>Apresentar demandas nessa fase</li>
+      <li>Informar a data de liberação da versão para teste</li>
+      <li>Informar a data limite para retorno do parecer de homologação</li>
+    </ul>
+  </div>
+  
+  
+  
   <div class="tab-pane fade" id="nav-entrevistas" role="tabpanel" aria-labelledby="nav-entrevistas-tab">Entrevistas</div>
   <div class="tab-pane fade" id="nav-prototipo" role="tabpanel" aria-labelledby="nav-prototipo-tab">Protótipo</div>
   <div class="tab-pane fade" id="nav-testealfa" role="tabpanel" aria-labelledby="nav-testealfa-tab">Teste Alfa</div>
