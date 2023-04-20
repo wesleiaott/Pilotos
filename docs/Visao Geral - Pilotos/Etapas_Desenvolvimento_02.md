@@ -137,7 +137,17 @@ last_modified_date: "28/02/2023"
       Fonte: Metodologia b_thinking/Laboratório Bridge/UFSC</p>
   </div>  
   
-  <div class="tab-pane fade" id="nav-prototipo" role="tabpanel" aria-labelledby="nav-prototipo-tab">Protótipo</div>
+  <div class="tab-pane fade" id="nav-prototipo" role="tabpanel" aria-labelledby="nav-prototipo-tab">
+    <h3>Objetivo:</h3>
+    <br>
+    <p>Mensalmente, ocorrerá reunião com os municípios pilotos para apresentação e discussão sobre as demandas em fase de protótipo final. Os achados da discussão darão insumos para alterações no protótipo e continuidade no desenvolvimento da funcionalidade.</p>
+  </div>
+
   <div class="tab-pane fade" id="nav-testealfa" role="tabpanel" aria-labelledby="nav-testealfa-tab">Teste Alfa</div>
-  <div class="tab-pane fade" id="nav-homologacao" role="tabpanel" aria-labelledby="nav-homologacao-tab">Homologação</div>
+  
+  <div class="tab-pane fade" id="nav-homologacao" role="tabpanel" aria-labelledby="nav-homologacao-tab">
+    <h3>Objetivo:</h3>
+    <br>
+    <p>Nesta fase, o software é disponibilizado aos municípios Pilotos que compõem a Estratégia e-SUS APS, para que testes possam ser realizados, erros identificados, oportunidades de melhoria possam ser implementadas e cargas de estresse possam ser executadas, para aferição da performance da aplicação; Uma vez aprovado, os Municípios Pilotos assinam Parecer Técnico, dando aval à liberação da versão em ambiente de produção e publicação da nova versão no sítio da APS.</p>
+  </div>
 </div>
