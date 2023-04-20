@@ -31,9 +31,9 @@ last_modified_date: "28/02/2023"
     <br>
     <br>
     <p>Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o     descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:</p>
-    <br>
-    <br>    
+    <br>      
     <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/01.jpg">  
+  <br>
   <br>
 
  <b>Principais atores envolvidos:</b>
