@@ -122,11 +122,19 @@ last_modified_date: "28/02/2023"
       <li>Informar a data de liberação da versão para teste</li>
       <li>Informar a data limite para retorno do parecer de homologação</li>
     </ul>
-  </div>
+  </div>  
   
+  <div class="tab-pane fade" id="nav-entrevistas" role="tabpanel" aria-labelledby="nav-entrevistas-tab">
+    <h3>Objetivo:</h3>
+      <br>
+      <p>Identificar informações relevantes para compreensão de problemas e dos usuários. É uma ferramenta de coleta de dados qualitativa e atitudinal, que permite obter dados válidos relevantes para a nossa pesquisa, seja para fazer descobertas ou validar informações que já possuímos.
+      <br>
+      É uma conversa entre duas ou mais pessoas, com um propósito definido que pode ser conduzida de forma estruturada (com um questionário) ou semi-estruturada (incluindo perguntas pré-definidas e que vão surgindo ao longo da conversa).
+      <br>
+      Os municípios pilotos deverão indicar os profissionais a serem entrevistas de acordo com a funcionalidade que será desenvolvida.
+      Fonte: Metodologia b_thinking/Laboratório Bridge/UFSC</p>
+  </div>  
   
-  
-  <div class="tab-pane fade" id="nav-entrevistas" role="tabpanel" aria-labelledby="nav-entrevistas-tab">Entrevistas</div>
   <div class="tab-pane fade" id="nav-prototipo" role="tabpanel" aria-labelledby="nav-prototipo-tab">Protótipo</div>
   <div class="tab-pane fade" id="nav-testealfa" role="tabpanel" aria-labelledby="nav-testealfa-tab">Teste Alfa</div>
   <div class="tab-pane fade" id="nav-homologacao" role="tabpanel" aria-labelledby="nav-homologacao-tab">Homologação</div>
