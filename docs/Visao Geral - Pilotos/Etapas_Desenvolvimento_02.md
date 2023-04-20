@@ -94,14 +94,15 @@ last_modified_date: "28/02/2023"
   </div>
 
   <div class="tab-pane fade" id="nav-planejamento" role="tabpanel" aria-labelledby="nav-planejamento-tab">
-    <h3>PLANEJAMENTO DO MÊS:<h3>
+    <h3>PLANEJAMENTO DO MÊS:</h3>
 
-    Apresentação do planejamento do mês:
+    <b>Apresentação do planejamento do mês:</b>
+    <br>
     <br>
       <b>Demandas na fase de Briefing/Imersão:</b>
     <ul>
-        <li>Apresentar demandas nessa fase</li>
-        <li>Apresentar cronograma de entrevistas</li>
+        <li>Apresentar demandas nessa fase;</li>
+        <li>Apresentar cronograma de entrevistas;</li>
         <li>Solicitar aos pilotos a indicação dos profissionais de saúde (estabelecer 2 dias para envio);</li>
     </ul>
       <b>Demandas na fase de Refinamento/Apresentação do protótipo final:</b>
@@ -111,11 +112,10 @@ last_modified_date: "28/02/2023"
     </ul>
       <b>Demandas na fase de avaliação de release/Teste alfa:</b>
     <ul>  
-        <li>Apresentar demandas nessa fase</li>
-        <li>Informar a data de liberação da versão alfa</li>
-        <li>Informar a data limite para retorno do formulário preenchido</li>
+        <li>Apresentar demandas nessa fase;</li>
+        <li>Informar a data de liberação da versão alfa;</li>
+        <li>Informar a data limite para retorno do formulário preenchido.</li>
     </ul>
-
       <b>Demandas na fase de Homologação:</b>
     <ul>
       <li>Apresentar demandas nessa fase</li>
