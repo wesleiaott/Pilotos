@@ -30,55 +30,70 @@ last_modified_date: "28/02/2023"
     <h1> Etapas de Desenvolvimento e Contribuição dos Pilotos da Estratégia e-SUS APS: </h1>
     <br>
     <br>
-    <p>Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o     descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:</p>
+    <p>Objetivando maximizar a compreensão sobre os processos que norteiam o processo de homologação das versões da Estratégia e-SUS APS, destacamos abaixo, o mapeamento dos processos com o     descritivo das principais etapas de homologação do Prontuário Eletrônico do Cidadão (PEC) e aplicativos, conforme segue abaixo:</p><br>
 
     <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/01.jpg">
 
   
   <br>
 
-  **Principais atores envolvidos:**
+ <b>Principais atores envolvidos:</b>
 
-    1 - Secretaria de Atenção Primária à Saúde (SAPS); <br>
-    2 - Laboratório Bridge;<br>
-    3 - Municípios Pilotos da Estratégia e-SUS APS;<br>
-    4 - Profissionais de saúde do município;<br>
-    5 - CONASS;<br>
-    6 - CONASEMS.<br>
-
-**Descrição das principais etapas:**
+  1 - Secretaria de Atenção Primária à Saúde (SAPS); <br>
+  2 - Laboratório Bridge;<br>
+  3 - Municípios Pilotos da Estratégia e-SUS APS;<br>
+  4 - Profissionais de saúde do município;<br>
+  5 - CONASS;<br>
+  6 - CONASEMS.
+  <br>
   <br>
 
-  <p>Uma vez identificado as necessidades pela área demandante (Ministério da Saúde, Municípios Pilotos, Conass, Conasems, Órgãos de Controle, Canal de Suporte, etc ), o recurso ou funcionalidade é discutido internamente pelas áreas técnicas e negociais do Ministério da Saúde e Parceiros da Estratégia (Pilotos, CONASS, CONASEMS), para posterior submissão da proposta à Equipe do Laboratório Bridge para construção técnica da solução de software que atenderá as necessidades, conforme a proposição apresentada.</p>
+  <b>Descrição das principais etapas:</b>
+  <br>
+  <br>
 
-  <b>Abaixo, segue o descritivo das principais etapas, após identificação da necessidade:</b><br>
+  <p>Uma vez identificado as necessidades pela área demandante (Ministério da Saúde, Municípios Pilotos, Conass, Conasems, Órgãos de Controle, Canal de Suporte, etc ), o recurso ou funcionalidade é discutido internamente pelas áreas técnicas e negociais do Ministério da Saúde e Parceiros da Estratégia (Pilotos, CONASS, CONASEMS), para posterior submissão da proposta à Equipe do Laboratório Bridge para construção técnica da solução de software que atenderá as necessidades, conforme a proposição apresentada.</p><br>
+
+  <b>Abaixo, segue o descritivo das principais etapas, após identificação da necessidade:</b>
+  <br>
+  <br>
   
-  1- **Pactuação:** Na fase de pactuação, são identificadas necessidades e oportunidades de melhoria na evolução dos aplicativos da Estratégia e-SUS APS. Tais evoluções são criadas a partir de diversas fontes de entrada, dentre elas: Canal de Sugestões, Suporte, CONASS, CONASEMS, Municípios Pilotos, requisições externas/internas ao Ministério da Saúde, etc;<br>
+  1- <b>Pactuação:</b> Na fase de pactuação, são identificadas necessidades e oportunidades de melhoria na evolução dos aplicativos da Estratégia e-SUS APS. Tais evoluções são criadas a partir de diversas fontes de entrada, dentre elas: Canal de Sugestões, Suporte, CONASS, CONASEMS, Municípios Pilotos, requisições externas/internas ao Ministério da Saúde, etc;
+  <br>
+  <br>
 
-  2- **Elaboração do TED:** Uma vez definido o escopo, tal necessidade é corroborada por meio de um Termo de Execução Descentralizada (TED), que nada mais é do que uma pactuação firmada entre o Ministério da Saúde e a Universidade Federal de Santa Catarina (UFSC), à prestação do serviço de desenvolvimento de software;<br>
+  2- <b>Elaboração do TED:</b> Uma vez definido o escopo, tal necessidade é corroborada por meio de um Termo de Execução Descentralizada (TED), que nada mais é do que uma pactuação firmada entre o Ministério da Saúde e a Universidade Federal de Santa Catarina (UFSC), à prestação do serviço de desenvolvimento de software;
+  <br>
+  <br>
 
-  3- **Desenvolvimento:** Uma vez firmado o TED, a próxima etapa refere-se ao desenvolvimento da solução de software que atenda a necessidade delimitada; Esta fase é compreendida por duas etapas e diversas subfases, conforme pode ser visto abaixo:<br>
+  3- <b>Desenvolvimento:</b> Uma vez firmado o TED, a próxima etapa refere-se ao desenvolvimento da solução de software que atenda a necessidade delimitada; Esta fase é compreendida por duas etapas e diversas subfases, conforme pode ser visto abaixo:
+  <br>
+  <br>
+
+  a. <b>Discovery:</b> nesta fase, profissionais de saúde dos Municípios Pilotos são entrevistados (briefing), requisitos e necessidades são levantados e discutidos internamente, para a definição, ideação, prototipação e validação de ideias necessárias à construção do software. Em seguida, teremos a validação dos protótipos para aferição do que será construído, o esforço a ser empregado e o tempo necessário para o desenvolvimento;
+  <br>
+  <br>
+
+  b. <b>Entrega:</b> Nesta fase, realizam-se ajustes de implementação e refinamento do produto a ser entregue, bem como apresentação do protótipo final e realização do **Teste Alfa** pelos Municípios Pilotos da Estratégia e-SUS APS; após realização dos testes, caso não haja qualquer embargo ou rejeição à liberação do software, a próxima etapa refere-se a liberação da versão no ambiente de homologação para continuidade dos testes.
+  <br>
+  <br>
 
 
-  a. **Discovery:** nesta fase, profissionais de saúde dos Municípios Pilotos são entrevistados (briefing), requisitos e necessidades são levantados e discutidos internamente, para a definição, ideação, prototipação e validação de ideias necessárias à construção do software. Em seguida, teremos a validação dos protótipos para aferição do que será construído, o esforço a ser empregado e o tempo necessário para o desenvolvimento;<br>
+  5- <b>Liberação em Homologação:</b> Nesta fase, o software é disponibilizado aos municípios Pilotos que compõem a Estratégia e-SUS APS, para que testes possam ser realizados, erros identificados, oportunidades de melhoria possam ser implementadas e cargas de estresse possam ser executadas, para aferição da performance da aplicação; Uma vez aprovado, os Municípios Pilotos assinam **Parecer Técnico**, dando aval à liberação da versão em ambiente de produção e publicação da nova versão no sítio da APS;
+  <br>
+  <br>
 
-  b. **Entrega:** Nesta fase, realizam-se ajustes de implementação e refinamento do produto a ser entregue, bem como apresentação do protótipo final e realização do **Teste Alfa** pelos Municípios Pilotos da Estratégia e-SUS APS; após realização dos testes, caso não haja qualquer embargo ou rejeição à liberação do software, a próxima etapa refere-se a liberação da versão no ambiente de homologação para continuidade dos testes.<br>
-
-
-  5- **Liberação em Homologação:** Nesta fase, o software é disponibilizado aos municípios Pilotos que compõem a Estratégia e-SUS APS, para que testes possam ser realizados, erros identificados, oportunidades de melhoria possam ser implementadas e cargas de estresse possam ser executadas, para aferição da performance da aplicação; Uma vez aprovado, os Municípios Pilotos assinam **Parecer Técnico**, dando aval à liberação da versão em ambiente de produção e publicação da nova versão no sítio da APS;<br>
-
-  6- **Liberação no Portal da APS:** Recebido aval para liberação, a versão é disponibilizada no Sítio da APS, para que o e-SUS possa ser utilizado em escala nacional, conforme link: https://sisaps.saude.gov.br/esus/<br>
+  6- <b>Liberação no Portal da APS:</b> Recebido aval para liberação, a versão é disponibilizada no Sítio da APS, para que o e-SUS possa ser utilizado em escala nacional, conforme link: https://sisaps.saude.gov.br/esus/
+  <br>
+  <br>
 
   <img src="https://raw.githubusercontent.com/CGIAP-SAPS/Pilotos/main/docs/Visao%20Geral%20-%20Pilotos/media/06.png">
-
 
   <br>
 	<br>
 
-
-
-
   </div>
+
   <div class="tab-pane fade" id="nav-planejamento" role="tabpanel" aria-labelledby="nav-planejamento-tab">Planejamento</div>
   <div class="tab-pane fade" id="nav-entrevistas" role="tabpanel" aria-labelledby="nav-entrevistas-tab">Planejamento</div>
 </div>
