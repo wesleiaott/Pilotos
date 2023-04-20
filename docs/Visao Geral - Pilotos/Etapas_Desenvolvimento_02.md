@@ -95,5 +95,8 @@ last_modified_date: "28/02/2023"
   </div>
 
   <div class="tab-pane fade" id="nav-planejamento" role="tabpanel" aria-labelledby="nav-planejamento-tab">Planejamento</div>
-  <div class="tab-pane fade" id="nav-entrevistas" role="tabpanel" aria-labelledby="nav-entrevistas-tab">Planejamento</div>
+  <div class="tab-pane fade" id="nav-entrevistas" role="tabpanel" aria-labelledby="nav-entrevistas-tab">Entrevistas</div>
+  <div class="tab-pane fade" id="nav-prototipo" role="tabpanel" aria-labelledby="nav-prototipo-tab">Protótipo</div>
+  <div class="tab-pane fade" id="nav-testealfa" role="tabpanel" aria-labelledby="nav-testealfa-tab">Teste Alfa</div>
+  <div class="tab-pane fade" id="nav-homologacao" role="tabpanel" aria-labelledby="nav-homologacao-tab">Homologação</div>
 </div>
