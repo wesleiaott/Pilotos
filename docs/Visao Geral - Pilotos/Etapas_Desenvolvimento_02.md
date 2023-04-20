@@ -95,7 +95,7 @@ last_modified_date: "28/02/2023"
 
   <div class="tab-pane fade" id="nav-planejamento" role="tabpanel" aria-labelledby="nav-planejamento-tab">
     <h3>PLANEJAMENTO DO MÊS:</h3>
-
+    <br>
     <b>Apresentação do planejamento do mês:</b>
     <br>
     <br>
