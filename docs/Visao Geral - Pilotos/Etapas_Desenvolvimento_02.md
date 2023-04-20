@@ -37,7 +37,8 @@ last_modified_date: "28/02/2023"
   <br>
 
  <b>Principais atores envolvidos:</b>
-
+  <br>
+  <br>
   1 - Secretaria de Atenção Primária à Saúde (SAPS); <br>
   2 - Laboratório Bridge;<br>
   3 - Municípios Pilotos da Estratégia e-SUS APS;<br>
