@@ -236,6 +236,8 @@ O cidadão M. A., 56 anos, sexo masculino, negro, casado, trabalha na construç�
     <p>Nesta fase, o software é disponibilizado aos municípios Pilotos que compõem a Estratégia e-SUS APS, para que testes possam ser realizados, erros identificados, oportunidades de melhoria possam ser implementadas e cargas de estresse possam ser executadas, para aferição da performance da aplicação; Uma vez aprovado, os Municípios Pilotos assinam Parecer Técnico, dando aval à liberação da versão em ambiente de produção e publicação da nova versão no sítio da APS.</p>
     <br>
     <br>
+      <b>Modelo de Parecer Técnico:</b>
+    <br>
       <iframe src="https://cgiap-saps.github.io/Pilotos/parecer.pdf" width="890px" height="900px"></iframe>
     <br>
     <br>
