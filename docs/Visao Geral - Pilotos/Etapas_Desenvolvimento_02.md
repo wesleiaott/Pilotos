@@ -129,7 +129,9 @@ last_modified_date: "28/02/2023"
       <br>
       <p>Identificar informações relevantes para compreensão de problemas e dos usuários. É uma ferramenta de coleta de dados qualitativa e atitudinal, que permite obter dados válidos relevantes para a nossa pesquisa, seja para fazer descobertas ou validar informações que já possuímos.
       <br>
+      <br>
       É uma conversa entre duas ou mais pessoas, com um propósito definido que pode ser conduzida de forma estruturada (com um questionário) ou semi-estruturada (incluindo perguntas pré-definidas e que vão surgindo ao longo da conversa).
+      <br>
       <br>
       Os municípios pilotos deverão indicar os profissionais a serem entrevistas de acordo com a funcionalidade que será desenvolvida.
       Fonte: Metodologia b_thinking/Laboratório Bridge/UFSC</p>
